@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "title": "Balcóns de Madrid",
+    "description": "Guía completa de Balcóns de Madrid en Parada de Sil. Información sobre este mirador turístico, su ubicación, horarios y consejos de viaje."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Balcóns de Madrid",
+    "subtitle": "Mirador · Parada de Sil",
+    "rating": "4.6",
+    "reviewCount": "6,402 reseñas",
+    "type": "Mirador",
+    "openMaps": "Ver en Google Maps"
+  },
+  "intro": {
+    "title": "Descubre Balcóns de Madrid",
+    "description": "Los Balcóns de Madrid son uno de los miradores más espectaculares de la Ribeira Sacra, situados en Parada de Sil, Ourense. Ofrecen vistas panorámicas impresionantes sobre los cañones fluviales del Sil, siendo un punto de referencia para naturaleza, senderismo y turismo panorámico en Galicia.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "El acceso es gratuito y se puede visitar durante todo el año.",
+        "Ideal para fotografía de paisaje y naturaleza.",
+        "Se recomienda llevar calzado cómodo si se combina con rutas de senderismo.",
+        "Es un lugar excelente para disfrutar del silencio y la naturaleza."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Vistas al cañón del Río Sil",
+        "Paisajes de la Ribeira Sacra",
+        "Mirador panorámico",
+        "Entorno natural privilegiado"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre Balcóns de Madrid",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Contexto Histórico",
+        "content": "Los Balcóns de Madrid se encuentran en la zona de la Ribeira Sacra, una región con profunda heredad histórica y cultural. Este mirador debe su nombre a la similitud de sus vistas panorámicas con las de la capital española, y se ha convertido en uno de los puntos más visitados de Parada de Sil."
+      },
+      {
+        "id": "layout",
+        "title": "Geografía y Entorno",
+        "content": "Situado en un promontorio natural, el mirador ofrece una de las mejores vistas sobre los meandros del Río Sil. La orografía de la zona, con fuertes desniveles y vegetación autóctona, crea un paisaje único en Galicia."
+      },
+      {
+        "id": "culture",
+        "title": "Significado Cultural",
+        "content": "La Ribeira Sacra, donde se enclava este mirador, es conocida por su patrimonio monástico, sus viñedos en terraza y sus paisajes fluviales. Los Balcóns de Madrid forman parte de la identidad turística de Parada de Sil y de toda la comarca."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecología y Flora",
+        "content": "El entorno del mirador cuenta con una vegetación típica de la zona mediterránea y atlántica, con bosques de ribera, matorral y una biodiversidad importante, siendo un hábitat idóneo para diversas especies de aves."
+      },
+      {
+        "id": "facilities",
+        "title": "Instalaciones y Servicios",
+        "content": "El mirador cuenta con áreas de aparcamiento cercanas, paneles explicativos y está integrado en la red de miradores y rutas de la Ribeira Sacra. En los alrededores se pueden encontrar servicios turísticos básicos y opciones de restauración."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Balcóns de Madrid",
+    "type": "Tipo de Atracción",
+    "typeValue": "Mirador",
+    "country": "País",
+    "countryValue": "España",
+    "city": "Localidad",
+    "cityValue": "Parada de Sil, Ourense",
+    "googleRating": "Valoración Google",
+    "googleRatingValue": "4.6 (6,402)",
+    "address": "Dirección",
+    "addressValue": "32740 Parada de Sil, Province of Ourense, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "9CRM+CX Parada de Sil, Spain"
+  },
+  "hours": {
+    "title": "Horarios de Visita",
+    "park": "Acceso al Mirador",
+    "parkTime": "Abierto todo el año (24 horas)",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeSpring": "Primavera: Floración y paisajes verdes",
+    "bestTimeSummer": "Verano: Días soleados, ideal para fotos panorámicas",
+    "bestTimeAutumn": "Otoño: Colores rojizos y dorados en el paisaje",
+    "bestTimeWinter": "Invierno: Paisajes brumosos y atmósfera mística",
+    "tip": "El mirador es accesible las 24 horas del día, aunque se recomienda visitarlo en horario diurno para apreciar las vistas."
+  },
+  "tickets": {
+    "title": "Información de Acceso",
+    "park": "Visita al Mirador",
+    "parkPrice": "Entrada gratuita",
+    "parking": "Aparcamiento",
+    "parkingPrice": "Aparcamiento disponible cerca (gratuito)",
+    "guided": "Visitas Guiadas",
+    "guidedPrice": "Autoguiado / Visitas organizadas disponibles"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "fromCenter": "Desde Ourense",
+    "fromCenterDesc": "En coche, se tarda aproximadamente 1 hora y 15 minutos en llegar a Parada de Sil.",
+    "fromStation": "Desde la Estación de Autobuses",
+    "fromStationDesc": "Se puede llegar en autobús de línea hasta Parada de Sil y luego caminar o tomar un taxi local.",
+    "fromAirport": "Desde el Aeropuerto",
+    "fromAirportDesc": "El aeropuerto más cercano es el de Peinador (Vigo) o el de Santiago, a unos 1h 30min - 2h en coche.",
+    "publicTransport": "Transporte Público",
+    "publicTransportDesc": "Conexiones en autobús desde Ourense capital hasta Parada de Sil.",
+    "walking": "A Pie",
+    "walkingDesc": "Una vez en Parada de Sil, el mirador es accesible a pie o en coche desde el centro del pueblo.",
+    "driving": "En Coches",
+    "drivingDesc": "Se recomienda coche propio para acceder cómodamente hasta el área de aparcamiento del mirador."
+  },
+  "route": {
+    "title": "Ruta Recomendada",
+    "overview": "Disfruta de una experiencia panorámica y senderista por la Ribeira Sacra.",
+    "steps": [
+      "Llegar al aparcamiento de Balcóns de Madrid",
+      "Admirar las vistas panorámicas del cañón del Río Sil",
+      "Pasear por los alrededores y hacer fotos",
+      "Explorar los senderos próximos de la Ribeira Sacra",
+      "Disfrutar de la tranquilidad y la naturaleza"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores Lugares para Fotos",
+    "spots": [
+      {
+        "title": "Mirador Principal",
+        "description": "El balcón ofrece vistas espectaculares sobre el Río Sil, ideal para fotos de paisaje y atardecentes.",
+        "location": "Zona del mirador",
+        "image": "/gallery/balcons-de-madrid (1).jpg"
+      },
+      {
+        "title": "Cañón del Río Sil",
+        "description": "Las curvas y meandros del río crean un marco natural perfecto para fotografía aérea y panorámica.",
+        "location": "Desde el mirador",
+        "image": "/gallery/balcons-de-madrid (2).jpg"
+      },
+      {
+        "title": "Paisaje de la Ribeira Sacra",
+        "description": "Los famosos viñedos en terraza y la vegetación autóctona rodean el mirador, ofreciendo un contraste visual único.",
+        "location": "Alrededores",
+        "image": "/gallery/balcons-de-madrid (3).jpg"
+      },
+      {
+        "title": "Atardecer en el Mirador",
+        "description": "La luz del atardecer sobre el cañón es uno de los espectáculos más bellos de Galicia.",
+        "location": "Mirador",
+        "image": "/gallery/balcons-de-madrid (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guía de Alojamiento",
+    "hotels": [
+      {
+        "name": "Parada de Sil",
+        "desc": "La localidad ofrece opciones de turismo rural y casas de aldea, ideal para quienes buscan paz y naturaleza.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Monforte de Lemos",
+        "desc": "A unos 30 minutos en coche, ofrece hoteles, hostales y una amplia oferta gastronómica.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Ourense Capital",
+        "desc": "A unos 70 km, cuenta con hoteles de todas las categorías y buena conexión de transporte.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Zona Ribeira Sacra",
+        "desc": "Diversas opciones de alojamiento rural en la comarca, perfectas para una estancia relajada.",
+        "price": "Recomendado"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Vistas de Balcóns de Madrid",
+    "captions": [
+      "Vista panorámica",
+      "Cañón del Sil",
+      "Paisaje de la Ribeira Sacra",
+      "Mirador",
+      "Naturaleza",
+      "Vistas de la zona",
+      "Vegetación autóctona",
+      "Atardecer",
+      "Paisaje otoñal",
+      "Río Sil",
+      "Mirador con vistas",
+      "Paisaje gallego",
+      "Senderismo",
+      "Naturaleza viva",
+      "Diversa flora",
+      "Paisaje fluvial",
+      "Ribeira Sacra",
+      "Vista panorámica total"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver Todas las Fotos",
+    "showLess": "Ver Menos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "Las reseñas de los visitantes se pueden consultar a través de Google Maps.",
+    "moreReviews": "Ver más reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "Unas vistas impresionantes. Sin duda uno de los miradores más bonitos de Galicia. Muy recomendable para una escapada en coche."
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "El paisaje es espectacular, sobre todo al atardecer. Un lugar muy tranquilo para desconectar y disfrutar de la naturaleza."
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 5,
+        "date": "2026-05-02",
+        "text": "Merece mucho la pena la visita. Las vistas del cañón del Sil son únicas. Llevad cámara porque las fotos quedan genial."
+      },
+      {
+        "name": "María S.",
+        "rating": 4,
+        "date": "2026-02-18",
+        "text": "Un sitio precioso en plena Ribeira Sacra. El acceso está bien, hay aparcamiento cerca y las vistas son de 10."
+      },
+      {
+        "name": "Javier L.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "Una maravilla de la naturaleza. El mirador está muy bien indicado y se puede disfrutar de unas vistas magníficas."
+      },
+      {
+        "name": "Elena F.",
+        "rating": 5,
+        "date": "2025-09-12",
+        "text": "Un lugar mágico. El silencio, el paisaje y el aire puro hacen de este sitio una visita obligada en Galicia."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "32740 Parada de Sil, Province of Ourense, Spain",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Balcóns de Madrid",
+    "brandSubtitle": "Mirador · Parada de Sil",
+    "rights": "© 2026 Balcóns de Madrid Asociación Independiente de Investigación Turística · Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos e Información Oficial",
+    "officialLinks": {
+      "spainTourism": "Turismo España",
+      "ribeiraSacra": "Turismo Ribeira Sacra",
+      "naturalPaths": "Red de Caminos Naturales",
+      "paradaSil": "Ayuntamiento de Parada de Sil",
+      "turismoGalicia": "Turismo Galicia"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de Información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para brindarle una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+      },
+      {
+        "title": "Uso de Cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puede gestionar sus preferencias en cualquier momento a través de la opción Configuración de Cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y Protección de Datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con sus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y Uso del Sitio Web",
+        "content": "Este sitio web proporciona información de viaje, transporte e historia sobre Balcóns de Madrid. Todo el contenido es solo para referencia. Los horarios de apertura y la información de entradas de las atracciones pueden cambiar en cualquier momento, consulte los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "Los textos, imágenes y diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web con fines de lucro comercial."
+      },
+      {
+        "title": "Descargo de Responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y actualidad de la información, pero no nos hacemos responsables legalmente por cualquier retraso en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Requerido para la funcionalidad básica del sitio web y no se puede desactivar.",
+      "badge": "Siempre activo"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Ayúdanos a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizado para seguimiento entre sitios y entrega de anuncios personalizados."
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre Balcóns de Madrid",
+    "text": "Los Balcóns de Madrid son un mirador de referencia en la Ribeira Sacra, situado en Parada de Sil, en la provincia de Ourense, Galicia. La gestión del entorno y del mirador corre a cargo del Ayuntamiento de Parada de Sil, en coordinación con la Xunta de Galicia y las entidades de promoción turística de la Ribeira Sacra."
+  }
+}

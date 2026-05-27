@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Rose Valley Park",
+    "description": "Ghid complet pentru Rose Valley Park din Chișinău. Aflați despre acest loc scenic, locația sa, informații de vizitare și sfaturi de călătorie."
+  },
+  "header": {
+    "home": "Acasă",
+    "gallery": "Galerie",
+    "reviews": "Recenzii",
+    "map": "Hartă",
+    "backToHome": "Înapoi la pagina principală"
+  },
+  "hero": {
+    "title": "Rose Valley Park",
+    "subtitle": "Parc · Chișinău",
+    "rating": "4.6",
+    "reviewCount": "19,089 recenzii",
+    "type": "Parc",
+    "openMaps": "Vezi pe Google Maps"
+  },
+  "intro": {
+    "title": "Descoperă Rose Valley Park",
+    "description": "Parcul „Valea Trandafirilor” (Rose Valley Park) este una dintre cele mai frumoase și cunoscute zone de agrement din Chișinău, Moldova. Situat pe malul râului Bâc, parcul oferă o atmosferă relaxantă, fiind perfect pentru plimbări, picnicuri și activități în aer liber. Este un loc favorit atât pentru localnici, cât și pentru turiști.",
+    "visitGuide": {
+      "title": "Sfaturi de vizitare",
+      "items": [
+        "Parcul este accesibil pe tot parcursul anului și intrarea este gratuită.",
+        "Loc excelent pentru picnicuri sau plimbări relaxante pe aleile pitorești.",
+        "Of eră o priveliște minunată asupra lacului și a vegetației abundente."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Momentul culmine",
+      "items": [
+        "Lacul Valea Trandafirilor",
+        "Aleile pitorești",
+        "Zone de picnic",
+        "Vegetație abundentă"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Despre Rose Valley Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Istoric",
+        "content": "Parcul „Valea Trandafirilor” a fost înființat în secolul al XX-lea și a devenit rapid una dintre principalele atracții recreative din Chișinău. Numele său provine de la culturile bogate de trandafiri care au fost plantați aici, transformând zona într-un adevărat paradis floral."
+      },
+      {
+        "id": "layout",
+        "title": "Geografie și amenajare",
+        "content": "Parcul este situat în apropierea centrului Chișinăului și se întinde de-a lungul malului râului Bâc. Amenajarea include alei pietonale, bănci, zone de relaxare și un lac pitoresc unde vizitatorii se pot relaxa și bucura de natură."
+      },
+      {
+        "id": "culture",
+        "title": "Semnificație culturală",
+        "content": "Fiind unul dintre cele mai populare locuri de agrement din capitala Moldovei, parcul găzduiește adesea evenimente culturale, festivaluri și activități în aer liber, fiind un punct de întâlnire important pentru comunitatea locală."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Floră și faună",
+        "content": "Parcul găzduiește o varietate impresionantă de specii de plante, inclusiv numeroase soiuri de trandafiri, arbori ornamentali și floră spontană. Aici își găsesc adăpost numeroase specii de păsări, fiind un refugiu urban important pentru biodiversitate."
+      },
+      {
+        "id": "facilities",
+        "title": "Facilități de recreere și sport",
+        "content": "Parcul dispune de mai multe locuri de joacă moderne pentru copii, echipamente de fitness în aer liber și terenuri de sport. Vizitatorii pot găsi, de asemenea, mai multe cafenele și restaurante care oferă bucătărie tradițională moldovenească și diverse băuturi, permițându-vă să vă bucurați de servicii convenabile în timp ce explorați natura."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informații de bază",
+    "officialName": "Denumire oficială",
+    "officialNameValue": "Parcul „Valea Trandafirilor”",
+    "type": "Tip atracție",
+    "typeValue": "Parc",
+    "country": "Țară",
+    "countryValue": "Republica Moldova",
+    "city": "Oraș",
+    "cityValue": "Chișinău",
+    "googleRating": "Evaluare Google",
+    "googleRatingValue": "4.6 (19,089)",
+    "address": "Adresă",
+    "addressValue": "Strada Valea Trandafirilor, Chișinău, Moldova",
+    "plusCode": "Cod Plus",
+    "plusCodeValue": "2V33+37 Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "Program de vizitare",
+    "park": "Acces în parc",
+    "parkTime": "Deschis tot anul (24 ore din 24)",
+    "bestTime": "Cel mai bun moment pentru vizită",
+    "bestTimeSpring": "Primăvară: Trandafirii și florile înfloresc",
+    "bestTimeSummer": "Vară: Zile însorite, perfect pentru picnicuri",
+    "bestTimeAutumn": "Toamnă: Frunziș colorat și atmosferă relaxantă",
+    "bestTimeWinter": "Iarnă: Peisaje de iarnă pitorești",
+    "tip": "Parcul este deschis non-stop, fiind accesibil în orice moment al zilei."
+  },
+  "tickets": {
+    "title": "Informații despre bilete",
+    "park": "Vizitarea parcului",
+    "parkPrice": "Intrare gratuită",
+    "parking": "Parcare",
+    "parkingPrice": "Parcare disponibilă în apropiere (gratuită sau cu plată)",
+    "guided": "Tururi ghidate",
+    "guidedPrice": "Auto-vizitare"
+  },
+  "transport": {
+    "title": "Cum să ajungeți",
+    "fromCenter": "Din centrul Chișinăului",
+    "fromCenterDesc": "Parcul este situat la o distanță accesibilă de mers pe jos din centrul orașului.",
+    "fromStation": "Din stația de autobuz",
+    "fromStationDesc": "Accesibil cu transportul public local, stații în apropiere.",
+    "fromAirport": "De la aeroport",
+    "fromAirportDesc": "De la Aeroportul Internațional Chișinău, puteți lua un taxi sau transportul public spre centrul orașului.",
+    "publicTransport": "Transport public",
+    "publicTransportDesc": "Legaturi bune cu rețeaua de transport public din Chișinău, cu stații în apropiere.",
+    "walking": "Mers pe jos",
+    "walkingDesc": "Accesibil pe jos din mai multe zone ale orașului, fiind situat central.",
+    "driving": "Cu mașina",
+    "drivingDesc": "Accesibil cu mașina, cu opțiuni de parcare în apropiere."
+  },
+  "route": {
+    "title": "Traseu recomandat",
+    "overview": "O plimbare relaxantă prin parc și împrejurimi.",
+    "steps": [
+      "Începeți de la intrarea principală a parcului",
+      "Admirați lacul Valea Trandafirilor",
+      "Plimbați-vă pe aleile pitorești printre trandafiri",
+      "Opriți-vă în zonele de picnic pentru relaxare",
+      "Bucurați-vă de priveliștea asupra vegetației și apei"
+    ]
+  },
+  "photoSpots": {
+    "title": "Cele mai bune locuri pentru fotografii",
+    "spots": [
+      {
+        "title": "Lacul Valea Trandafirilor",
+        "description": "Lacul pitoresc din mijlocul parcului oferă oportunități excelente pentru fotografii de peisaj, mai ales în timpul răsăritului sau apusului.",
+        "location": "Centrul parcului",
+        "image": "/gallery/rose-valley-park (1).jpg"
+      },
+      {
+        "title": "Aleile cu trandafiri",
+        "description": "Aleile bordate de trandafiri înfloriți oferă un cadru perfect pentru fotografii de primăvară și vară.",
+        "location": "Prin tot parc",
+        "image": "/gallery/rose-valley-park (2).jpg"
+      },
+      {
+        "title": "Zonele de picnic",
+        "description": "Zonele amenajate pentru picnic oferă un cadru relaxant pentru fotografii de grup sau portrete.",
+        "location": "În parc",
+        "image": "/gallery/rose-valley-park (3).jpg"
+      },
+      {
+        "title": "Priveliștea asupra vegetației",
+        "description": "Vegetația abundentă și copacii bătrâni creează un cadru natural perfect pentru fotografii de natură.",
+        "location": "Întregul parc",
+        "image": "/gallery/rose-valley-park (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Ghid de cazare",
+    "hotels": [
+      {
+        "name": "Centrul Chișinăului",
+        "desc": "Zona centrală a Chișinăului oferă acces ușor către Rose Valley Park, cu numeroase hoteluri, restaurante și magazine în apropiere.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Zona Buiucani",
+        "desc": "Un cartier liniștit și pitoresc, situat în apropiere de parc, ideal pentru cei care caută liniște și aer curat.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Zona Riscani",
+        "desc": "Situată în apropiere de parc, această zonă oferă opțiuni de cazare diverse, de la hoteluri economice la apartamente premium.",
+        "price": "Recomandat"
+      },
+      {
+        "name": "Zona Centru (Piata Marii Adunări Naționale)",
+        "desc": "Inima capitalei, aproape de principalele atracții turistice și la o distanță accesibilă de mers pe jos către Rose Valley Park.",
+        "price": "Recomandat"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie foto",
+    "subtitle": "Priveliști din Rose Valley Park",
+    "captions": [
+      "Vedere spre lac",
+      "Trandafiri înfloriți",
+      "Alei pitorești",
+      "Zone de picnic",
+      "Vegetație abundentă",
+      "Priveliști de vară",
+      "Frunziș de toamnă",
+      "Peisaje de iarnă",
+      "Flori de primăvară",
+      "Bănci în parc",
+      "Copaci ornamentali",
+      "Apus de soare",
+      "Dimineață liniștită",
+      "Natură abundentă",
+      "Floră diversă",
+      "Peisaje de parc",
+      "Alei pietonale",
+      "Vedere panoramică"
+    ],
+    "viewAll": "Vezi pe Google Maps",
+    "showAll": "Vezi toate fotografiile",
+    "showLess": "Arată mai puține"
+  },
+  "reviews": {
+    "title": "Recenzii ale vizitatorilor",
+    "declaration": "Recenziile vizitatorilor pot fi vizualizate prin Google Maps.",
+    "moreReviews": "Vezi mai multe recenzii pe Google Maps",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "Unul dintre cele mai frumoase parcuri din Chișinău. Mereu vin aici să mă relaxez și să fac plimbări. Este un loc minunat pentru familie și prieteni."
+      },
+      {
+        "name": "Maria L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Locul perfect pentru picnicuri și plimbări. Vegetația este superbă, iar lacul adaugă o notă de liniște și frumusețe locului."
+      },
+      {
+        "name": "Andrei M.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "Un parc frumos și bine întreținut. Este ideal pentru plimbări de seară sau dimineață. Recomand cu căldură tuturor celor care vizitează Chișinăul."
+      },
+      {
+        "name": "Elena K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Fiind o iubitoare de natură, am fost profund impresionată de diversitatea florilor și a trandafirilor din acest parc. Un adevărat colț de rai în mijlocul orașului."
+      },
+      {
+        "name": "Vasile T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Loc excelent pentru plimbări cu familia. Aleile sunt bine întreținute, iar atmosfera este foarte relaxantă. Îl vizitez în fiecare weekend."
+      },
+      {
+        "name": "Oxana R.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Comparativ cu agitația din centru, acest parc oferă un refugiu liniștit. Sentimentul de pace și verdeață abundentă îl fac unul dintre locurile mele favorite."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Locația pe hartă",
+    "subtitle": "Strada Valea Trandafirilor, Chișinău, Moldova",
+    "openMaps": "Vezi pe Google Maps"
+  },
+  "footer": {
+    "brandName": "Parcul Valea Trandafirilor",
+    "brandSubtitle": "Parc · Chișinău",
+    "rights": "© 2026 Asociația Independentă de Cercetare Turistică a Parcului Valea Trandafirilor · Toate drepturile rezervate.",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni de utilizare",
+    "cookies": "Setări cookie",
+    "officialResourcesTitle": "Resurse și informații conexe",
+    "officialLinks": {
+      "cultureMinistry": "Ministerul Culturii al RM",
+      "tourismAgency": "Agenția Turismului",
+      "monumentsInspection": "Inspecția Monumentelor",
+      "chisinauCityHall": "Primăria Chișinău",
+      "chisinauProjects": "Proiecte Chișinău"
+    },
+    "disclaimer": "Acest site este un proiect independent de informații turistice de la terți. Nu suntem afiliați cu guvernul local sau cu orice alte agenții oficiale."
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "lastUpdated": "Ultima actualizare: Mai 2026",
+    "sections": [
+      {
+        "title": "Colectarea informațiilor",
+        "content": "Când vizitați site-ul nostru, este posibil să colectăm automat informații de bază despre dispozitivul dvs., browser și comportamentul de navigare pentru a vă oferi o experiență mai bună. Aceste informații nu conțin date personale identificabile."
+      },
+      {
+        "title": "Utilizarea cookie-urilor",
+        "content": "Folosim cookie-uri pentru a analiza traficul site-ului și a optimiza conținutul paginilor. Puteți gestiona preferințele în orice moment prin opțiunea de Setări cookie din partea de jos a site-ului."
+      },
+      {
+        "title": "Securitatea și protecția datelor",
+        "content": "Ne angajăm să protejăm securitatea datelor dvs. de confidențialitate și nu vom vinde, închiria sau tranzacționa datele dvs. de navigare către nicio organizație comercială terță."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termeni de utilizare",
+    "lastUpdated": "Ultima actualizare: Mai 2026",
+    "sections": [
+      {
+        "title": "Conținutul și utilizarea site-ului",
+        "content": "Acest site oferă informații despre Rose Valley Park, includând turism, transport și istorie. Tot conținutul este doar pentru referință. Programul real de vizitare și informațiile despre bilete pot suferi modificări în orice moment, vă rugăm să consultați anunțurile oficiale."
+      },
+      {
+        "title": "Proprietatea intelectuală",
+        "content": "Textul, imaginile și designul de layout de pe acest site sunt protejate prin drepturi de autor. Fără permisiune scrisă explicită, nimeni nu poate utiliza conținutul site-ului în scopuri comerciale."
+      },
+      {
+        "title": "Declinarea responsabilității",
+        "content": "Facem eforturi pentru a asigura acuratețea și actualitatea informațiilor, dar nu purtăm răspundere legală pentru orice întârzieri de călătorie sau pierderi cauzate direct sau indirect prin utilizarea informațiilor furnizate pe acest site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Setări cookie",
+    "description": "Gestionați-vă preferințele pentru cookie-uri.",
+    "essential": {
+      "title": "Cookie-uri esențiale",
+      "description": "Necesare pentru funcționalitatea de bază a site-ului și nu pot fi dezactivate.",
+      "badge": "Întotdeauna active"
+    },
+    "analytics": {
+      "title": "Analiză",
+      "description": "Ne ajută să înțelegem comportamentul vizitatorilor și să îmbunătățim site-ul."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Folosite pentru urmărire între site-uri și livrarea personalizată a anunțurilor."
+    },
+    "save": "Salvează preferințele",
+    "saved": "Preferințe salvate!"
+  },
+  "officialManagement": {
+    "title": "Despre Rose Valley Park",
+    "text": "Rose Valley Park (Parcul „Valea Trandafirilor”) este un parc urban major din Chișinău, Republica Moldova, fiind un exemplu perfect de combinare a naturii cu recreerea urbană. Zona este administrată în comun pentru protecția ecologică și operațiunile zilnice de către Primăria Chișinău și departamentele conexe de amenajare peisagistică și mediu."
+  }
+}
