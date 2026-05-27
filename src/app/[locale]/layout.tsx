@@ -15,12 +15,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://rosevalleyparkchisinau.com';
+  const baseUrl = 'https://balconsdemadrid.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const roUrl = `${baseUrl}/ro`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : roUrl;
+  const esUrl = `${baseUrl}/es`;
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'es' ? esUrl : enUrl;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -31,7 +31,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'ro': roUrl,
+        'es': esUrl,
         'x-default': enUrl,
       },
     },
@@ -39,8 +39,8 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Rose Valley Park",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'ro_RO',
+      siteName: "Balcóns de Madrid",
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'es' ? 'es_ES' : 'en_US',
       type: 'website',
     },
   };
