@@ -3,38 +3,30 @@
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/balcons-de-madrid (1).jpg', alt: 'Balcóns de Madrid Photo 1' },
-  { src: '/gallery/balcons-de-madrid (2).jpg', alt: 'Balcóns de Madrid Photo 2' },
-  { src: '/gallery/balcons-de-madrid (3).jpg', alt: 'Balcóns de Madrid Photo 3' },
-  { src: '/gallery/balcons-de-madrid (4).jpg', alt: 'Balcóns de Madrid Photo 4' },
-  { src: '/gallery/balcons-de-madrid (5).jpg', alt: 'Balcóns de Madrid Photo 5' },
-  { src: '/gallery/balcons-de-madrid (6).jpg', alt: 'Balcóns de Madrid Photo 6' },
-  { src: '/gallery/balcons-de-madrid (7).jpg', alt: 'Balcóns de Madrid Photo 7' },
-  { src: '/gallery/balcons-de-madrid (8).jpg', alt: 'Balcóns de Madrid Photo 8' },
-  { src: '/gallery/balcons-de-madrid (9).jpg', alt: 'Balcóns de Madrid Photo 9' },
-  { src: '/gallery/balcons-de-madrid (10).jpg', alt: 'Balcóns de Madrid Photo 10' },
-  { src: '/gallery/balcons-de-madrid (11).jpg', alt: 'Balcóns de Madrid Photo 11' },
-  { src: '/gallery/balcons-de-madrid (12).jpg', alt: 'Balcóns de Madrid Photo 12' },
-  { src: '/gallery/balcons-de-madrid (13).jpg', alt: 'Balcóns de Madrid Photo 13' },
-  { src: '/gallery/balcons-de-madrid (14).jpg', alt: 'Balcóns de Madrid Photo 14' },
-  { src: '/gallery/balcons-de-madrid (15).jpg', alt: 'Balcóns de Madrid Photo 15' },
-  { src: '/gallery/balcons-de-madrid (16).jpg', alt: 'Balcóns de Madrid Photo 16' },
-  { src: '/gallery/balcons-de-madrid (17).jpg', alt: 'Balcóns de Madrid Photo 17' },
-  { src: '/gallery/balcons-de-madrid (18).jpg', alt: 'Balcóns de Madrid Photo 18' },
-];
+const photos = Array.from({ length: 18 }, (_, i) => ({
+  src: `/gallery/balcons-de-madrid (${i + 1}).jpg`,
+  index: i + 1,
+}));
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const tEntity = useTranslations('entity');
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
   const captions = (messages?.gallery?.captions || []) as string[];
 
+  const entityFullName = tEntity('fullName');
+  const entityCity = tEntity('city');
+  const entityCountry = tEntity('country');
+
   const galleryPhotos = photos.map((photo, i) => ({
     ...photo,
-    alt: captions[i] || photo.alt,
+    caption: captions[i] || `View ${i + 1}`,
+    alt: i === 0
+      ? `${entityFullName} - Main view in ${entityCity}, ${entityCountry}`
+      : `${captions[i] || 'Scenic view'} ${i + 1} - ${entityFullName} viewpoint`,
   }));
 
   const goToPrevious = useCallback(() => {
@@ -81,7 +73,7 @@ export default function Gallery() {
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {photo.caption}
                     </p>
                   </div>
                 </div>
@@ -131,7 +123,7 @@ export default function Gallery() {
                 </button>
               )}
               <a
-                href="https://maps.app.goo.gl/TzkkyRH23uWsMYzd9"
+                href={tEntity('mapsShareUrl')}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

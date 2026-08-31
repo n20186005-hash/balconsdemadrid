@@ -2,6 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const tEntity = useTranslations('entity');
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -20,26 +21,22 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Balc%C3%B3ns+de+Madrid+Parada+de+Sil+Ourense+Spain&output=embed"
+            src={tEntity('mapsEmbedSrc')}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Balcóns de Madrid"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`Google Maps - ${tEntity('fullName')}`}
           />
         </div>
 
         {/* Open in Google Maps */}
-        <div className="mt-6 flex justify-center">
+        <div className="mt-6 flex flex-col sm:flex-row justify-center items-center gap-4">
           <a
-            href="https://maps.app.goo.gl/TzkkyRH23uWsMYzd9"
+            href={tEntity('mapsShareUrl')}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -56,6 +53,23 @@ export default function MapEmbed() {
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
           </a>
+        </div>
+
+        {/* Official Tourism Link */}
+        <div className="mt-10 p-5 sm:p-6 rounded-xl text-center" style={{ background: 'var(--bg-tertiary)', border: '1px dashed var(--border-color)' }}>
+          <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('officialTourismText')}{' '}
+            <a
+              href={tEntity('govtTourismUrl')}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium hover:underline"
+              style={{ color: 'var(--accent)' }}
+            >
+              {t('officialTourismLink')}
+            </a>
+            .
+          </p>
         </div>
       </div>
     </section>

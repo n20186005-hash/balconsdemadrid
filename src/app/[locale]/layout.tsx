@@ -15,12 +15,15 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://balconsdemadrid.com';
+  const entity = messages.entity;
+  const baseUrl = `https://${entity.domain}`;
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
   const esUrl = `${baseUrl}/es`;
   const selfUrl = locale === 'zh' ? zhUrl : locale === 'es' ? esUrl : enUrl;
+
+  const heroImage = `${baseUrl}/gallery/balcons-de-madrid%20(1).jpg`;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -32,16 +35,44 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'es': esUrl,
-        'x-default': enUrl,
+        'es-ES': esUrl,
+        'zh-CN': zhUrl,
+        'en-US': enUrl,
+        'x-default': esUrl,
       },
     },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Balcóns de Madrid",
+      siteName: entity.fullName,
       locale: locale === 'zh' ? 'zh_CN' : locale === 'es' ? 'es_ES' : 'en_US',
       type: 'website',
+      images: [
+        {
+          url: heroImage,
+          width: 1200,
+          height: 630,
+          alt: messages.hero.imageAlt,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
+      images: [heroImage],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
     },
   };
 }
@@ -61,12 +92,81 @@ export default async function LocaleLayout({
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  const entity = (messages as any).entity;
+  const faqItems = (messages as any).faq.items;
+  const baseUrl = `https://${entity.domain}`;
+  const heroImage = `${baseUrl}/gallery/balcons-de-madrid%20(1).jpg`;
+
+  const touristAttractionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'TouristAttraction',
+    '@id': `${baseUrl}/#attraction`,
+    name: entity.fullName,
+    alternateName: [
+      entity.shortName,
+      `${entity.city} ${entity.fullName}`,
+    ],
+    description: (messages as any).meta.description,
+    url: baseUrl,
+    image: [
+      heroImage,
+    ],
+    isAccessibleForFree: true,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: entity.fullName,
+      addressLocality: entity.city,
+      addressRegion: entity.province,
+      postalCode: entity.postalCode,
+      addressCountry: entity.countryCode,
+    },
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: entity.latitude,
+      longitude: entity.longitude,
+    },
+    hasMap: entity.mapsShareUrl,
+    sameAs: [
+      entity.mapsShareUrl,
+      entity.govtTourismUrl,
+    ],
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map((item: any) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+
+  const htmlLang = locale === 'zh' ? 'zh-CN' : locale === 'es' ? 'es-ES' : 'en';
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={htmlLang} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
+        <link rel="canonical" href={baseUrl} />
+        <meta property="og:image" content={heroImage} />
+        <meta property="og:image:alt" content={(messages as any).hero.imageAlt} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(touristAttractionSchema),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(faqSchema),
+          }}
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `

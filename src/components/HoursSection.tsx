@@ -3,12 +3,18 @@
 import { useTranslations } from 'next-intl';
 import type { ReactNode } from 'react';
 
+function splitByColon(src: string): [string, string] {
+  const m = src.split(/[:：]/);
+  if (m.length < 2) return [src, ''];
+  return [m[0].trim(), m.slice(1).join(':').trim()];
+}
+
 export default function HoursSection() {
   const t = useTranslations('hours');
 
   return (
     <section className="section-padding">
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-5xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -24,6 +30,95 @@ export default function HoursSection() {
         </div>
 
         <div
+          className="mb-8 rounded-2xl p-6 sm:p-8"
+          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+        >
+          <div className="flex items-center gap-3 mb-5">
+            <div
+              className="w-11 h-11 rounded-full flex items-center justify-center"
+              style={{ background: 'var(--accent)', color: 'white' }}
+            >
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M12 2v2" />
+                <path d="M12 20v2" />
+                <path d="M4.93 4.93l1.41 1.41" />
+                <path d="M17.66 17.66l1.41 1.41" />
+                <path d="M2 12h2" />
+                <path d="M20 12h2" />
+                <path d="M4.93 19.07l1.41-1.41" />
+                <path d="M17.66 6.34l1.41-1.41" />
+                <circle cx="12" cy="12" r="4" />
+              </svg>
+            </div>
+            <h3
+              className="font-display text-xl font-semibold"
+              style={{ color: 'var(--text-primary)' }}
+            >
+              {t('goldenHourTitle')}
+            </h3>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div
+              className="rounded-xl p-4 sm:p-5"
+              style={{ background: 'var(--bg-secondary)' }}
+            >
+              {(() => {
+                const [lbl, desc] = splitByColon(t('goldenHourSunrise'));
+                return (
+                  <>
+                    <p
+                      className="text-sm font-semibold mb-2"
+                      style={{ color: 'var(--text-primary)' }}
+                    >
+                      🌅 {lbl}
+                    </p>
+                    <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                      {desc}
+                    </p>
+                  </>
+                );
+              })()}
+            </div>
+            <div
+              className="rounded-xl p-4 sm:p-5"
+              style={{ background: 'var(--bg-secondary)' }}
+            >
+              {(() => {
+                const [lbl, desc] = splitByColon(t('goldenHourSunset'));
+                return (
+                  <>
+                    <p
+                      className="text-sm font-semibold mb-2"
+                      style={{ color: 'var(--text-primary)' }}
+                    >
+                      🌇 {lbl}
+                    </p>
+                    <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                      {desc}
+                    </p>
+                  </>
+                );
+              })()}
+            </div>
+            <div
+              className="sm:col-span-2 rounded-xl p-4 sm:p-5"
+              style={{ background: 'var(--bg-secondary)' }}
+            >
+              <p
+                className="text-sm font-semibold mb-2"
+                style={{ color: 'var(--text-primary)' }}
+              >
+                🌌 {t('blueHourTitle')}
+              </p>
+              <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                {t('blueHourDesc')}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div
           className="rounded-xl p-5 flex items-start gap-4"
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
         >
@@ -32,7 +127,7 @@ export default function HoursSection() {
             <line x1="12" y1="16" x2="12" y2="12"/>
             <line x1="12" y1="8" x2="12.01" y2="8"/>
           </svg>
-          <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tip')}</p>
+          <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('tip')}</p>
         </div>
       </div>
     </section>
@@ -71,9 +166,9 @@ function TimeCard({ title, time, subtitle, iconKey }: { title: string; time: str
         {icons[iconKey]}
         <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>{title}</h3>
       </div>
-      <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time}</p>
+      <p className="text-lg font-semibold leading-snug" style={{ color: 'var(--text-primary)' }}>{time}</p>
       {subtitle && (
-        <p className="text-sm mt-1" style={{ color: 'var(--text-secondary)' }}>{subtitle}</p>
+        <p className="text-sm mt-2 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{subtitle}</p>
       )}
     </div>
   );

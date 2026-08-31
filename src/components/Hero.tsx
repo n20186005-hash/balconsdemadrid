@@ -2,6 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const tEntity = useTranslations('entity');
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -9,8 +10,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/balcons-de-madrid (1).jpg"
-          alt="Balcóns de Madrid"
+          alt={t('imageAlt')}
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -42,7 +45,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('type')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/TzkkyRH23uWsMYzd9"
+              href={tEntity('mapsShareUrl')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"

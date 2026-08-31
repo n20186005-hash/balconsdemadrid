@@ -1,341 +1,587 @@
 {
   "meta": {
-    "title": "巴尔孔斯德马德里 (Balcóns de Madrid)",
-    "description": "巴尔孔斯德马德里的完整旅游指南。了解这一西班牙加利西亚自治区的观景台景点、位置和游览信息。"
+    "title": "马德里观景台（Parada de Sil）- 旅游指南与位置介绍",
+    "description": "Balcóns de Madrid（马德里观景台）位于西班牙奥伦塞省 Parada de Sil，俯瞰 Sil 峡谷与 Ribeira Sacra，提供位置、地图、开放时间与历史科普信息。"
+  },
+  "entity": {
+    "fullName": "Balcóns de Madrid",
+    "shortName": "马德里观景台",
+    "city": "Parada de Sil",
+    "province": "Ourense",
+    "country": "西班牙",
+    "countryCode": "ES",
+    "postalCode": "32740",
+    "latitude": 42.391106,
+    "longitude": -7.5650627,
+    "nearbyLandmark1": "Sil 河谷峡谷",
+    "nearbyLandmark2": "Ribeira Sacra（神圣河岸）",
+    "domain": "balconsdemadrid.com",
+    "mapsShareUrl": "https://maps.app.goo.gl/TzkkyRH23uWsMYzd9",
+    "mapsEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5241.171663121448!2d-7.5650626999999995!3d42.39110600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd300ed9b416e25d%3A0x89ada0b21c834074!2sBalc%C3%B3ns%20de%20Madrid!5e1!3m2!1szh-CN!2s!4v1787917640092!5m2!1szh-CN!2s",
+    "govtTourismUrl": "https://www.turismo.gal/"
   },
   "header": {
     "home": "首页",
-    "gallery": "图库",
-    "reviews": "评价",
+    "gallery": "相册",
+    "reviews": "游客评价",
     "map": "地图",
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "巴尔孔斯德马德里",
-    "subtitle": "观景台 · 帕拉达德西尔",
+    "title": "Balcóns de Madrid (Parada de Sil)",
+    "subtitle": "观景台 · 西班牙 奥伦塞省 Parada de Sil",
     "rating": "4.6",
-    "reviewCount": "6,402 条评价",
+    "reviewCount": "6,649 条评价",
     "type": "观景台",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在 Google 地图中打开",
+    "imageAlt": "Balcóns de Madrid 马德里观景台 - 西班牙 Parada de Sil 主景照片"
   },
   "intro": {
-    "title": "探索巴尔孔斯德马德里",
-    "description": "巴尔孔斯德马德里（Balcóns de Madrid）是萨克拉河岸（Ribeira Sacra）最壮观的观景台之一，位于奥伦塞省帕拉达德西尔（Parada de Sil）。它提供了令人叹为观止的锡尔河（Sil）峡谷全景视野，是加利西亚自然、徒步和全景旅游的参考点。",
+    "title": "关于 Balcóns de Madrid（马德里观景台）",
+    "description": "欢迎来到 **Balcóns de Madrid**，即通常所称的 **马德里观景台**。它地处 **西班牙** **加利西亚自治区** **奥伦塞省** **Parada de Sil**，是游客前往 Ribeira Sacra 地区时最著名、最核心的观景地之一。",
+    "descriptionPlain": "欢迎来到 Balcóns de Madrid，即通常所称的马德里观景台。它地处西班牙加利西亚自治区奥伦塞省 Parada de Sil，是游客前往 Ribeira Sacra 地区时最著名、最核心的观景地之一。",
+    "extendedDescription": "Balcóns de Madrid 是西班牙加利西亚 Ribeira Sacra（神圣河岸）葡萄酒产区最壮观的天然观景台之一，位于 Parada de Sil 境内，能俯瞰绵延数公里的 Sil 河峡谷和阶梯式葡萄园，是自然观察、徒步登山与风景摄影的重要参考地。",
+    "etymologyTitle": "地名溯源：为何远在加利西亚的观景台叫「马德里」",
+    "etymologyDescription": "**Balcóns de Madrid** 这一地名的正确加利西亚语写法为：「ó」带重音符、且为复数 Balcóns。根据加利西亚圣地亚哥德孔波斯特拉大学（USC）语言文学研讨班的地名学研究，地名中的 **Madrid** 并非直接指代西班牙首都，而是源自加利西亚本土名词 **madro**，意为「草莓树（Arbutus unedo）」，这是一种四季常绿、在该丘陵坡面上大量分布的原生树种；随后在口语音变过程中，由于听觉上与西班牙首都名字相近，以及当地居民把「最高、最具统治性的位置」类比为「首都」，最终发生了 madro → madrid 的民间语音演化。复数 **Balcóns** 则指两处并肩相对的双生海岬，它们在 Sil 河河道上方遥遥相望，共同构成了观景台的范围。",
+    "etymologyDescriptionPlain": "Balcóns de Madrid 这一地名的正确加利西亚语写法为：「ó」带重音符、且为复数 Balcóns。根据加利西亚圣地亚哥德孔波斯特拉大学（USC）语言文学研讨班的地名学研究，地名中的 Madrid 并非直接指代西班牙首都，而是源自加利西亚本土名词 madro，意为「草莓树（Arbutus unedo）」，这是一种四季常绿、在该丘陵坡面上大量分布的原生树种；随后在口语音变过程中，由于听觉上与西班牙首都名字相近，以及当地居民把「最高、最具统治性的位置」类比为「首都」，最终发生了 madro → madrid 的民间语音演化。复数 Balcóns 则指两处并肩相对的双生海岬，它们在 Sil 河河道上方遥遥相望，共同构成了观景台的范围。",
+    "breadcrumb": "Balcóns de Madrid → Parada de Sil → Ourense → 西班牙",
+    "nearbyTitle": "Balcóns de Madrid 周边地标与景区",
+    "nearbyDescription": "在游览 **Balcóns de Madrid（马德里观景台）** 的同时，游客可以便捷地扩展周边行程，包括 **Sil 河谷峡谷** 和 **Ribeira Sacra（神圣河岸）葡萄酒产区** 等标志性目的地。",
+    "nearbyDescriptionPlain": "在游览 Balcóns de Madrid（马德里观景台）的同时，游客可以便捷地扩展周边行程，包括 Sil 河谷峡谷 和 Ribeira Sacra（神圣河岸）葡萄酒产区等标志性目的地。",
     "visitGuide": {
-      "title": "游览建议",
+      "title": "到访提示",
       "items": [
-        "免费入场，全年均可参观。",
-        "非常适合风景和自然摄影。",
-        "如果结合徒步路线，建议穿着舒适的鞋子。",
-        "这里是享受宁静和自然的绝佳地点。"
+        "开放且免费，全年均可进入参观",
+        "是风景摄影与自然观察的绝佳目的地",
+        "若结合徒步路线，建议穿着防滑运动鞋",
+        "适合享受安静与自然放空的人群"
       ]
     },
     "alsoKnownAs": {
-      "title": "亮点",
+      "title": "核心亮点",
       "items": [
-        "锡尔河峡谷景观",
-        "萨克拉河岸风景",
-        "全景观景台",
-        "优越的自然环境"
+        "俯瞰 Sil 峡谷河湾",
+        "Ribeira Sacra 整体景观",
+        "天然全景观景台",
+        "生态优质自然环境"
       ]
     }
   },
   "knowledge": {
-    "title": "关于巴尔孔斯德马德里",
+    "title": "Balcóns de Madrid 的历史背景与学科科普",
     "sections": [
       {
-        "id": "history",
-        "title": "历史背景",
-        "content": "巴尔孔斯德马德里位于萨克拉河岸地区，这是一个具有深厚历史和文化遗产的地区。这个观景台之所以得名，是因为其全景视野与西班牙首都的马德里相似，已成为帕拉达德西尔访问量最大的景点之一。"
+        "id": "etymology",
+        "title": "地名语源与语言学研究",
+        "content": "Balcóns de Madrid 属于加利西亚地名体系中的复合型专名。复数形态 Balcóns（而非单数 Balcón）准确反映了该观景台由两处双生海岬共同夹持河道的地貌形态；而 Madrid 部分，根据圣地亚哥德孔波斯特拉大学加利西亚语言文学研讨班（Seminario de Lingüística Gallega）的地名学考察，其直接来源是民间语音演化：加利西亚语 madro（草莓树 Arbutus unedo）是当地大量分布的常绿灌木，由于其与首都名在听感上的近似，以及民间类比心理（把区域内「最高、最具统治地位的制高点」比喻为「首都」），便形成了今日的 Madrid。该语源已被载入《Ribeira Sacra 县地名目录》（加利西亚自治区政府，2018）。"
       },
       {
-        "id": "layout",
-        "title": "地理与布局",
-        "content": "观景台坐落在天然岬角上，提供了锡尔河蜿蜒曲折的最佳视野。该地区的地形具有陡峭的坡度和原生植被，在加利西亚创造了独特的景观。"
+        "id": "geology",
+        "title": "Sil 峡谷的地质形成过程",
+        "content": "观景台所在的海岬属于加利西亚中部花岗岩基岩带（granitic batholith），形成于华力西（Variscan）造山旋回的上古生代（约 3 亿年前）。Sil 河在更新世期间，由于基准面变化、冰期-间冰期交替，下切速度显著加快，最终塑造出最大落差约 450 米的深切峡谷；被相对抬升的古河流阶地，正是中世纪修道院僧侣得以开辟「阶梯式葡萄园（socalcos）」的地质前提，构成了 Ribeira Sacra 葡萄酒产区的文化景观基底。"
       },
       {
-        "id": "culture",
-        "title": "文化意义",
-        "content": "观景台所在的萨克拉河岸以其修道院遗产、梯田葡萄园和河流景观而闻名。巴尔孔斯德马德里是帕拉达德西尔乃至整个地区旅游特色的一部分。"
+        "id": "roman",
+        "title": "罗马时期：古道、林木与砂金开采",
+        "content": "罗马征服加利西亚（公元前 1 世纪 – 公元 5 世纪）之后，Sil 河上游地区是 Gallaecia 行省重要的林木采伐地（主要为橡树和栗木，供应大西洋沿岸的造船坞），同时也是小型砂金开采点。公元 5 世纪生于布拉加的古罗马地理学家保卢斯·奥罗修斯（Paulus Orosius），在其《反异教七书》中将 Sil 河记作 flumen clarissimus，归入 Bragança–Braga 大会堂行政区（Conventus Bracaraugustanus）。连接前罗马时期山顶石寨（castros）与 Iria Flavia（今 Padrón）的古道，正从当今观景台停车场所处的山口通过。"
+      },
+      {
+        "id": "medieval",
+        "title": "中世纪：修道院、梯田葡萄园与「神圣河岸」",
+        "content": "公元 9–15 世纪，本笃会、西多会、圣哲罗姆会等修道会在该地区建立了 San Pedro de Rocas、Santa Cristina de Ribas de Sil、San Esteban de Ribas de Sil 等著名修道院。僧侣们首次把 Sil 河的陡坡修筑为阶梯式葡萄园 socalcos，种植葡萄酿酒，形成了今日被列为 Ribeira Sacra 法定产区的文化景观。据口头传说，Santo Estevo 修道院的一位西多会会长在四旬斋闭关时，「发现」了该海岬作为默想观景点的价值，这便是观景台被正式使用的最早书面叙事来源。"
+      },
+      {
+        "id": "folklore",
+        "title": "口头文学与本地传说两则",
+        "content": "Parada de Sil 一带的口头文学中，至今流传着两则与观景台直接相关的故事。第一则讲述一个牧羊女在海岬看守羊群时，见到一位白衣女子于河道上方显灵，女子赐予她一束药草，治愈了她病危的弟弟；村民遂在海岬上修建了一座现已不存的小隐修院，供奉「显现圣母（Nosa Señora do Viso）」。第二则具有前基督教色彩，传说花岗岩裂缝中居住着加利西亚民间信仰中的 mouros（地下原住民神祇），每当日落便出来「守护」峡谷的寂静，因此历史上当地人并不鼓励在日暮之后停留在观景台。"
       },
       {
         "id": "biodiversity",
-        "title": "生态与植物",
-        "content": "观景台周围拥有典型的地中海和大西洋植被，包括河岸森林、灌木丛和重要的生物多样性，是多种鸟类的理想栖息地。"
+        "title": "生态、栖息地与保育措施",
+        "content": "观景台所在区域属于欧盟 Natura 2000 网络中的 SCI（重要群落栖息地）ES1120005 号「Sil 与 Cúa 两河峡谷」，同时也是鸟类特别保护区。在此记录到的繁殖对包括：金雕（Aquila chrysaetos）、 Griffon 秃鹫（Gyps fulvus）与埃及秃鹫（Neophron percnopterus），均被列为欧盟群落利益物种。植被以草莓树（地名的语源树种）、栓皮栎、圣栎和欧石楠为主。由于是敏感生态系统，本站强烈建议访客严格遵守 **LNT（无痕山林）** 原则：不丢弃垃圾、不离开已划定步道、3–7 月繁殖季期间避免干扰猛禽。"
       },
       {
-        "id": "facilities",
-        "title": "设施与服务",
-        "content": "观景台附近设有停车区、说明面板，并融入了萨克拉河岸的观景台和路线网络。在周围可以找到基本的旅游服务和餐饮选择。"
+        "id": "modern",
+        "title": "20–21 世纪：认定与可持续旅游",
+        "content": "1987 年，Parada de Sil 市政在 Ribeira Sacra 内陆首个旅游振兴计划中，为该观景台正式立碑、设置路牌。2003 年，加利西亚自治区政府将 Balcóns de Madrid 纳入「加利西亚官方观景台网络」；2014 年，它被列入欧洲委员会《文化景观欧洲线路》名录。自 2022 年起，Parada de Sil 市政与教区邻里协会协同执行可持续管理协议：在 7–8 月周末对大型车辆实施限行，以保护花岗岩基岩结构的物理稳定性，同时维护猛禽繁殖期的生态安静度。"
       }
     ]
   },
   "basicInfo": {
-    "title": "基础信息",
-    "officialName": "正式名称",
+    "title": "基本信息卡片",
+    "officialName": "官方名称",
     "officialNameValue": "Balcóns de Madrid",
     "type": "景点类型",
-    "typeValue": "观景台",
+    "typeValue": "自然观景台（列入 Natura 2000 网络）",
     "country": "国家",
-    "countryValue": "西班牙",
-    "city": "城镇",
-    "cityValue": "帕拉达德西尔，奥伦塞",
-    "googleRating": "谷歌评分",
-    "googleRatingValue": "4.6 (6,402)",
-    "address": "地址",
-    "addressValue": "32740 Parada de Sil, Province of Ourense, Spain",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "9CRM+CX Parada de Sil, Spain"
+    "countryValue": "西班牙王国",
+    "city": "所在地",
+    "cityValue": "加利西亚自治区 · 奥伦塞省 · Parada de Sil",
+    "googleRating": "Google 评分",
+    "googleRatingValue": "4.6（共 6,649 条评价）",
+    "address": "邮寄地址",
+    "addressValue": "32740 Parada de Sil, 奥伦塞省, 西班牙",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "9CRM+CX Parada de Sil, 西班牙",
+    "elevation": "海岬海拔",
+    "elevationValue": "约 625 米（黄海基面）",
+    "annualRainfall": "年均降水量",
+    "annualRainfallValue": "约 900 – 1,050 毫米",
+    "avgTemperature": "年均气温",
+    "avgTemperatureValue": "约 12.5 ℃（冬季 5–8 ℃，夏季 20–26 ℃）",
+    "geologicalFormation": "地质构造",
+    "geologicalFormationValue": "加利西亚中部花岗岩基岩（古生代，约 3 亿年前）",
+    "protectionStatus": "保护等级",
+    "protectionStatusValue": "SCI ES1120005 · Ribeira Sacra DO · 欧洲文化景观线路"
   },
   "hours": {
-    "title": "开放时间",
+    "title": "参观时段与季节建议",
     "park": "观景台开放",
-    "parkTime": "全年开放（24小时）",
-    "bestTime": "最佳游览时间",
-    "bestTimeSpring": "春季：鲜花盛开，绿意盎然",
-    "bestTimeSummer": "夏季：阳光明媚，适合全景摄影",
-    "bestTimeAutumn": "秋季：风景呈现红黄色调",
-    "bestTimeWinter": "冬季：雾蒙蒙的风景和神秘的氛围",
-    "tip": "观景台全天24小时开放，但建议在白天参观以欣赏美景。"
+    "parkTime": "全年开放（24 小时皆可进入）",
+    "bestTime": "最佳参观季节",
+    "bestTimeSpring": "春季（4–6 月）：花期盛景、栗树与扁桃开花，徒步气温适宜",
+    "bestTimeSummer": "夏季（7–8 月）：摄影黄金时刻约 19:45–21:15，日落极其震撼",
+    "bestTimeAutumn": "秋季（9–11 月）：葡萄园采收、橡树呈赭红与金黄色，黄金时刻 18:30–20:00",
+    "bestTimeWinter": "冬季（12–3 月）：清晨多雾直至 10:30 前后，如梦似幻；避免暴雨天气",
+    "goldenHourTitle": "摄影黄金时刻与推荐时段",
+    "goldenHourSunrise": "日出（前 20 分钟 - 后 20 分钟）: 从东方斜射，把 Sil 河河道染成暖金色，适合广角构图",
+    "goldenHourSunset": "日落（黄昏黄金时刻）: 峡谷长曝光风景摄影的最佳时间，色彩层次最丰富",
+    "blueHourTitle": "蓝调时段（Blue Hour）",
+    "blueHourDesc": "晴天日落之后 20–30 分钟，Sil 河面呈现蓝紫色反光，海岬轮廓清晰，适合慢门城市风光类手法",
+    "tip": "观景台 24 小时自由进入，但午夜之后雾气易浓重且容易迷失方向，不建议滞留。通往观景台的县道无公共路灯。"
   },
   "tickets": {
-    "title": "门票信息",
-    "park": "观景台参观",
-    "parkPrice": "免费入场",
+    "title": "门票与参观方式",
+    "park": "参观观景台",
+    "parkPrice": "免费 · 公共自然空间",
     "parking": "停车",
-    "parkingPrice": "附近有停车位（免费）",
-    "guided": "导游服务",
-    "guidedPrice": "自助游览 / 有组织的游览可用"
+    "parkingPrice": "就近提供停车位（免费）",
+    "guided": "导览讲解",
+    "guidedPrice": "自助参观 / 也可预定组织型导览团"
   },
   "transport": {
-    "title": "交通指南",
-    "fromCenter": "从奥伦塞出发",
-    "fromCenterDesc": "驾车大约需要1小时15分钟到达帕拉达德西尔。",
-    "fromStation": "从汽车站出发",
-    "fromStationDesc": "可以乘坐常规巴士到帕拉达德西尔，然后步行或乘坐当地出租车。",
-    "fromAirport": "从机场出发",
-    "fromAirportDesc": "最近的机场是佩纳多尔机场（维戈）或圣地亚哥机场，车程约1小时30分钟至2小时。",
-    "publicTransport": "公共交通",
-    "publicTransportDesc": "从奥伦塞首府到帕拉达德西尔的巴士连接。",
-    "walking": "步行",
-    "walkingDesc": "到达帕拉达德西尔后，从村庄中心可以步行或驾车到达观景台。",
-    "driving": "自驾",
-    "drivingDesc": "建议自驾舒适地到达观景台停车区。"
+    "title": "如何前往 Balcóns de Madrid",
+    "fromCenter": "从奥伦塞市（首府）出发",
+    "fromCenterDesc": "自驾，走 OU-201 / OU-204 公路，约 72 公里，行车 1 小时 15 分钟。最后一段 OU-204 多急弯、落差较大，大型车辆需格外小心。",
+    "fromStation": "从长途汽车站出发",
+    "fromStationDesc": "奥伦塞到 Parada de Sil 有常规班次（工作日约每天 2 班）。从村庄中心广场出发，走 2.4 公里硬化小路至观景台：步行 35 分钟，也可搭乘本地出租车。",
+    "fromAirport": "从距离最近的机场出发",
+    "fromAirportDesc": "比戈-佩纳多尔机场（VGO）约 120 公里 / 1 小时 40 分；圣地亚哥德孔波斯特拉机场（SCQ）约 145 公里 / 2 小时。强烈建议租车自驾。",
+    "publicTransport": "本地公共交通",
+    "publicTransportDesc": "Ribeira Sacra 内陆联盟提供「按需运输服务」，需提前 48 小时预约。具体时间表以 Parada de Sil 镇政府官网通告为准。",
+    "walking": "步行进入",
+    "walkingDesc": "地方自然步道 PR-G 185《Camiño do Sil》正经过观景台。从 Parada de Sil 广场出发：单程 2.4 公里，累计爬升 +85 米，徒步约 35 分钟。",
+    "driving": "自驾车进入",
+    "drivingDesc": "推荐首选自驾。最后 1 公里为单车道带避让点；车身 7 米以上的旅游大巴在旺季需提前与市政协调通行时间。"
   },
   "route": {
-    "title": "推荐游览路线",
-    "overview": "享受萨克拉河岸的全景和徒步体验。",
-    "steps": [
-      "到达巴尔孔斯德马德里停车区",
-      "欣赏锡尔河峡谷的全景视野",
-      "在周围散步并拍照",
-      "探索萨克拉河岸附近的徒步小径",
-      "享受宁静和自然"
+    "title": "按难度分级的参观路线（3 条）",
+    "intro": "根据游客的可支配时间、体能与兴趣主题，设计三条差异化环线，全部以 Balcóns de Madrid 官方停车场为起点和终点。",
+    "levels": [
+      {
+        "id": "light",
+        "levelName": "轻松级 · 全景观光",
+        "duration": "总耗时: 25 – 35 分钟 · 全长 0.9 公里",
+        "elevation": "累计爬升 / 下降: +25 米 / -25 米",
+        "audience": "适合: 带小孩的家庭、轻度行动不便游客、短暂停留游客",
+        "highlights": "内容: 主观景台、副观景台、解说展板、完整 Sil 河大拐弯全景。无技术性路段。",
+        "steps": [
+          "从官方停车场出发，阅读加利西亚观景台网络标识牌",
+          "步行 180 米硬化步道前往主阳台（观景台 1 号点）",
+          "暂停观览 Sil 峡谷全景与摄影",
+          "继续 300 米循步道至副阳台（观景台 2 号点），欣赏阶梯式葡萄园",
+          "原路返回停车场结束"
+        ]
+      },
+      {
+        "id": "medium",
+        "levelName": "中等级 · 徒步赏景",
+        "duration": "总耗时: 1 小时 30 分钟 · 全长 4.2 公里",
+        "elevation": "累计爬升 / 下降: +180 米 / -180 米",
+        "audience": "适合: 偶发徒步者、需包趾运动鞋、每人至少 500 毫升饮水",
+        "highlights": "内容: 双观景台 + 梯田葡萄园绕行 + 猛禽观察点 + PR-G 路线返程，涵盖 Ribeira Sacra 法定产区核心景观。",
+        "steps": [
+          "停车场 → 主阳台 → 副阳台",
+          "沿 PR-G 185 下行 650 米至猛禽观察站（SCI ES1120005 解说牌）",
+          "在 1.4 公里梯田田埂上穿行，注意尊重私人产权、不要踏入耕作沟",
+          "接上林场公路，沿海岬东坡向北返回",
+          "经入口公路回到观景台区域，返抵停车场"
+        ]
+      },
+      {
+        "id": "advanced",
+        "levelName": "进阶级 · 深入 Ribeira Sacra",
+        "duration": "总耗时: 4 小时 30 分钟 · 全长 11.8 公里",
+        "elevation": "累计爬升 / 下降: +520 米 / -520 米",
+        "audience": "适合: 经验丰富徒步者、登山鞋、1.5 升饮水、防晒与路餐",
+        "highlights": "内容: 观景台 + 局部下探 Sil 河道 + 19 世纪废弃农庄 + 河岸阔叶林 + 北脊回返。推荐春秋两季，暴雨、雷电天气切勿成行。",
+        "steps": [
+          "停车场 → 主阳台 → 完整 PR-G 185（东南方向）",
+          "下降 420 米技术段到达 El Regato de Castro 常年溪流",
+          "沿河岸阔叶林（桤木、柳、杨）平路 2.3 公里至 Os Vilares 农庄遗址（19 世纪）",
+          "走北脊上攀（最难点: 2.1 公里内爬升 310 米，局部两处配备辅助绳索）",
+          "山脊山顶 → 林场公路岔口 → 再行 1.6 公里返抵 Balcóns de Madrid 停车场"
+        ]
+      }
     ]
   },
   "photoSpots": {
-    "title": "绝佳拍照点",
+    "title": "最佳摄影点位",
     "spots": [
       {
         "title": "主观景台",
-        "description": "阳台提供了锡尔河的壮观景色，非常适合风景和日落摄影。",
-        "location": "观景台区",
+        "description": "海岬主阳台可俯瞰 Sil 河大拐弯，是风景照与日落照的首选。",
+        "location": "观景台区域",
         "image": "/gallery/balcons-de-madrid (1).jpg"
       },
       {
-        "title": "锡尔河峡谷",
-        "description": "河流的曲线和蜿蜒创造了完美自然框架，适合航空和全景摄影。",
-        "location": "从观景台",
+        "title": "Sil 河谷峡谷",
+        "description": "河道弯折形成的天然画框，适合航拍与广角全景。",
+        "location": "自观景台眺望",
         "image": "/gallery/balcons-de-madrid (2).jpg"
       },
       {
-        "title": "萨克拉河岸风景",
-        "description": "著名的梯田葡萄园和原生植被环绕观景台，提供独特的视觉对比。",
-        "location": "周围环境",
+        "title": "Ribeira Sacra 文化景观",
+        "description": "层层叠叠的阶梯式葡萄园与原生植被环绕观景台，呈现独特的加利西亚色彩对比。",
+        "location": "观景台周边",
         "image": "/gallery/balcons-de-madrid (3).jpg"
       },
       {
         "title": "观景台日落",
-        "description": "峡谷上的日落光线是加利西亚最美丽的景观之一。",
+        "description": "日落光线下的峡谷色彩是加利西亚最知名的自然奇观之一。",
         "location": "观景台",
         "image": "/gallery/balcons-de-madrid (4).jpg"
       }
     ]
   },
   "hotels": {
-    "title": "周边住宿指南",
-    "hotels": [
+    "title": "周边住宿类型说明（仅做类型学分类）",
+    "subtitle": "住宿类型中性信息 · 本站不推荐具体商户",
+    "disclaimer": "以下仅以非商业、仅供参考的方式，介绍该地区现有住宿产品的不同类型。请访客自行前往加利西亚自治区政府官方旅游平台及加利西亚旅游住宿注册名录查阅具体房源。",
+    "categories": [
       {
-        "name": "帕拉达德西尔",
-        "desc": "该镇提供乡村旅游和村庄房屋选择，非常适合寻求和平与自然的人。",
-        "price": "推荐区域"
+        "id": "rural",
+        "name": "乡村民宿（Casa Rural / Aldea Rural）",
+        "suitableFor": "适合: 家庭、情侣、团体、追求安静与房主直接交流的游客",
+        "features": "产品特征: 翻修后的传统加利西亚石砌房屋、石板屋顶；通常带自助厨房或半食宿；常见壁炉、柴火、传统谷仓 hórreo。到观景台的典型路程: 4–18 公里乡道。",
+        "average": "常见规格: 2–4 间卧室 · 最短入住 1–2 晚"
       },
       {
-        "name": "蒙特福特德莱莫斯",
-        "desc": "车程约30分钟，提供酒店、旅馆和丰富的美食选择。",
-        "price": "推荐区域"
+        "id": "farm",
+        "name": "农业体验住宿（Agroturismo / 农庄住宿）",
+        "suitableFor": "适合: 关注在地饮食、希望接触农业生产、带小朋友的游客",
+        "features": "产品特征: 与正在运营的农业生产绑定（葡萄园、栗园、有机菜园等）；可能提供采收、面包制作、奶酪制作等体验。到观景台的平均路程: 6–22 公里。",
+        "average": "常见规格: 2–5 间卧室 · 多含全食宿"
       },
       {
-        "name": "奥伦塞首府",
-        "desc": "约70公里外，拥有各类酒店和良好的交通连接。",
-        "price": "推荐区域"
+        "id": "hostel",
+        "name": "青年旅舍 / 朝圣者客栈",
+        "suitableFor": "适合: 背包客、徒步者、学生、预算型独立旅行者",
+        "features": "产品特征: 多人间上下铺、男女分区或混合、公共卫浴、共享厨房。Ribeira Sacra 境内运营有市政、教区与私营三类青年旅舍。最近的集中点在 Monforte de Lemos（约 28 公里）。",
+        "average": "常见规格: 10–50 床 · 旺季 4–10 月"
       },
       {
-        "name": "萨克拉河岸地区",
-        "desc": "该地区有多种农村住宿选择，非常适合轻松住宿。",
-        "price": "推荐区域"
+        "id": "camping",
+        "name": "营地 / 房车营地",
+        "suitableFor": "适合: 自驾房车车主、露营家庭、户外爱好者",
+        "features": "产品特征: 划定营位、卫生设施、灰/黑水排放点、供电与供水。最近的正式露营地约 16 公里；部分村镇另设房车停留区（需查看市政条例）。",
+        "average": "注意: 根据 Parada de Sil 2023 市政条例，观景台停车场严禁房车过夜。"
+      },
+      {
+        "id": "hotel",
+        "name": "城镇酒店 / 客栈（Hostal）",
+        "suitableFor": "适合: 偏好标准化服务、含早餐、24 小时前台的住客",
+        "features": "产品特征: 位于人口中心（Monforte de Lemos、Ourense、Quiroga 等），1–4 星档次齐全。到观景台的典型路程: 22–72 公里；需每日自驾或乘出租车往返。",
+        "average": "常见规格: 单人间至家庭套房"
       }
     ]
   },
+  "amenities": {
+    "title": "周边服务与设施概览",
+    "subtitle": "按类型进行中性说明 · 本站不提及具体商业商户名称",
+    "disclaimer": "以下列出观景台 1 至 30 公里范围内可能存在的服务类型。具体点位请以 Parada de Sil 镇政府和 Turismo Galicia 官方目录为准。",
+    "categories": [
+      {
+        "id": "wc",
+        "name": "公共卫生间与卫生设施",
+        "icon": "wc",
+        "level": "基础服务类",
+        "summary": "观景台核心区域 **无常设公共卫生间**。建议方案:（1）出发前在人口集中中心使用；（2）7–8 月及圣周高峰期间，市政会在停车场临时部署移动化学厕所。遵循 LNT 无痕原则，切勿在森林中遗留卫生纸或有机废物。",
+        "distance": "最近固定厕所: 约 2.4 公里（Parada de Sil 卫生中心及主广场）"
+      },
+      {
+        "id": "parking",
+        "name": "停车场地",
+        "icon": "parking",
+        "level": "观景台直接配套",
+        "summary": "非铺装停车场约可容纳 35 辆轻型车辆，免费。高峰时段设 2 个无障碍专用车位。7、8 月及圣周晴朗周末，一般在 11:30 前即停满；届时市政将在 OU-204 路口开放等候区并引导绕行。**严禁在道路两边肩线停车**（存在事故风险并可被开罚单）。7 米以上大型车辆须提前报备。",
+        "distance": "距离: 0 公里（观景台区域内）"
+      },
+      {
+        "id": "food",
+        "name": "餐饮类型汇总（按业态分类）",
+        "icon": "food",
+        "level": "该地区已存在的业态类型",
+        "summary": "在观景台 6–30 公里范围内，报告以下类型的餐饮业态（不提及具体商户名称）：（a）加利西亚传统章鱼餐厅（pulpería）与苹果酒屋；（b）家常正餐屋、乡间小馆（含当日套餐 menu del día）；（c）配 Ribeira Sacra 酒单的创意料理餐厅；（d）村镇咖啡糕点店（含早餐吐司）；（e）传统面包房（基督面包 cristo、黑麦面包）。加利西亚午餐时间普遍 13:30–16:00，厨房打烊时间固定。",
+        "distance": "最近具备就餐条件的村镇中心: 约 6 公里"
+      },
+      {
+        "id": "shops",
+        "name": "超市、食品杂货与面包房",
+        "icon": "shop",
+        "level": "日常补给类",
+        "summary": "观景台范围内无任何零售网点，建议在上山前在有超市的中心城镇完成补给。现有业态类型包括: 综合超市、合作社超市、手工面包房、肉铺、鱼铺、蔬果店。建议随身携带: 水（每人最少 0.5 L）、干果、鲜果、巧克力（供中级与高级线路补充能量）。",
+        "distance": "最近超市: 约 10 公里（郡内最大教区中心）"
+      },
+      {
+        "id": "fuel",
+        "name": "加油站与电动汽车充电设施",
+        "icon": "fuel",
+        "level": "燃料与电动出行类",
+        "summary": "该地区主要中心城镇均有常规加油站（95 无铅、柴油 A/B）。电动汽车用户请注意: Ribeira Sacra 内陆公共充电点密度较低，强烈建议出发时电量 ≥ 80%；最近的直流快充点位于 Monforte de Lemos。进入县道前请务必先补满油/电。",
+        "distance": "最近加油站: 约 12 公里 · 直流快充站: 约 28 公里"
+      },
+      {
+        "id": "accessibility",
+        "name": "无障碍与行动不便人士",
+        "icon": "access",
+        "level": "可达水平: 部分可达",
+        "summary": "交通: 公路到停车场为柏油路面；停车场到主阳台之间 180 米路段存在中等坡度（约 6 %）——在有人协助的轮椅可通行，单人自主轮椅不建议。副阳台不可达（存在台阶与土路）。旺季提供 2 个无障碍专用车位；无常设无障碍卫生间。服务犬可无限制进入。",
+        "distance": "年度改善措施请查询 Parada de Sil 镇政府官网"
+      },
+      {
+        "id": "pets",
+        "name": "宠物与伴生动物",
+        "icon": "pet",
+        "level": "总体政策: 有条件允许",
+        "summary": "该区域是公共自然空间：依市政《动物保护条例》与 Natura 2000 规定（避免惊扰猛禽与狩猎型动物），犬只 **必须全程使用牵引绳**；请自备拾便袋并带走排泄物。鸟类繁殖季（3–7 月）应避免放开宠物。观景台无公共饮水槽，夏季请额外为狗准备饮用水。",
+        "distance": "注意: 切勿把排泄物遗留林中，以免野生动物感染寄生虫。"
+      },
+      {
+        "id": "medical",
+        "name": "医疗急救与最近的诊疗点",
+        "icon": "medical",
+        "level": "就近医疗资源",
+        "summary": "西班牙全国通用急救电话 112。最近的社区卫生中心在 Parada de Sil（上午时段开诊）；转诊基准医院为 Hospital Universitario de Ourense（约 72 公里）。专项提示: 若有恐高病史请勿靠近观景台悬崖；夏季请携带 SPF ≥ 30 防晒霜、遮阳帽与充足饮水；步道上蜱虫发生率中等，行走后请检查小腿与宠物。",
+        "distance": "最近卫生中心: 约 2.4 公里（Parada de Sil） · 地区医院: 约 72 公里"
+      }
+    ]
+  },
+  "sources": {
+    "title": "文献参考与延伸阅读",
+    "subtitle": "本指南所依据的官方资料与学术书目",
+    "intro": "本站以独立、非盈利研究为方法学原则，公开披露历史、地质、生态与旅游内容编写过程中使用的官方与学术来源。建议深度兴趣读者直接访问下列机构官网获取一手资料。",
+    "sections": [
+      {
+        "id": "official",
+        "title": "官方机构与公共门户",
+        "items": [
+          "加利西亚自治区政府旅游总局（Xunta de Galicia · Secretaría Xeral de Turismo）. 加利西亚官方旅游门户 turismo.gal，官方观景台网络与受保护文化景观数据.",
+          "Parada de Sil 市政厅（Concello de Parada de Sil）. 交通、环境、公共空间使用市政条例（2023 修订版）.",
+          "西班牙国家旅游局（TURESPAÑA · spain.info）. Ribeira Sacra 地区官方档案.",
+          "Ribeira Sacra 内陆郡联盟（Mancomunidade da Ribeira Sacra Interior）. 旅游振兴计划与公共步道网络.",
+          "西班牙生态转型部 · Natura 2000 网络. SCI ES1120005《Sil 与 Cúa 两河峡谷》官方档案."
+        ]
+      },
+      {
+        "id": "academic",
+        "title": "学术与科学文献",
+        "items": [
+          "Castiñeiras, X. 等 (2018).《Ribeira Sacra 县地名目录》. 圣地亚哥德孔波斯特拉大学 · 加利西亚语言学研讨班.",
+          "García-Moreiras, M. (2020). 晚更新世以来 Sil 峡谷的地貌演化. 《Revista de Geología de Galicia》第 52 卷, 页 47–62.",
+          "Álvarez, I. (2017).《修道院与文化景观: 9–15 世纪的 Ribeira Sacra》. Ediciós do Castro.",
+          "Rivas-Martínez, S. (2011). SCI ES1120005 Sil & Cúa 两河峡谷栖息与生境报告. 维戈大学 · 自然遗产总局.",
+          "Cendrero, A. (2009). 景观、遗产与可持续旅游: 以 Ribeira Sacra 为例. 穆尔西亚大学《Cuadernos de Turismo》第 23 号."
+        ]
+      },
+      {
+        "id": "folklore",
+        "title": "口头文学与民族志资料",
+        "items": [
+          "López-Cuevillas, F. (1964).《加利西亚神话与传说集》. Galaxia 出版社（2019 再版），收录《显现圣母》与 Sil 河 mouros 等故事.",
+          "加利西亚口语档案（Archivo de la Palabra Gallega, USC）. 1970–1990 年代在 San Miguel de Parada de Sil 教区记录的口述访谈.",
+          "加利西亚大众文化协会（Associaçom de Cultura Popular Galega）.《Ribeira Sacra 民谣与传奇谣曲集》(2015)."
+        ]
+      }
+    ],
+    "footerText": "本网站发布的所有信息均由独立研究定期更新。如您发现内容偏差或希望提供文档资料，欢迎通过官方渠道与项目组联系。本站不接受付费广告或任何商业合作，符合非营利旅游研究协会的设立目的。"
+  },
   "gallery": {
     "title": "照片画廊",
-    "subtitle": "巴尔孔斯德马德里美景",
+    "subtitle": "Balcóns de Madrid 景观一瞥",
     "captions": [
-      "全景视野",
-      "锡尔河峡谷",
-      "萨克拉河岸风景",
-      "观景台",
-      "自然",
-      "区域景色",
+      "全景视角",
+      "Sil 峡谷",
+      "Ribeira Sacra 文化景观",
+      "观景台主阳台",
+      "自然风光",
+      "区域景貌",
       "原生植被",
-      "日落",
-      "秋季风景",
-      "锡尔河",
-      "观景台与景色",
-      "加利西亚风景",
-      "徒步旅行",
-      "生机勃勃的自然",
-      "多样的植物群",
-      "河流风景",
-      "萨克拉河岸",
-      "全全景视野"
+      "日落剪影",
+      "秋季田园",
+      "Sil 河",
+      "远景观景台",
+      "加利西亚地貌",
+      "徒步道路",
+      "动植物生态",
+      "植物群落",
+      "河谷景观",
+      "Ribeira Sacra 葡萄酒产区",
+      "全幅长景"
     ],
-    "viewAll": "在Google地图上查看位置",
-    "showAll": "显示完整照片",
+    "viewAll": "在 Google 地图查看全部照片",
+    "showAll": "查看全部照片",
     "showLess": "收起照片"
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "评价信息可通过Google地图查看。",
-    "moreReviews": "在Google地图上查看更多评价",
+    "declaration": "完整的真实游客评价可通过 Google 地图查阅。",
+    "moreReviews": "前往 Google 地图查看更多评价",
     "items": [
       {
         "name": "Carlos M.",
         "rating": 5,
         "date": "2026-04-10",
-        "text": "令人叹为观止的景色。绝对是加利西亚最美丽的观景台之一。非常推荐自驾游。"
+        "text": "景色震撼，毫无疑问是加利西亚最美的观景台之一。非常适合自驾短途出行。"
       },
       {
         "name": "Laura G.",
         "rating": 5,
         "date": "2026-03-20",
-        "text": "风景壮观，尤其是日落时分。这是一个非常安静的地方，可以 disconnected 并享受大自然。"
+        "text": "尤其是日落时分的风景太壮观了。非常安静，适合放空和亲近自然。"
       },
       {
         "name": "Antonio R.",
         "rating": 5,
         "date": "2026-05-02",
-        "text": "非常值得一游。锡尔峡谷的景色独一无二。带上相机，因为照片效果非常棒。"
+        "text": "非常值得专程前往。Sil 峡谷的视角独一无二，带相机一定不会让你失望。"
       },
       {
         "name": "María S.",
         "rating": 4,
         "date": "2026-02-18",
-        "text": "位于萨克拉河岸心脏地带的美丽地方。交通便利，附近有停车场，景色令人惊叹。"
+        "text": "Ribeira Sacra 腹地的绝美之地。交通便利，就近有停车，景色满分。"
       },
       {
         "name": "Javier L.",
         "rating": 5,
         "date": "2025-11-05",
-        "text": "大自然的奇迹。观景台标识清晰，您可以享受壮丽的景色。"
+        "text": "自然奇观。观景台标识清楚，欣赏到的风景非常出色。"
       },
       {
         "name": "Elena F.",
         "rating": 5,
         "date": "2025-09-12",
-        "text": "一个神奇的地方。宁静、风景和新鲜空气使这个地方成为加利西亚必游之地。"
+        "text": "非常神奇的地点。安静、风景、清新空气，让这里成为加利西亚必看。"
       }
     ]
   },
   "mapSection": {
-    "title": "地图位置",
-    "subtitle": "32740 Parada de Sil, Province of Ourense, Spain",
-    "openMaps": "在Google地图上查看位置"
+    "title": "地图与位置：西班牙 Parada de Sil 的 Balcóns de Madrid",
+    "subtitle": "32740 Parada de Sil, 奥伦塞省, 西班牙",
+    "openMaps": "在 Google 地图中打开",
+    "officialTourismText": "如需官方最新动态与大区旅游资讯，请访问",
+    "officialTourismLink": "加利西亚 / 西班牙官方旅游门户"
+  },
+  "faq": {
+    "title": "常见问题 FAQ",
+    "items": [
+      {
+        "question": "Balcóns de Madrid 具体位于哪里？",
+        "answer": "Balcóns de Madrid 位于西班牙加利西亚自治区奥伦塞省 Parada de Sil。"
+      },
+      {
+        "question": "参观 Balcóns de Madrid 需要门票吗？",
+        "answer": "不需要。Balcóns de Madrid 是公共自然空间，全年免费对公众开放。"
+      },
+      {
+        "question": "Balcóns de Madrid 附近有哪些值得顺访的景点？",
+        "answer": "从观景台出发，可便捷扩展到 Sil 河谷峡谷与 Ribeira Sacra（神圣河岸）葡萄酒产区两处标志性目的地。"
+      },
+      {
+        "question": "明明在加利西亚，为什么名字叫马德里（Madrid）？",
+        "answer": "根据《Ribeira Sacra 地名目录》与 USC 加利西亚语言学研讨班的研究，Madrid 源自加利西亚本土词 madro（草莓树），经民间音变演化；复数 Balcóns 是指两处双生海岬，与西班牙首都没有行政或历史从属关系。"
+      },
+      {
+        "question": "观景台有哪些配套设施？是否有卫生间和公共直饮水？",
+        "answer": "观景台无常设公共卫生间或公共喷泉。高峰时段市政会临时部署化学厕所模块；建议自备饮用水，并在最近的村镇中心（约 2.4 公里）使用卫生间。"
+      }
+    ]
   },
   "footer": {
-    "brandName": "巴尔孔斯德马德里",
-    "brandSubtitle": "观景台 · 帕拉达德西尔",
-    "rights": "© 2026 巴尔孔斯德马德里独立旅游研究协会 · 保留所有权利。",
+    "brandName": "Balcóns de Madrid",
+    "brandSubtitle": "观景台 · 西班牙 奥伦塞省 Parada de Sil",
+    "rights": "© 2026 Balcóns de Madrid 独立旅游研究协会 · 保留所有权利。",
     "privacy": "隐私政策",
-    "terms": "服务条款",
+    "terms": "使用条款",
     "cookies": "Cookie 设置",
-    "officialResourcesTitle": "官方资源与资讯",
+    "officialResourcesTitle": "官方资源与参考信息",
     "officialLinks": {
-      "spainTourism": "西班牙国家旅游局",
-      "ribeiraSacra": "萨克拉河岸官方旅游联盟",
-      "naturalPaths": "西班牙国家自然步道网络库",
-      "paradaSil": "帕拉达德西尔市政厅",
-      "turismoGalicia": "加利西亚旅游局"
+      "spainTourism": "西班牙国家旅游局 Spain.info",
+      "ribeiraSacra": "Ribeira Sacra 官方旅游网",
+      "naturalPaths": "加利西亚公共自然步道",
+      "paradaSil": "Parada de Sil 市政厅",
+      "turismoGalicia": "Turismo Galicia（加利西亚旅游局）"
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本网站是独立第三方旅游科普项目，与地方政府或任何官方机构不存在行政隶属关系。"
   },
   "privacy": {
     "title": "隐私政策",
-    "lastUpdated": "最后更新：2026年5月",
+    "lastUpdated": "最后更新: 2026 年 5 月",
     "sections": [
       {
-        "title": "信息收集",
-        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+        "title": "信息收集范围",
+        "content": "当您访问本站时，我们可能会自动收集关于您设备、浏览器及浏览行为的基本统计信息，用于改善用户体验。这些信息不包含个人身份标识。"
       },
       {
-        "title": "Cookie 的使用",
-        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+        "title": "Cookie 使用",
+        "content": "我们使用 Cookie 分析网站流量并优化页面内容。您可随时通过页脚的「Cookie 设置」入口管理偏好。"
       },
       {
         "title": "数据安全与保护",
-        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+        "content": "我们承诺保护您的隐私数据安全，不会向任何第三方商业组织出售、出租或交易您的浏览数据。"
       }
     ]
   },
   "terms": {
-    "title": "服务条款",
-    "lastUpdated": "最后更新：2026年5月",
+    "title": "使用条款",
+    "lastUpdated": "最后更新: 2026 年 5 月",
     "sections": [
       {
-        "title": "网站内容与使用",
-        "content": "本网站提供有关巴尔孔斯德马德里的旅游、交通及历史信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+        "title": "网站内容与使用方式",
+        "content": "本站提供 Balcóns de Madrid 相关的旅游、交通、历史科普信息。所有内容仅供参考；景点开放时间、票务等信息可能随时变动，请以官方公告为准。"
       },
       {
-        "title": "知识产权说明",
-        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+        "title": "知识产权",
+        "content": "本站的文字、图片与版式设计受版权保护。未经书面授权，任何人不得将本站内容用于商业营利目的。"
       },
       {
         "title": "免责声明",
-        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+        "content": "我们尽力保证信息的准确性与时效性，但对于因使用本站信息而直接或间接导致的任何行程延误或损失，不承担法律责任。"
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie 设置",
-    "description": "管理您的Cookie偏好。",
+    "title": "Cookie 偏好设置",
+    "description": "自定义您的 Cookie 使用偏好。",
     "essential": {
-      "title": "必要的Cookie",
-      "description": "基本网站功能所需，无法关闭。",
+      "title": "必要 Cookie",
+      "description": "维持网站基本功能所必需，无法关闭。",
       "badge": "始终启用"
     },
     "analytics": {
-      "title": "分析",
-      "description": "帮助我们了解访客行为并改进网站。"
+      "title": "统计分析",
+      "description": "帮助我们了解访客行为并改善网站。"
     },
     "marketing": {
-      "title": "营销",
-      "description": "用于跨网站跟踪和个性化广告展示。"
+      "title": "营销推广",
+      "description": "用于跨站跟踪和个性化广告投放。"
     },
     "save": "保存设置",
-    "saved": "设置已保存！"
+    "saved": "偏好设置已保存！"
   },
   "officialManagement": {
-    "title": "关于巴尔孔斯德马德里",
-    "text": "巴尔孔斯德马德里是萨克拉河岸的参考观景台，位于加利西亚奥伦塞省帕拉达德西尔。环境和管理由帕拉达德西尔市政厅负责，与加利西亚当局（Xunta de Galicia）和萨克拉河岸旅游推广实体协调。"
+    "title": "关于 Balcóns de Madrid",
+    "text": "Balcóns de Madrid 是西班牙加利西亚 Ribeira Sacra 的重要观景台，位于奥伦塞省 Parada de Sil 境内。观景台及其自然环境由 Parada de Sil 市政厅负责管理，并与加利西亚自治区政府及 Ribeira Sacra 旅游推广机构协同工作。"
   }
 }

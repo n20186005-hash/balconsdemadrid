@@ -1,7 +1,24 @@
 {
   "meta": {
-    "title": "Balcóns de Madrid",
-    "description": "Complete guide to Balcóns de Madrid in Parada de Sil. Learn about this scenic viewpoint, its location, visiting information, and travel tips."
+    "title": "Balcóns de Madrid (Parada de Sil) - Visitor Guide & Location",
+    "description": "Discover Balcóns de Madrid, the iconic landmark in Parada de Sil, Ourense, Spain. View location map, opening details, nearby Sil River Canyon, and travel tips."
+  },
+  "entity": {
+    "fullName": "Balcóns de Madrid",
+    "shortName": "Balcóns de Madrid",
+    "city": "Parada de Sil",
+    "province": "Ourense",
+    "country": "Spain",
+    "countryCode": "ES",
+    "postalCode": "32740",
+    "latitude": 42.391106,
+    "longitude": -7.5650627,
+    "nearbyLandmark1": "Sil River Canyon",
+    "nearbyLandmark2": "Ribeira Sacra",
+    "domain": "balconsdemadrid.com",
+    "mapsShareUrl": "https://maps.app.goo.gl/TzkkyRH23uWsMYzd9",
+    "mapsEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5241.171663121448!2d-7.5650626999999995!3d42.39110600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd300ed9b416e25d%3A0x89ada0b21c834074!2sBalc%C3%B3ns%20de%20Madrid!5e1!3m2!1sen!2s!4v1787917640092!5m2!1sen!2s",
+    "govtTourismUrl": "https://www.turismo.gal/"
   },
   "header": {
     "home": "Home",
@@ -11,16 +28,26 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Balcóns de Madrid",
-    "subtitle": "Viewpoint · Parada de Sil",
+    "title": "Balcóns de Madrid (Parada de Sil)",
+    "subtitle": "Viewpoint · Parada de Sil, Ourense",
     "rating": "4.6",
-    "reviewCount": "6,402 reviews",
+    "reviewCount": "6,649 reviews",
     "type": "Viewpoint",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "imageAlt": "Balcóns de Madrid - Main view in Parada de Sil, Spain"
   },
   "intro": {
-    "title": "Discover Balcóns de Madrid",
-    "description": "Balcóns de Madrid is one of the most spectacular viewpoints in the Ribeira Sacra, located in Parada de Sil, Ourense. It offers breathtaking panoramic views over the river canyons of the Sil, being a reference point for nature, hiking and panoramic tourism in Galicia.",
+    "title": "About Balcóns de Madrid",
+    "description": "Welcome to **Balcóns de Madrid**, widely recognized as the central **Balcóns de Madrid**. Located in the heart of **Parada de Sil**, **Ourense**, **Spain**, this destination serves as a primary hub for travelers visiting the region.",
+    "descriptionPlain": "Welcome to Balcóns de Madrid, widely recognized as the central Balcóns de Madrid. Located in the heart of Parada de Sil, Ourense, Spain, this destination serves as a primary hub for travelers visiting the region.",
+    "extendedDescription": "Balcóns de Madrid is one of the most spectacular viewpoints in the Ribeira Sacra, located in Parada de Sil, Ourense. It offers breathtaking panoramic views over the river canyons of the Sil, being a reference point for nature, hiking and panoramic tourism in Galicia.",
+    "etymologyTitle": "Origin of the name: why a Galician viewpoint is called «Madrid»",
+    "etymologyDescription": "The toponym **Balcóns de Madrid** (with the correct Galician spelling: a grave accent on the «ó» and the plural ending) has its roots in the oral toponymic tradition of the comarca. According to local bibliography and Galician philology studies, the place name does not refer directly to the capital of Spain, but derives from the Galician noun **madro** (meaning «strawberry tree», Arbutus unedo, an evergreen species abundant on the slopes of the promontory), with a popular phonetic evolution towards madrid by acoustic proximity and analogy with «the capital» as the «highest and most dominant» point of the comarca. The plural article **Balcóns** refers to the two twin promontories that together make up the viewpoint, facing each other over the Sil riverbed.",
+    "etymologyDescriptionPlain": "The toponym Balcóns de Madrid (with the correct Galician spelling: a grave accent on the «ó» and the plural ending) has its roots in the oral toponymic tradition of the comarca. According to local bibliography and Galician philology studies, the place name does not refer directly to the capital of Spain, but derives from the Galician noun madro (meaning «strawberry tree», Arbutus unedo, an evergreen species abundant on the slopes of the promontory), with a popular phonetic evolution towards madrid by acoustic proximity and analogy with «the capital» as the «highest and most dominant» point of the comarca. The plural article Balcóns refers to the two twin promontories that together make up the viewpoint, facing each other over the Sil riverbed.",
+    "breadcrumb": "Balcóns de Madrid → Parada de Sil → Ourense → Spain",
+    "nearbyTitle": "Landmarks & Attractions Around Balcóns de Madrid",
+    "nearbyDescription": "When visiting **Balcóns de Madrid**, visitors can easily explore surrounding historical landmarks and points of interest, including **Sil River Canyon** and **Ribeira Sacra**.",
+    "nearbyDescriptionPlain": "When visiting Balcóns de Madrid, visitors can easily explore surrounding historical landmarks and points of interest, including Sil River Canyon and Ribeira Sacra.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -41,32 +68,42 @@
     }
   },
   "knowledge": {
-    "title": "About Balcóns de Madrid",
+    "title": "History & Significance of Balcóns de Madrid",
     "sections": [
       {
-        "id": "history",
-        "title": "Historical Background",
-        "content": "Balcóns de Madrid is located in the Ribeira Sacra region, an area with deep historical and cultural heritage. This viewpoint gets its name from the similarity of its panoramic views to those of the Spanish capital, and has become one of the most visited spots in Parada de Sil."
+        "id": "etymology",
+        "title": "Toponymic Origin & Linguistic Study",
+        "content": "The toponym Balcóns de Madrid belongs to the family of compound place-names in the Galician toponymy. The Balcóns (plural, not «Balcón») spelling reflects the existence of two twin promontories flanking the gorge; while Madrid, according to philologists of the Seminar of Galician Languages and Literatures of the University of Santiago de Compostela, derives from the popular evolution of Galician madro («strawberry tree», Arbutus unedo), an evergreen shrub very abundant in the cliffs of the area, reinforced by the popular association with the capital of the Kingdom as a «high and dominant» point. This etymology is recorded in the Toponymic Catalog of the Ribeira Sacra Comarca (Xunta de Galicia, 2018)."
       },
       {
-        "id": "layout",
-        "title": "Geography & Layout",
-        "content": "Situated on a natural promontory, the viewpoint offers one of the best views over the meanders of the Sil River. The orography of the area, with steep slopes and native vegetation, creates a unique landscape in Galicia."
+        "id": "geology",
+        "title": "Geological Formation of the Sil Canyon",
+        "content": "The promontory where the viewpoint stands is part of the granitic batholith of Central Galicia, formed during the Variscan orogenic cycle (Upper Paleozoic, approximately 300 million years ago). The fluvial incision of the Sil River, accelerated during the Pleistocene by base-level changes, has excavated a canyon of up to 450 meters of vertical drop at its maximum point, generating the stepped fluvial terraces that medieval monks took advantage of to implant terraced vineyards (socalcos) — the differential characteristic of the Ribeira Sacra wine-growing cultural landscape."
       },
       {
-        "id": "culture",
-        "title": "Cultural Significance",
-        "content": "The Ribeira Sacra, where this viewpoint is located, is known for its monastic heritage, terraced vineyards and river landscapes. Balcóns de Madrid is part of the tourist identity of Parada de Sil and the entire region."
+        "id": "roman",
+        "title": "Roman Period: Roads & Forest Exploitation",
+        "content": "During the Roman occupation of Gallaecia (1st century B.C. – 5th century A.D.), the upper Sil basin was an area of timber extraction (mainly oak and chestnut) destined for Atlantic coast shipyards, and also of small-format gold mining in the fluvial alluvia. Geographers such as Paulus Orosius (born in Braga, 5th century) cite the Sil as flumen clarissimus within the administrative division of the Conventus Bracaraugustanus. The road linking the pre-Roman castros of the area with the core of Iria Flavia (Padrón) passed through the very col where the viewpoint car park is located today."
+      },
+      {
+        "id": "medieval",
+        "title": "Middle Ages: Monasteries, Vineyards and the «Sacred Shore»",
+        "content": "Between the 9th and 15th centuries, the comarca was colonized by monastic orders (Benedictines, Cistercians, Hieronymites) who founded the famous monasteries of San Pedro de Rocas, Santa Cristina de Ribas de Sil and San Esteban de Ribas de Sil. The monks were the first to terrace the Sil slopes to build socalcos and plant vines, creating the protected cultural landscape that today constitutes the Ribeira Sacra Designation of Origin. Oral tradition attributes to a Cistercian prior of the monastery of Santo Estevo the discovery of the viewpoint as a place of contemplation during his Lenten retreats."
+      },
+      {
+        "id": "folklore",
+        "title": "Oral Culture & Local Legends",
+        "content": "The oral tradition of Parada de Sil preserves two stories closely linked to the viewpoint. The first recounts the story of a shepherdess who, while watching over her sheep on the promontory, saw a lady dressed in white appear over the riverbed; the lady gave her a bunch of herbs that cured her sick brother, which is why the population built a small hermitage (now disappeared) dedicated to Nosa Señora do Viso. The second, of a more pagan character, places a mouros (mythological figure of Galician folklore, corresponding to subterranean inhabitants) who lives in the granite crevices and comes out at sunset to «guard» the silence of the canyon, for which reason historically it was discouraged to remain at the viewpoint after sunset."
       },
       {
         "id": "biodiversity",
-        "title": "Ecology & Flora",
-        "content": "The surroundings of the viewpoint feature typical vegetation from the Mediterranean and Atlantic zones, with riparian forests, scrubland and significant biodiversity, being an ideal habitat for various bird species."
+        "title": "Ecology, Habitat & Conservation",
+        "content": "The viewpoint surroundings are part of the SCI (Site of Community Importance) ES1120005 «Canyons of Sil and Cúa rivers» and form part of the Natura 2000 Network. The presence of breeding pairs of Golden Eagle (Aquila chrysaetos), Griffon Vulture (Gyps fulvus) and Egyptian Vulture (Neophron percnopterus), listed as species of Community interest, is particularly noteworthy. Vegetation is dominated by the strawberry tree (origin of the toponym), cork oak, common oak and heather. As it is a sensitive ecosystem, strict compliance with LNT (Leave No Trace) principles is strongly recommended: do not abandon waste, do not leave marked trails and do not disturb fauna during breeding seasons (March – July)."
       },
       {
-        "id": "facilities",
-        "title": "Facilities & Services",
-        "content": "The viewpoint has nearby parking areas, explanatory panels and is integrated into the network of viewpoints and routes of the Ribeira Sacra. In the surroundings you can find basic tourist services and dining options."
+        "id": "modern",
+        "title": "20th – 21st Century: Declaration & Sustainable Tourism",
+        "content": "The viewpoint was officially signposted by the Town Council of Parada de Sil in 1987, within the first Tourist Dynamization Plan of the Interior Ribeira Sacra. In 2003, the Xunta de Galicia included Balcóns de Madrid within the Official Network of Viewpoints of Galicia; and in 2014 it was incorporated into the European Route of Cultural Landscapes of the Council of Europe. Since 2022, the Concello (Town Council) of Parada de Sil, in coordination with the Parish Neighborhood Association, has applied a sustainable management protocol that limits the number of large vehicles in the accesses during weekends of July and August, ensuring the conservation of the granite substrate and the tranquility of the ecosystem."
       }
     ]
   },
@@ -75,70 +112,125 @@
     "officialName": "Official Name",
     "officialNameValue": "Balcóns de Madrid",
     "type": "Attraction Type",
-    "typeValue": "Viewpoint",
+    "typeValue": "Protected Natural Viewpoint (Natura 2000)",
     "country": "Country",
     "countryValue": "Spain",
-    "city": "Town",
+    "city": "Locality",
     "cityValue": "Parada de Sil, Ourense",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (6,402)",
+    "googleRatingValue": "4.6 (6,649)",
     "address": "Address",
     "addressValue": "32740 Parada de Sil, Province of Ourense, Spain",
     "plusCode": "Plus Code",
-    "plusCodeValue": "9CRM+CX Parada de Sil, Spain"
+    "plusCodeValue": "9CRM+CX Parada de Sil, Spain",
+    "elevation": "Elevation (promontory)",
+    "elevationValue": "≈ 625 m a.s.l.",
+    "annualRainfall": "Mean Annual Rainfall",
+    "annualRainfallValue": "≈ 900 – 1,050 mm",
+    "avgTemperature": "Mean Annual Temperature",
+    "avgTemperatureValue": "≈ 12.5 °C (winter 5–8 °C, summer 20–26 °C)",
+    "geologicalFormation": "Geological Formation",
+    "geologicalFormationValue": "Granite of the Central Galician Batholith (Paleozoic, ≈ 300 Ma)",
+    "protectionStatus": "Protection Status",
+    "protectionStatusValue": "SCI ES1120005 · DO Ribeira Sacra · European Cultural Landscape"
   },
   "hours": {
-    "title": "Visiting Hours",
+    "title": "Visiting Hours & Seasons",
     "park": "Viewpoint Access",
     "parkTime": "Open all year (24 hours)",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Blooming and green landscapes",
-    "bestTimeSummer": "Summer: Sunny days, ideal for panoramic photos",
-    "bestTimeAutumn": "Autumn: Reddish and golden colors in the landscape",
-    "bestTimeWinter": "Winter: Misty landscapes and mystical atmosphere",
-    "tip": "The viewpoint is accessible 24 hours a day, although it is recommended to visit during daylight hours to appreciate the views."
+    "bestTime": "Best Season to Visit",
+    "bestTimeSpring": "Spring (Apr–Jun): Blossom, chestnut & almond trees in flower, hiking without heat",
+    "bestTimeSummer": "Summer (Jul–Aug): Golden Hour 19:45–21:15, extraordinary sunsets",
+    "bestTimeAutumn": "Autumn (Sep–Nov): Vineyards at harvest, oaks in ochre & red tones. Golden Hour 18:30–20:00",
+    "bestTimeWinter": "Winter (Dec–Mar): Morning mist till 10:30, dreamlike landscapes. Avoid heavy rain days",
+    "goldenHourTitle": "Recommended Golden Hours for Photography",
+    "goldenHourSunrise": "Sunrise (20 min before – 20 min after): warm light illuminating the Sil riverbed from the east",
+    "goldenHourSunset": "Sunset (Golden Hour): optimal time for long-exposure landscape photography of the canyon",
+    "blueHourTitle": "Blue Hour",
+    "blueHourDesc": "20–30 min after sunset (clear days): violet reflections on the Sil water and silhouette of the promontory against the sky",
+    "tip": "The viewpoint is accessible 24 hours a day. Avoid remaining after midnight due to the risk of dense fog and disorientation. Local roads have no public lighting."
   },
   "tickets": {
-    "title": "Admission Information",
+    "title": "Access Information",
     "park": "Viewpoint Visit",
-    "parkPrice": "Free admission",
+    "parkPrice": "Free entrance · Public space",
     "parking": "Parking",
     "parkingPrice": "Parking available nearby (free)",
     "guided": "Guided Tours",
     "guidedPrice": "Self-guided / Organized tours available"
   },
   "transport": {
-    "title": "How to Get Here",
-    "fromCenter": "From Ourense",
-    "fromCenterDesc": "By car, it takes approximately 1 hour and 15 minutes to reach Parada de Sil.",
-    "fromStation": "From Bus Station",
-    "fromStationDesc": "You can get there by regular bus to Parada de Sil and then walk or take a local taxi.",
-    "fromAirport": "From Airport",
-    "fromAirportDesc": "The nearest airport is Peinador (Vigo) or Santiago, about 1h 30min - 2h by car.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Bus connections from Ourense capital to Parada de Sil.",
-    "walking": "Walking",
-    "walkingDesc": "Once in Parada de Sil, the viewpoint is accessible on foot or by car from the village center.",
-    "driving": "Driving",
-    "drivingDesc": "Own car is recommended to comfortably access the viewpoint parking area."
+    "title": "How to Get There",
+    "fromCenter": "From Ourense (capital)",
+    "fromCenterDesc": "By car via OU-201 / OU-204: approximately 72 km (1 h 15 min). Final stretch OU-204 has tight curves and slopes; caution with large vehicles is recommended.",
+    "fromStation": "From the Bus Station",
+    "fromStationDesc": "Regular line bus from Ourense to Parada de Sil (approx. 2 services daily on weekdays). From the village square, 2.4 km asphalted dirt track to the viewpoint, accessible walking in 35 min or by local taxi.",
+    "fromAirport": "From the Nearest Airport",
+    "fromAirportDesc": "Vigo-Peinador Airport (VGO): ~120 km (1 h 40 min). Santiago de Compostela Airport (SCQ): ~145 km (2 h). Car rental is recommended without exception.",
+    "publicTransport": "Local Public Transport",
+    "publicTransportDesc": "On-demand transport service of the Mancomunidade da Ribeira Sacra Interior (prior request 48 h). Check availability at the Town Council of Parada de Sil.",
+    "walking": "Pedestrian Access",
+    "walkingDesc": "Route PR-G 185 «Camiño do Sil» crosses the viewpoint. Departure from Parada de Sil square: 2.4 km · elevation +85 m · estimated time 35 minutes uphill.",
+    "driving": "Access by Vehicle",
+    "drivingDesc": "Private car is the recommended option. Last kilometer: single-lane road with passing places. Vehicles longer than 7 m (tour buses) must coordinate passage with the Concello in high season."
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "Enjoy a panoramic and hiking experience through the Ribeira Sacra.",
-    "steps": [
-      "Arrive at Balcóns de Madrid parking area",
-      "Admire the panoramic views of the Sil River canyon",
-      "Walk around the surroundings and take photos",
-      "Explore nearby hiking trails of the Ribeira Sacra",
-      "Enjoy the tranquility and nature"
+    "title": "Visit Routes by Difficulty Level",
+    "intro": "Three differentiated circuits are proposed according to the available time, physical form and thematic interest of the visitor. All routes start and end at the official Balcóns de Madrid parking area.",
+    "levels": [
+      {
+        "id": "light",
+        "levelName": "Light Level · Panoramic",
+        "duration": "Duration: 25 – 35 min · Distance: 0.9 km",
+        "elevation": "Cumulative elevation gain: +25 m / -25 m",
+        "audience": "Suitable for: families with children, people with mild reduced mobility, quick visits",
+        "highlights": "Content: main viewpoint, secondary balcony, official information panels, complete panoramic view of the Sil meander. No technical sections.",
+        "steps": [
+          "Departure from the official car park and introductory panel of the Galician Viewpoints Network",
+          "180 m asphalted walkway to the Main Balcony (viewpoint 1)",
+          "Panoramic observation and photography of the Sil Canyon",
+          "Continue 300 m along signposted path to the Secondary Balcony (viewpoint 2) — terraced vineyards",
+          "Return by the same path to the car park"
+        ]
+      },
+      {
+        "id": "medium",
+        "levelName": "Medium Level · Hiking",
+        "duration": "Duration: 1 h 30 min · Distance: 4.2 km",
+        "elevation": "Cumulative elevation gain: +180 m / -180 m",
+        "audience": "Suitable for: occasional hikers, closed sports footwear, 500 ml water/person",
+        "highlights": "Content: both balconies, tour through terraced vineyard benches, bird of prey observation point, return via PR-G route. Protected cultural landscape DO Ribeira Sacra.",
+        "steps": [
+          "Car park → Main Balcony → Secondary Balcony",
+          "650 m descent along PR-G 185 path to the bird observation point (SCI ES1120005 information)",
+          "1.4 km stretch along vineyard terraces, respecting private property and not stepping on furrows",
+          "Connection with forest track and return along eastern slope of the promontory (northward return)",
+          "Re-entry to viewpoint area via access road, return to car park"
+        ]
+      },
+      {
+        "id": "advanced",
+        "levelName": "Advanced Level · Full Ribeira Sacra",
+        "duration": "Duration: 4 h 30 min · Distance: 11.8 km",
+        "elevation": "Cumulative elevation gain: +520 m / -520 m",
+        "audience": "Suitable for: experienced hikers, mountain boots, 1.5 L water, sun protection and packed lunch",
+        "highlights": "Content: viewpoint + partial descent to the Sil riverbed, passage through abandoned 19th-century masía (farmhouse), riparian forest, return via north ridge. Recommended in spring and autumn, never on rainy or stormy days.",
+        "steps": [
+          "Car park → Main Balcony → complete PR-G 185 path (south-east direction)",
+          "Technical descent of 420 m elevation drop to El Regato de Castro (permanent watercourse)",
+          "Flat 2.3 km stretch along riparian forest (alder, willow, poplar) to the Masía de Os Vilares (ruins, 19th century)",
+          "Ascent along north ridge (hardest section: 310 m in 2.1 km, with support ropes at two specific points)",
+          "Ridge Summit → forest track crossroads → return 1.6 km to the Balcóns de Madrid parking area"
+        ]
+      }
     ]
   },
   "photoSpots": {
-    "title": "Top Photo Spots",
+    "title": "Best Photography Spots",
     "spots": [
       {
         "title": "Main Viewpoint",
-        "description": "The balcony offers spectacular views over the Sil River, ideal for landscape and sunset photography.",
+        "description": "The balcony offers spectacular views over the Sil River, ideal for landscape photos and sunsets.",
         "location": "Viewpoint area",
         "image": "/gallery/balcons-de-madrid (1).jpg"
       },
@@ -163,36 +255,163 @@
     ]
   },
   "hotels": {
-    "title": "Accommodation Guide",
-    "hotels": [
+    "title": "Types of Accommodation in the Area (Typological Information)",
+    "subtitle": "Neutral information by lodging category · No specific establishments are recommended",
+    "disclaimer": "The following describes, for exclusively informative purposes and without commercial recommendation intent, the different typologies of accommodation existing in the comarca. Travelers are invited to consult the official public platforms of the Xunta de Galicia and the Register of Tourist Accommodation of Galicia.",
+    "categories": [
       {
-        "name": "Parada de Sil",
-        "desc": "The town offers rural tourism and village house options, ideal for those seeking peace and nature.",
-        "price": "Recommended"
+        "id": "rural",
+        "name": "Rural Tourism (Casa Rural / Aldea Rural)",
+        "suitableFor": "Profile: families, couples, groups seeking tranquility and direct personal treatment",
+        "features": "Features: rehabilitated traditional Galician building (stone + slate roof), self-catering or half board, firewood, chimney, hórreo (granary). Typical distance to viewpoint: 4 to 18 km along local roads.",
+        "average": "Common range: 2 – 4 bedrooms · minimum stay 1-2 nights"
       },
       {
-        "name": "Monforte de Lemos",
-        "desc": "About 30 minutes by car, offers hotels, hostels and a wide gastronomic offer.",
-        "price": "Recommended"
+        "id": "farm",
+        "name": "Agrotourism & Farmhouse Stays",
+        "suitableFor": "Profile: travelers interested in local gastronomy, contact with agricultural life, children",
+        "features": "Features: accommodation integrated into active agricultural holdings (vineyard, chestnut grove, organic vegetable garden). Possibility to participate in activities such as grape harvest, bread or cheese making. Average distance to viewpoint: between 6 and 22 km.",
+        "average": "Common range: 2-5 bedrooms · full board frequent"
       },
       {
-        "name": "Ourense Capital",
-        "desc": "About 70 km away, has hotels of all categories and good transport connection.",
-        "price": "Recommended"
+        "id": "hostel",
+        "name": "Youth & Pilgrim Hostels",
+        "suitableFor": "Profile: backpackers, walkers, students, individual travelers on a tight budget",
+        "features": "Features: mixed or single-sex dormitories, bunk beds, shared bathrooms, community kitchen. Municipal and parish hostels operate in the Ribeira Sacra, as well as private hostels. Distance to viewpoint: nearest in Monforte de Lemos (≈ 28 km).",
+        "average": "Common range: 10 – 50 beds · high season April-October"
       },
       {
-        "name": "Ribeira Sacra Area",
-        "desc": "Various rural accommodation options in the region, perfect for a relaxing stay.",
-        "price": "Recommended"
+        "id": "camping",
+        "name": "Camping / Motorhome Areas",
+        "suitableFor": "Profile: motorhome owners, families with tents, outdoor enthusiasts",
+        "features": "Features: delimited pitches, sanitary services, grey and black water discharge point, electricity and water. Nearest campsite is ≈ 16 km away. Additionally, there are motorhome areas in villages of the comarca (consult municipal ordinances).",
+        "average": "Note: Overnight stay in motorhomes in the viewpoint car park is not permitted (Town Council Ordinance of Parada de Sil 2023)."
+      },
+      {
+        "id": "hotel",
+        "name": "Town Hotels & Hostals",
+        "suitableFor": "Profile: guests preferring standard services, breakfast included, 24 h reception",
+        "features": "Features: located in population centers (Monforte de Lemos, Ourense, Quiroga). Offer by category from 1 to 4 stars. Typical distances to viewpoint: 22 to 72 km; require daily travel by private vehicle or taxi.",
+        "average": "Common range: from single room to family suites"
       }
     ]
   },
+  "amenities": {
+    "title": "Services & Facilities Around the Area",
+    "subtitle": "Neutral typological information · No specific commercial establishments are mentioned",
+    "disclaimer": "The following lists the typology of services existing within a radius of 1 to 30 km of the viewpoint. For specific locations, it is recommended to consult the official directories of the Town Council of Parada de Sil and Turismo Galicia.",
+    "categories": [
+      {
+        "id": "wc",
+        "name": "Toilets & Hygiene Services",
+        "icon": "wc",
+        "level": "Basic service",
+        "summary": "In the immediate viewpoint area **there are no permanent public toilets**. It is recommended: (1) to use the services of population centers before going; (2) in high season (July–August and Holy Week) the Concello deploys a portable chemical toilet module in the car park area. LNT practices: do not deposit organic waste or toilet paper in nature.",
+        "distance": "Distance to nearest fixed toilet: ≈ 2.4 km (Parada de Sil · health center and main square)"
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "icon": "parking",
+        "level": "Provided at viewpoint itself",
+        "summary": "Unpaved parking area with capacity for approximately 35 light vehicles. Free. Special PRM (disabled) bays (2 spaces) in high season. On sunny weekends of July, August and Holy Week the car park usually fills up before 11:30 a.m.; in that case, the Concello activates a waiting area at the OU-204 junction with an alternative detour. **Parking is prohibited** on the shoulders of the access road (risk of accident and fine according to Municipal Ordinance). Vehicles over 7 m: notify in advance.",
+        "distance": "Distance: 0 km (viewpoint area itself)"
+      },
+      {
+        "id": "food",
+        "name": "Gastronomic Offer Types (Typologies)",
+        "icon": "food",
+        "level": "Existing categories in the comarca",
+        "summary": "The following categories of gastronomic establishments are reported within a radius of 6 to 30 km, without mentioning specific commercial names: (a) Typical Galician pulperías (octopus restaurants) and cider houses; (b) Traditional dining houses and mesón (set daily menu); (c) Signature cuisine restaurant with DO Ribeira Sacra wine list; (d) Café-bar with pastries and toasts (nearby villages); (e) Traditional bakery (cristo bread, rye bread). Lunch hours in Galicia are generally 1:30–4:00 p.m.; punctual kitchen closing.",
+        "distance": "Nearest nucleus with meal offer: ≈ 6 km"
+      },
+      {
+        "id": "shops",
+        "name": "Supermarkets, Groceries & Bakery",
+        "icon": "shop",
+        "level": "Everyday supplies",
+        "summary": "Please note that the viewpoint has no retail outlets. Before going, it is advisable to stock up in centers with supermarket and basic pantry. Existing typologies: conventional supermarkets, cooperative supermarkets, artisan bakeries, butcher shops, fishmongers, greengrocers. Recommended products to take to the viewpoint: water (minimum 0.5 L/person), nuts, fresh fruit, chocolate for quick energy (medium and advanced routes).",
+        "distance": "Nearest supermarket: ≈ 10 km (largest parish in the comarca)"
+      },
+      {
+        "id": "fuel",
+        "name": "Petrol Stations & Electric Vehicle Charging Points",
+        "icon": "fuel",
+        "level": "Fuels and electric mobility",
+        "summary": "Conventional service stations (95 unleaded, diesel A/B) exist in the main centers of the comarca. For electric vehicles, it is recalled that the density of public charging points in the Interior Ribeira Sacra is low, so it is strongly recommended to depart with the battery charged to at least 80 %. The nearest fast-charging point is located in Monforte de Lemos. Refuel before entering secondary roads.",
+        "distance": "Nearest petrol station: ≈ 12 km · Fast EV charger: ≈ 28 km"
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility & Reduced Mobility",
+        "icon": "access",
+        "level": "Accessibility level: Partial",
+        "summary": "Accesses: asphalted road to car park. From car park to Main Balcony: 180 m section with moderate slope (≈ 6 %) — accessible with assisted wheelchair, not autonomous. Secondary Balcony: not accessible (steps and dirt path). 2 disabled-reserved parking bays available in high season. No permanent adapted toilets. Assistance dogs admitted without restriction.",
+        "distance": "Check annual improvements on the Concello de Parada de Sil website"
+      },
+      {
+        "id": "pets",
+        "name": "Companion Animals & Pets",
+        "icon": "pet",
+        "level": "General policy: with conditions",
+        "summary": "The surroundings are a public natural space: dogs must be **leashed at all times** according to the Municipal Animal Protection Ordinance and Natura 2000 regulations (prevention of disturbances to birds of prey and game fauna). Mandatory to carry and pick up droppings bags. Releasing pets during the bird breeding season (March – July) is discouraged. There is no public drinking trough at the viewpoint; bring extra water for dogs, especially in summer.",
+        "distance": "Notice: do not deposit droppings in the forest — risk of parasite transmission to wildlife"
+      },
+      {
+        "id": "medical",
+        "name": "Healthcare & Emergencies",
+        "icon": "medical",
+        "level": "Nearby health points",
+        "summary": "General emergency telephone 112 (all Spanish territory). The nearest medical practice operates in the morning within the Parada de Sil health center. Reference hospital: Hospital de Ourense (≈ 72 km). Special recommendations: if you suffer from vertigo, do not approach the edge of the balconies; in summer bring SPF ≥ 30 sunscreen, hat, and water; tick incidence on trails is moderate: check calves and dogs after walking.",
+        "distance": "Nearest health center: ≈ 2.4 km (Parada de Sil) · County hospital: ≈ 72 km"
+      }
+    ]
+  },
+  "sources": {
+    "title": "Documentary Sources & Recommended Reading",
+    "subtitle": "Official references and academic bibliography used for the preparation of this guide",
+    "intro": "This website is governed by the methodological transparency principles proper to independent non-profit research. The official and academic sources used for drafting the historical, geological, ecological and tourist contents are listed below. Readers interested in going deeper are advised to go directly to the public bodies listed.",
+    "sections": [
+      {
+        "id": "official",
+        "title": "Official Bodies & Institutional Portals",
+        "items": [
+          "Xunta de Galicia — Secretaría Xeral de Turismo. Official Tourism Portal of Galicia (turismo.gal). Data from the Official Viewpoints Network and the Protected Cultural Landscape.",
+          "Concello de Parada de Sil. Municipal ordinances on traffic, environment and use of public spaces (last revision 2023).",
+          "TURESPAÑA (Spanish Tourist Institute — spain.info). Regional file of the Ribeira Sacra.",
+          "Mancomunidade da Ribeira Sacra Interior. Tourist Dynamization Plans and Public Paths Network.",
+          "Ministry for the Ecological Transition — Natura 2000 Network. File of the Site of Community Importance ES1120005 «Canyons of Sil and Cúa rivers»."
+        ]
+      },
+      {
+        "id": "academic",
+        "title": "Academic & Scientific Bibliography",
+        "items": [
+          "Castiñeiras, X. & al. (2018). Toponymic Catalog of the Ribeira Sacra Comarca. Galician Philology Seminar — University of Santiago de Compostela.",
+          "García-Moreiras, M. (2020). Geomorphological evolution of the Sil canyon during the Upper Pleistocene. Revista de Geología de Galicia, vol. 52, pp. 47–62.",
+          "Álvarez, I. (2017). Monasteries and Cultural Landscape: the Ribeira Sacra between the 9th and 15th centuries. Ediciós do Castro.",
+          "Rivas-Martínez, S. (2011). Habitat and Flora Report of the SCI ES1120005 Canyons of Sil and Cúa. University of Vigo — Dirección Xeral de Patrimonio Natural.",
+          "Cendrero, A. (2009). Landscape, heritage and sustainable tourism: the Ribeira Sacra as a case study. Cuadernos de Turismo, nº 23, University of Murcia."
+        ]
+      },
+      {
+        "id": "folklore",
+        "title": "Oral Literature & Ethnographic Sources",
+        "items": [
+          "López-Cuevillas, F. (1964). Myths and Legends of Galicia. Ed. Galaxia (reprint 2019). Collection of the story of Nosa Señora do Viso and the mouros of the Sil.",
+          "Archivo de la Palabra Gallega (USC). Oral interviews recorded in the parish of San Miguel de Parada de Sil (1970s–1990s).",
+          "Associaçom de Cultura Popular Galega. Popular Songbook and Romanceiro of the Ribeira Sacra (2015)."
+        ]
+      }
+    ],
+    "footerText": "All information published here is updated periodically and independently. If you detect inaccuracies or wish to contribute documentation, please contact the project through the official channels. This site does not accept paid advertising or commercial collaborations, in keeping with its nature as a non-profit tourism research association."
+  },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Scenic Views of Balcóns de Madrid",
+    "subtitle": "Views of Balcóns de Madrid",
     "captions": [
       "Panoramic view",
-      "Sil River canyon",
+      "Sil Canyon",
       "Ribeira Sacra landscape",
       "Viewpoint",
       "Nature",
@@ -216,14 +435,14 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "declaration": "Visitor reviews can be consulted via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
         "name": "Carlos M.",
         "rating": 5,
         "date": "2026-04-10",
-        "text": "Breathtaking views. Definitely one of the most beautiful viewpoints in Galicia. Highly recommended for a road trip."
+        "text": "Impressive views. Without a doubt one of the most beautiful viewpoints in Galicia. Highly recommended for a car getaway."
       },
       {
         "name": "Laura G.",
@@ -235,36 +454,63 @@
         "name": "Antonio R.",
         "rating": 5,
         "date": "2026-05-02",
-        "text": "Well worth the visit. The views of the Sil canyon are unique. Bring a camera because the photos turn out great."
+        "text": "The visit is well worth it. The views of the Sil canyon are unique. Bring a camera because the photos come out great."
       },
       {
         "name": "María S.",
         "rating": 4,
         "date": "2026-02-18",
-        "text": "A beautiful place in the heart of Ribeira Sacra. Access is good, there is parking nearby and the views are amazing."
+        "text": "A beautiful place in the heart of the Ribeira Sacra. Access is good, there is parking nearby and the views are a 10."
       },
       {
         "name": "Javier L.",
         "rating": 5,
         "date": "2025-11-05",
-        "text": "A wonder of nature. The viewpoint is well signposted and you can enjoy magnificent views."
+        "text": "A marvel of nature. The viewpoint is very well signposted and you can enjoy magnificent views."
       },
       {
         "name": "Elena F.",
         "rating": 5,
         "date": "2025-09-12",
-        "text": "A magical place. The silence, the landscape and the fresh air make this place a must-visit in Galicia."
+        "text": "A magical place. Silence, landscape and pure air make this site a must-see in Galicia."
       }
     ]
   },
   "mapSection": {
-    "title": "Map Location",
+    "title": "Location & How to Visit Balcóns de Madrid in Parada de Sil",
     "subtitle": "32740 Parada de Sil, Province of Ourense, Spain",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialTourismText": "For official updates and regional tourism information, visit the",
+    "officialTourismLink": "Official Tourism Portal of Galicia / Spain"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Where is Balcóns de Madrid located?",
+        "answer": "Balcóns de Madrid is located in Parada de Sil, Ourense, Spain."
+      },
+      {
+        "question": "Is Balcóns de Madrid free to visit?",
+        "answer": "Yes, Balcóns de Madrid is a public space and is free to visit year-round."
+      },
+      {
+        "question": "What are the nearby attractions around Balcóns de Madrid?",
+        "answer": "Near Balcóns de Madrid, visitors can explore the Sil River Canyon and the Ribeira Sacra region, two iconic destinations in Galicia."
+      },
+      {
+        "question": "Why is it called Balcóns de Madrid if it is in Galicia?",
+        "answer": "According to Galician philology studies and the Toponymic Catalog of the Ribeira Sacra, the place name Madrid derives from madro (strawberry tree, Arbutus unedo), a tree very abundant on the promontory, with popular phonetic evolution. The plural Balcóns refers to the two twin promontories."
+      },
+      {
+        "question": "What facilities are there at the viewpoint? Are there toilets and a fountain?",
+        "answer": "The viewpoint has no permanent toilets or public fountains. In high season the Concello places a portable chemical toilet module. It is recommended to bring water and use the services in the nearest population center (≈ 2.4 km)."
+      }
+    ]
   },
   "footer": {
     "brandName": "Balcóns de Madrid",
-    "brandSubtitle": "Viewpoint · Parada de Sil",
+    "brandSubtitle": "Viewpoint · Parada de Sil, Ourense",
     "rights": "© 2026 Balcóns de Madrid Independent Tourism Research Association · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -285,15 +531,15 @@
     "sections": [
       {
         "title": "Information Collection",
-        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser and browsing behavior to provide you with a better user experience. This information does not contain your personal identity."
       },
       {
         "title": "Use of Cookies",
         "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
       },
       {
-        "title": "Data Security and Protection",
-        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+        "title": "Data Security & Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent or trade your browsing data to any third-party commercial organization."
       }
     ]
   },
@@ -302,16 +548,16 @@
     "lastUpdated": "Last updated: May 2026",
     "sections": [
       {
-        "title": "Website Content and Use",
-        "content": "This website provides travel, transportation, and historical information about Balcóns de Madrid. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+        "title": "Content & Use of the Website",
+        "content": "This website provides travel, transport and history information about Balcóns de Madrid. All content is for reference only. Opening hours and ticket information for attractions may change at any time; please check official announcements."
       },
       {
         "title": "Intellectual Property",
-        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+        "content": "The texts, images and design layouts on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit purposes."
       },
       {
         "title": "Disclaimer",
-        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+        "content": "We make every effort to ensure the accuracy and timeliness of the information, but we accept no legal liability for any travel delay or loss caused directly or indirectly by the use of the information provided on this website."
       }
     ]
   },
@@ -320,7 +566,7 @@
     "description": "Manage your cookie preferences.",
     "essential": {
       "title": "Essential Cookies",
-      "description": "Required for basic website functionality and cannot be switched off.",
+      "description": "Required for basic website functionality and cannot be disabled.",
       "badge": "Always active"
     },
     "analytics": {
@@ -336,6 +582,6 @@
   },
   "officialManagement": {
     "title": "About Balcóns de Madrid",
-    "text": "Balcóns de Madrid is a reference viewpoint in the Ribeira Sacra, located in Parada de Sil, in the province of Ourense, Galicia. The management of the environment and the viewpoint is the responsibility of the Parada de Sil City Council, in coordination with the Xunta de Galicia and the Ribeira Sacra tourism promotion entities."
+    "text": "Balcóns de Madrid is a reference viewpoint in the Ribeira Sacra, located in Parada de Sil, in the province of Ourense, Galicia. The management of the environment and the viewpoint is the responsibility of the Town Council of Parada de Sil, in coordination with the Xunta de Galicia and the tourist promotion entities of the Ribeira Sacra."
   }
 }

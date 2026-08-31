@@ -9,9 +9,12 @@ import TransportSection from '@/components/TransportSection';
 import InfoSection from '@/components/InfoSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
+import AmenitiesSection from '@/components/AmenitiesSection';
 import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
+import FAQSection from '@/components/FAQSection';
+import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
@@ -36,9 +39,12 @@ export default async function HomePage({
         <InfoSection />
         <RouteSection />
         <PhotoSpotsSection />
+        <AmenitiesSection />
         <Gallery />
         <HotelsSection />
         <Reviews />
+        <FAQSection />
+        <SourcesSection />
         <MapEmbed />
       </main>
       <Footer />

@@ -4,6 +4,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function PhotoSpotsSection() {
   const t = useTranslations('photoSpots');
+  const tEntity = useTranslations('entity');
   const messages = useMessages() as any;
   const spots = (messages?.photoSpots?.spots || []) as Array<{ title: string; description: string; image?: string; location?: string }>;
 
@@ -27,6 +28,9 @@ export default function PhotoSpotsSection() {
               image={spot.image}
               location={spot.location}
               index={index + 1}
+              entityShortName={tEntity('shortName')}
+              nearbyLandmark1={tEntity('nearbyLandmark1')}
+              nearbyLandmark2={tEntity('nearbyLandmark2')}
             />
           ))}
         </div>
@@ -35,24 +39,51 @@ export default function PhotoSpotsSection() {
   );
 }
 
-function PhotoSpotCard({ title, description, image, location, index }: { title: string; description: string; image?: string; location?: string; index: number }) {
+function PhotoSpotCard({
+  title,
+  description,
+  image,
+  location,
+  index,
+  entityShortName,
+  nearbyLandmark1,
+  nearbyLandmark2,
+}: {
+  title: string;
+  description: string;
+  image?: string;
+  location?: string;
+  index: number;
+  entityShortName: string;
+  nearbyLandmark1: string;
+  nearbyLandmark2: string;
+}) {
+  const landmarkForAlt = index % 2 === 0 ? nearbyLandmark1 : nearbyLandmark2;
+  const semanticAlt = index === 1
+    ? `${title} - Main view of ${entityShortName}`
+    : `${title} near ${entityShortName} - ${landmarkForAlt} area view`;
+
   return (
     <div
       className="rounded-xl overflow-hidden"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
-      {/* Image area */}
       <div
         className="aspect-video relative flex items-center justify-center overflow-hidden"
         style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
       >
         {image ? (
-          <img src={image} alt={title} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
+          <img
+            src={image}
+            alt={semanticAlt}
+            className="w-full h-full object-cover transition-transform hover:scale-105"
+            loading="lazy"
+          />
         ) : (
           <div className="text-center">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">
-              <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
-              <circle cx="12" cy="13" r="4"/>
+              <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" />
+              <circle cx="12" cy="13" r="4" />
             </svg>
             <span className="text-4xl font-bold opacity-20" style={{ color: 'var(--accent)' }}>
               {index}
