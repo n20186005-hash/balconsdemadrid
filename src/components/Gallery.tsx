@@ -132,6 +132,10 @@ export default function Gallery() {
                 {t('viewAll')}
               </a>
             </div>
+
+            <p className="mt-6 text-xs text-center" style={{ color: 'var(--text-muted)' }}>
+              {t('imageCopyright')}
+            </p>
           </div>
         </div>
       </section>

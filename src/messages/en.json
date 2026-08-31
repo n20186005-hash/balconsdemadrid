@@ -431,7 +431,8 @@
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
-    "showLess": "Show Less"
+    "showLess": "Show Less",
+    "imageCopyright": "All images displayed on this website remain the property of their respective photographers and are protected by copyright."
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -523,7 +524,8 @@
       "paradaSil": "Parada de Sil City Hall",
       "turismoGalicia": "Turismo Galicia"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "imageCopyright": "Image copyright: All images displayed on this website remain the property of their respective photographers and are protected by copyright."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -554,6 +556,10 @@
       {
         "title": "Intellectual Property",
         "content": "The texts, images and design layouts on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit purposes."
+      },
+      {
+        "title": "Image Copyright",
+        "content": "All images displayed on this website remain the property of their respective photographers and are protected by copyright. The site is provided for non-profit educational purposes only; if you are the author of any photograph shown here and would prefer it to be removed, please contact us through the official channels listed in the footer and we will remove it promptly after verification."
       },
       {
         "title": "Disclaimer",

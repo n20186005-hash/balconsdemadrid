@@ -431,7 +431,8 @@
     ],
     "viewAll": "Ver en Google Maps",
     "showAll": "Ver Todas las Fotos",
-    "showLess": "Ver Menos"
+    "showLess": "Ver Menos",
+    "imageCopyright": "Todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor."
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
@@ -523,7 +524,8 @@
       "paradaSil": "Ayuntamiento de Parada de Sil",
       "turismoGalicia": "Turismo Galicia"
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial.",
+    "imageCopyright": "Derechos de las imágenes: todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor."
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -554,6 +556,10 @@
       {
         "title": "Propiedad Intelectual",
         "content": "Los textos, imágenes y diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web con fines de lucro comercial."
+      },
+      {
+        "title": "Derechos de autor de las imágenes",
+        "content": "Todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor. El sitio se ofrece únicamente con fines divulgativos y sin ánimo de lucro; si usted es el autor de alguna fotografía mostrada aquí y prefiere que se retire, póngase en contacto con nosotros a través de los canales oficiales indicados en el pie de página y la retiraremos con prontitud tras la verificación."
       },
       {
         "title": "Descargo de Responsabilidad",

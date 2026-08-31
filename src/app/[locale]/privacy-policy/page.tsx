@@ -33,7 +33,7 @@ function PrivacyContent() {
   const locale = useLocale();
   const messages = useMessages() as any;
   const homeHref = `/${locale}`;
-  const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
+  const sections = (messages?.privacy?.sections || []) as Array<{ title: string; content: string }>;
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
@@ -60,7 +60,7 @@ function PrivacyContent() {
           {sections.map((section, i) => (
             <div key={i}>
               <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-                {section.heading}
+                {section.title}
               </h2>
               <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
                 {section.content}

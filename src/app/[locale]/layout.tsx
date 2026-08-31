@@ -2,7 +2,14 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
+import GAScript from '@/components/GAScript';
+import PwaRegister from '@/components/PwaRegister';
+
+export const viewport: Viewport = {
+  themeColor: '#234830',
+  colorScheme: 'light dark',
+};
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -73,6 +80,21 @@ export async function generateMetadata({
         'max-image-preview': 'large',
         'max-snippet': -1,
       },
+    },
+    manifest: '/manifest.webmanifest',
+    icons: {
+      icon: [
+        { url: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+        { url: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+      ],
+      apple: [
+        { url: '/icons/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+      ],
+    },
+    appleWebApp: {
+      capable: true,
+      title: 'Balcóns de Madrid',
+      statusBarStyle: 'default',
     },
   };
 }
@@ -183,6 +205,8 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
+        <GAScript />
+        <PwaRegister />
       </body>
     </html>
   );
