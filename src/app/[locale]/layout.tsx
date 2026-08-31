@@ -150,9 +150,6 @@ export default async function LocaleLayout({
   return (
     <html lang={htmlLang} suppressHydrationWarning>
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
-        <link rel="canonical" href={baseUrl} />
         <meta property="og:image" content={heroImage} />
         <meta property="og:image:alt" content={(messages as any).hero.imageAlt} />
         <script

@@ -1,4 +1,5 @@
 import { useTranslations, useMessages } from 'next-intl';
+import RichInline from './RichInline';
 
 export default function InfoSection() {
   const t = useTranslations('knowledge');
@@ -34,12 +35,12 @@ export default function InfoSection() {
                     {section.title}
                   </h3>
                 </div>
-                <p
+                <div
                   className="text-lg leading-relaxed ml-14"
                   style={{ color: 'var(--text-secondary)' }}
                 >
-                  {section.content}
-                </p>
+                  <RichInline text={section.content} />
+                </div>
               </div>
             </div>
           ))}
