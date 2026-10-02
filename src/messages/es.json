@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Balcóns de Madrid (Parada de Sil) - Guía del Visitante y Ubicación",
-    "description": "Descubre Balcóns de Madrid, el icónico mirador en Parada de Sil, Ourense, España. Consulta el mapa de ubicación, detalles de apertura, el cercano Cañón del Río Sil y consejos de viaje."
+    "title": "Balcones de Madrid – Mirador, cómo llegar y aparcamiento | Ribeira Sacra",
+    "description": "Visita los Balcones de Madrid en Parada de Sil, Ribeira Sacra. Aparcamiento, acceso a pie, cómo llegar, mejor hora para la puesta de sol, fotos y vistas sobre el cañón del Sil."
   },
   "entity": {
-    "fullName": "Balcóns de Madrid",
-    "shortName": "Balcóns de Madrid",
+    "fullName": "Balcones de Madrid",
+    "shortName": "Balcones de Madrid",
     "city": "Parada de Sil",
     "province": "Ourense",
     "country": "España",
@@ -13,581 +13,513 @@
     "postalCode": "32740",
     "latitude": 42.391106,
     "longitude": -7.5650627,
-    "nearbyLandmark1": "Cañón del Río Sil",
+    "nearbyLandmark1": "Cañón del río Sil",
     "nearbyLandmark2": "Ribeira Sacra",
     "domain": "balconsdemadrid.com",
     "mapsShareUrl": "https://maps.app.goo.gl/TzkkyRH23uWsMYzd9",
-    "mapsEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5241.171663121448!2d-7.5650626999999995!3d42.39110600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd300ed9b416e25d%3A0x89ada0b21c834074!2sBalc%C3%B3ns%20de%20Madrid!5e1!3m2!1ses!2s!4v1787917640092!5m2!1ses!2s",
+    "mapsEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5241.171663121448!2d-7.5650626999999995!3d42.39110600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd300ed9b416e25d%3A0x89ada0b21c834074!2sBalc%C3%B3ns%20de%20Madrid!5e1!3m2!1sen!2s!4v1787917640092!5m2!1sen!2s",
     "govtTourismUrl": "https://www.turismo.gal/"
   },
   "header": {
     "home": "Inicio",
     "gallery": "Galería",
-    "reviews": "Reseñas",
+    "reviews": "Opiniones",
     "map": "Mapa",
-    "backToHome": "Volver al Inicio"
+    "backToHome": "Volver al inicio"
   },
   "hero": {
-    "title": "Balcóns de Madrid (Parada de Sil)",
-    "subtitle": "Mirador · Parada de Sil, Ourense",
+    "title": "Mirador de los Balcones de Madrid (Os Torgás)",
+    "subtitle": "Guía de visita independiente · Parada de Sil, Ribeira Sacra, Ourense",
     "rating": "4.6",
-    "reviewCount": "6,649 reseñas",
+    "reviewCount": "6.720 reseñas",
     "type": "Mirador",
     "openMaps": "Ver en Google Maps",
-    "imageAlt": "Balcóns de Madrid - Vista principal en Parada de Sil, España"
+    "imageAlt": "Vista panorámica del cañón del Sil desde los Balcones de Madrid en Parada de Sil"
   },
   "intro": {
-    "title": "Sobre Balcóns de Madrid",
-    "description": "Bienvenido a **Balcóns de Madrid**, ampliamente reconocido como el **Balcóns de Madrid** central. Ubicado en el corazón de **Parada de Sil**, **Ourense**, **España**, este destino sirve como punto de encuentro principal para los viajeros que visitan la región.",
-    "descriptionPlain": "Bienvenido a Balcóns de Madrid, ampliamente reconocido como el Balcóns de Madrid central. Ubicado en el corazón de Parada de Sil, Ourense, España, este destino sirve como punto de encuentro principal para los viajeros que visitan la región.",
-    "extendedDescription": "Los Balcóns de Madrid son uno de los miradores más espectaculares de la Ribeira Sacra, situados en Parada de Sil, Ourense. Ofrecen vistas panorámicas impresionantes sobre los cañones fluviales del Sil, siendo un punto de referencia para naturaleza, senderismo y turismo panorámico en Galicia.",
-    "etymologyTitle": "Origen del nombre: por qué un mirador de Galicia se llama «Madrid»",
-    "etymologyDescription": "La denominación **Balcóns de Madrid** (con grafía gallega: acento grave en la «ó» y término plural) hunde sus raíces en la tradición oral toponímica de la comarca. Según la bibliografía local y estudios de filología gallega, el topónimo no hace alusión directa a la capital de España, sino que deriva del sustantivo gallego **madro** (que significa «madroño», árbol de hoja perenne abundante en la ladera del promontorio), con evolución fonética popular hacia madrid por cercanía acústica y analogía con «la capital» como punto más «alto y dominante» de la comarca. El artículo definido plural Balcóns refiere a los dos promontorios hermanos que forman el mirador, contrapuestos sobre el cauce del Sil.",
-    "etymologyDescriptionPlain": "La denominación Balcóns de Madrid (con grafía gallega: acento grave en la «ó» y término plural) hunde sus raíces en la tradición oral toponímica de la comarca. Según la bibliografía local y estudios de filología gallega, el topónimo no hace alusión directa a la capital de España, sino que deriva del sustantivo gallego madro (que significa «madroño», árbol de hoja perenne abundante en la ladera del promontorio), con evolución fonética popular hacia madrid por cercanía acústica y analogía con «la capital» como punto más «alto y dominante» de la comarca. El artículo definido plural Balcóns refiere a los dos promontorios hermanos que forman el mirador, contrapuestos sobre el cauce del Sil.",
-    "breadcrumb": "Balcóns de Madrid → Parada de Sil → Ourense → España",
-    "nearbyTitle": "Lugares emblemáticos cercanos a Balcóns de Madrid",
-    "nearbyDescription": "Al visitar **Balcóns de Madrid**, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés circundantes, incluyendo el **Cañón del Río Sil** y la **Ribeira Sacra**.",
-    "nearbyDescriptionPlain": "Al visitar Balcóns de Madrid, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés circundantes, incluyendo el Cañón del Río Sil y la Ribeira Sacra.",
+    "title": "Sobre los Balcones de Madrid",
+    "description": "Te damos la bienvenida a los **Balcones de Madrid**, un mirador panorámico sobre el cañón del río Sil en **Parada de Sil**, **Ourense**, **Galicia**. Es uno de los miradores más fotografiados de la **Ribeira Sacra** y una parada favorita de quienes recorren el interior del sur de Galicia.",
+    "descriptionPlain": "Bienvenido a los Balcones de Madrid, un mirador panorámico sobre el cañón del río Sil en Parada de Sil, Ourense, Galicia. Es uno de los miradores más fotografiados de la Ribeira Sacra.",
+    "extendedDescription": "Los Balcones de Madrid (conocidos también en gallego como **Os Torgás**) son un mirador público y gratuito situado en un promontorio de granito sobre el Sil. Desde las barandillas se contempla una cerrada revuelta del río y las viñas en terraza que definen el paisaje vitivinícola de la Ribeira Sacra. El corto paseo desde el aparcamiento lo convierte en una parada fácil para la mayoría de los visitantes.",
+    "etymologyTitle": "¿Por qué un mirador gallego se llama «Madrid»?",
+    "etymologyDescription": "Según la oficina de turismo de la **Ribeira Sacra**, el nombre no hace referencia directa a la capital de España. La tradición local cuenta que desde este promontorio las mujeres de Parada de Sil veían partir hacia **Madrid** a sus maridos e hijos para ganarse la vida —muchos de ellos como vendedores ambulantes de **barquillos** (barquillos de hojaldre). El mirador se conoció como los «balcones de Madrid» porque era el lugar desde el que el pueblo veía marchar a su gente hacia la capital. La forma gallega **Balcóns** (con tilde grave en la «ó» y en plural) es la correcta localmente; en castellano aparece como **Balcones de Madrid**.",
+    "etymologyDescriptionPlain": "Según la oficina de turismo de la Ribeira Sacra, el nombre nace de las mujeres de Parada de Sil que veían partir hacia Madrid a sus maridos e hijos, muchos como vendedores ambulantes de barquillos. El mirador se conoció como los balcones de Madrid. La forma gallega Balcóns es la correcta; en castellano aparece como Balcones de Madrid.",
+    "breadcrumb": "Balcones de Madrid → Parada de Sil → Ourense → Galicia",
+    "nearbyTitle": "Lugares de interés cerca de los Balcones de Madrid",
+    "nearbyDescription": "Al visitar los **Balcones de Madrid**, se pueden explorar fácilmente otros hitos de la Ribeira Sacra, como el **cañón del río Sil** y las viñas en terraza de la **Ribeira Sacra**.",
+    "nearbyDescriptionPlain": "Al visitar los Balcones de Madrid, se pueden explorar otros hitos de la Ribeira Sacra, como el cañón del río Sil y las viñas en terraza de la Ribeira Sacra.",
     "visitGuide": {
-      "title": "Consejos de Visita",
+      "title": "Consejos de visita",
       "items": [
-        "El acceso es gratuito y se puede visitar durante todo el año.",
-        "Ideal para fotografía de paisaje y naturaleza.",
-        "Se recomienda llevar calzado cómodo si se combina con rutas de senderismo.",
-        "Es un lugar excelente para disfrutar del silencio y la naturaleza."
+        "El acceso es gratuito y está abierto todo el año.",
+        "El último tramo es una pista sin asfaltar: cuenta con un corto paseo desde el aparcamiento.",
+        "Ideal para fotografía de paisaje y naturaleza, especialmente al atardecer.",
+        "Se recomienda calzado cómodo; lleva agua, pues no hay servicios en el mirador."
       ]
     },
     "alsoKnownAs": {
-      "title": "Destacados",
+      "title": "También conocido como",
       "items": [
-        "Vistas al cañón del Río Sil",
-        "Paisajes de la Ribeira Sacra",
-        "Mirador panorámico",
-        "Entorno natural privilegiado"
+        "Os Torgás (nombre gallego local)",
+        "Balcóns de Madrid (ortografía gallega)",
+        "Mirador de los Balcones de Madrid",
+        "Mirador sobre el cañón del Sil"
       ]
     }
   },
   "knowledge": {
-    "title": "Historia y Significado de Balcóns de Madrid",
+    "title": "Balcones de Madrid: paisaje y naturaleza",
     "sections": [
       {
         "id": "etymology",
-        "title": "Origen del Topónimo y Lingüística",
-        "content": "El topónimo Balcóns de Madrid pertenece a la familia de nombres compuestos de la toponimia gallega. La grafía Balcóns (plural, no «Balcón») responde a la existencia de dos promontorios gemelos que flanquean el desfiladero; mientras que Madrid, según filólogos del Seminario de Lenguas y Literaturas Gallegas de la USC, procede de la evolución popular del galego madro («madroño», Arbutus unedo), planta caducifolio-perenne muy abundante en los acantilados de la zona, reforzada por la asociación popular con la capital del Reino como punto «elevado y dominante». Esta etimología figura recogida en el Catálogo Toponímico de la Comarca da Ribeira Sacra (Xunta de Galicia, 2018)."
+        "title": "El nombre y su significado local",
+        "content": "El promontorio se conoce en gallego como **Balcóns de Madrid** y localmente como **Os Torgás**. La oficina de turismo de la Ribeira Sacra explica el nombre a través de la memoria local: desde este alto las mujeres de Parada de Sil veían partir hacia **Madrid** a sus maridos e hijos —muchos trabajando como vendedores ambulantes de **barquillos**. El mirador se convirtió en «los balcones de Madrid», el lugar desde el que el pueblo miraba marchar a su gente hacia la capital. Recuerda la ortografía al buscar: **Balcóns** (gallego) y **Balcones** (castellano) se refieren al mismo mirador."
       },
       {
-        "id": "geology",
-        "title": "Formación Geológica del Cañón del Sil",
-        "content": "El promontorio donde se asienta el mirador forma parte del batolito granítico de Galicia Central, cuya formación se remonta al ciclo orogénico varisco (Paleozoico superior, hace aproximadamente 300 millones de años). La incisión fluvial del río Sil, acelerada durante el Pleistoceno por cambios del nivel base, ha excavado un cañón de hasta 450 metros de desnivel en su punto máximo, generando las terrazas fluviales escalonadas que los monjes medievales aprovecharon para implantar los viñedos en bancada (socalcos) — característica diferencial del paisaje vitivinícola de la Ribeira Sacra."
-      },
-      {
-        "id": "roman",
-        "title": "Época Romana: Vías y Exploitation Forestal",
-        "content": "Durante la ocupación romana de la Gallaecia (siglos I a.C. – V d.C.), la cuenca alta del Sil fue zona de extracción de madera (principalmente roble y castaño) destinada a astilleros de la costa atlántica, y también de explotación aurífera de pequeño formato en los aluviones fluviales. Geógrafos como Paulo Orosio (natural de Braga, siglo V) citan el Sil como flumen clarissimus dentro de la división administrativa de la Conventus Bracaraugustanus. El camino que enlazaba los castros prerromanos de la zona con el núcleo de Iria Flavia (Padrón) pasaba por el mismo collado donde hoy se emplaza el aparcamiento del mirador."
-      },
-      {
-        "id": "medieval",
-        "title": "Edad Media: Monasterios, Viñedos y la «Ribeira Sacra»",
-        "content": "Entre los siglos IX y XV, la comarca fue colonizada por órdenes monásticas (Benedictinos, Cistercienses, Jerónimos) que fundaron los célebres monasterios de San Pedro de Rocas, Santa Cristina de Ribas de Sil y San Esteban de Ribas de Sil. Los monjes fueron los primeros en terrazar las laderas del Sil para construir socalcos y plantar viñas, creando el paisaje cultural protegido que hoy constituye la Denominación de Origen Ribeira Sacra. La leyenda oral atribuye a un prior cisterciense del monasterio de Santo Estevo el hecho de «descubrir» el mirador como lugar de contemplación durante sus retiros cuaresmales."
-      },
-      {
-        "id": "folklore",
-        "title": "Cultura Oral y Leyendas del Lugar",
-        "content": "La tradición oral de Parada de Sil conserva dos relatos estrechamente ligados al mirador. El primero narra la historia de una pastora que, mientras cuidaba sus ovejas en el promontorio, vio aparecer a una señora vestida de blanco sobre el cauce del río; la señora le entregó un manojo de hierbas que curaron a su hermano enfermo, motivo por el que la población construyó una pequeña ermita (hoy desaparecida) dedicada a Nosa Señora do Viso. El segundo relato, de carácter más pagano, sitúa a un mouros (gentilicio de la mitología galaica correspondiente a los habitantes subterráneos) que vive en las grietas graníticas y sale al atardecer para «guardar» el silencio del cañón, razón por la que se desaconsejaba históricamente permanecer en el mirador después de la puesta del sol."
+        "id": "canyon",
+        "title": "El cañón del Sil y la Ribeira Sacra",
+        "content": "Los Balcones de Madrid se sitúan en el borde de granito del **cañón del río Sil**, el paisaje definitorio de la **Ribeira Sacra** («Ribeira Sacra»). A lo largo de millones de años el Sil excavó una garganta profunda —en algunos puntos de varios cientos de metros de desnivel— y las comunidades monásticas medievales terraplonaron sus laderas en las viñas (socalcos) que hoy dan los vinos protegidos de la Ribeira Sacra. El mirador capta una de las revueltas más cerradas del cañón, con sus bancales de viña descendiendo hacia el río."
       },
       {
         "id": "biodiversity",
-        "title": "Ecología, Hábitat y Conservación",
-        "content": "El entorno del mirador integra el LIC (Lugar de Importancia Comunitaria) ES1120005 «Cañones del Sil y Cúa» y forma parte de la Red Natura 2000. Destaca la presencia de parejas reproductoras de águila real (Aquila chrysaetos), buitre leonado (Gyps fulvus) y alimoche (Neophron percnopterus), catalogadas como especies de interés comunitario. En la vegetación dominan el madroño (origen del topónimo), alcornoque, roble albar y brezo. Por tratarse de un ecosistema sensible, se recomienda encarecidamente el cumplimiento de los principios LNT (Leave No Trace / No Deje Rastro): no abandonar residuos, no salirse de los senderos señalizados y no perturbar la fauna durante las épocas de cría (marzo – julio)."
-      },
-      {
-        "id": "modern",
-        "title": "Siglo XX – XXI: Declaración y Turismo Sostenible",
-        "content": "El mirador fue señalizado oficialmente por el Ayuntamiento de Parada de Sil en 1987, dentro del primer Plan de Dinamización Turística de la Ribeira Sacra Interior. En 2003, la Xunta de Galicia incluyó Balcóns de Madrid dentro de la Red Oficial de Miradores de Galicia; y en 2014 fue incorporado a la Ruta Europea de los Paisajes Culturales del Consejo de Europa. Desde 2022, el Concello de Parada de Sil, en coordinación con la Asociación Vecinal de la Parroquia, aplica un protocolo de gestión sostenible que limita el número de vehículos de gran tamaño en los accesos durante los fines de semana de julio y agosto, garantizando la conservación del sustrato granítico y la tranquilidad del ecosistema."
+        "title": "Naturaleza y conservación",
+        "content": "Los alrededores forman parte de la red Natura 2000 (Lugar de Importancia Comunitaria **ES1120005**, «Cañones de los ríos Sil y Cúa»). El cañón alberga aves rapaces y vegetación propia del interior de Galicia, como roble, alcornoque y el madroño (*Arbutus unedo*). Por tratarse de un ecosistema sensible, aplica los principios «Leave No Trace»: retira tu basura, permanece en los caminos y evita molestar a la fauna, especialmente en época de cría."
       }
     ]
   },
   "basicInfo": {
-    "title": "Información Básica",
-    "officialName": "Nombre Oficial",
-    "officialNameValue": "Balcóns de Madrid",
-    "type": "Tipo de Atracción",
-    "typeValue": "Mirador natural protegido (Red Natura 2000)",
+    "title": "Información básica",
+    "officialName": "Nombre",
+    "officialNameValue": "Balcones de Madrid (Os Torgás)",
+    "type": "Tipo de lugar",
+    "typeValue": "Mirador público gratuito · Ribeira Sacra",
     "country": "País",
     "countryValue": "España",
     "city": "Localidad",
-    "cityValue": "Parada de Sil, Ourense",
-    "googleRating": "Valoración Google",
-    "googleRatingValue": "4.6 (6,649)",
+    "cityValue": "Parada de Sil, Ourense, Galicia",
+    "googleRating": "Valoración de Google",
+    "googleRatingValue": "4,6 / 5 sobre 6.720 reseñas",
     "address": "Dirección",
-    "addressValue": "32740 Parada de Sil, Province of Ourense, Spain",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "9CRM+CX Parada de Sil, Spain",
+    "addressValue": "32740 Parada de Sil, Provincia de Ourense, España",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "9CRM+CX Parada de Sil, España",
     "elevation": "Altitud (promontorio)",
     "elevationValue": "≈ 625 m s.n.m.",
-    "annualRainfall": "Precipitación Media Anual",
+    "annualRainfall": "Precipitación media anual",
     "annualRainfallValue": "≈ 900 – 1.050 mm",
-    "avgTemperature": "Temperatura Media Anual",
-    "avgTemperatureValue": "≈ 12.5 °C (invierno 5–8 °C, verano 20–26 °C)",
-    "geologicalFormation": "Formación Geológica",
-    "geologicalFormationValue": "Granito del Batolito Gallega Central (Paleozoico, ≈ 300 Ma)",
-    "protectionStatus": "Régimen de Protección",
-    "protectionStatusValue": "LIC ES1120005 · DO Ribeira Sacra · Paisaje Cultural Europeo"
+    "avgTemperature": "Temperatura media anual",
+    "avgTemperatureValue": "≈ 12,5 °C (invierno 5–8 °C, verano 20–26 °C)",
+    "geologicalFormation": "Formación geológica",
+    "geologicalFormationValue": "Granito del Batolito Central Gallego (Paleozoico)",
+    "protectionStatus": "Estatuto de protección",
+    "protectionStatusValue": "Natura 2000 LIC ES1120005 · DO Ribeira Sacra"
   },
   "hours": {
-    "title": "Horarios y Temporadas de Visita",
-    "park": "Acceso al Mirador",
+    "title": "Horario y épocas de visita",
+    "park": "Acceso al mirador",
     "parkTime": "Abierto todo el año (24 horas)",
-    "bestTime": "Mejor Época para Visitar",
-    "bestTimeSpring": "Primavera (abr–jun): Floración, castaños y almendros en flor, rutas de senderismo sin calor",
-    "bestTimeSummer": "Verano (jul–ago): Aprovechar la Hora Dorada 19:45–21:15, atardeceres extraordinarios",
-    "bestTimeAutumn": "Otoño (sep–nov): Viñedos en vendimia, robles en tonos ocres y rojos. Hora Dorada 18:30–20:00",
-    "bestTimeWinter": "Invierno (dic–mar): Bruma matinal hasta las 10:30, paisajes de ensueño. Evitar días de lluvia intensa",
-    "goldenHourTitle": "Horarios Dorados Recomendados para Fotografía",
+    "bestTime": "Mejor época para visitar",
+    "bestTimeSpring": "Primavera (abr–jun): floración, castaños y almendros en flor, senderismo sin calor",
+    "bestTimeSummer": "Verano (jul–ago): hora dorada 19:45–21:15, atardeceres extraordinarios",
+    "bestTimeAutumn": "Otoño (sep–nov): viñas en vendimia, robles en tonos ocres y rojos. Hora dorada 18:30–20:00",
+    "bestTimeWinter": "Invierno (dic–mar): niebla matinal hasta las 10:30, paisajes de ensueño. Evita los días de mucha lluvia",
+    "goldenHourTitle": "Horas doradas recomendadas para la fotografía",
     "goldenHourSunrise": "Amanecer (20 min antes – 20 min después): luz cálida que ilumina el cauce del Sil desde el este",
-    "goldenHourSunset": "Atardecer (Hora Dorada): hora óptima para fotografía paisajística de larga exposición sobre el cañón",
-    "blueHourTitle": "Hora Azul",
-    "blueHourDesc": "20–30 min después de la puesta de sol (días claros): reflejos violáceos sobre el agua del Sil y silueta del promontorio contra el cielo",
-    "tip": "El mirador es accesible las 24 horas del día. Evitar permanecer después de medianoche por riesgo de bruma densa y desorientación. Las carreteras locales no disponen de alumbrado público."
+    "goldenHourSunset": "Atardecer (hora dorada): momento óptimo para fotografía de larga exposición del cañón",
+    "blueHourTitle": "Hora azul",
+    "blueHourDesc": "20–30 min tras el atardecer (días despejados): reflejos violetas en el agua del Sil y silueta del promontorio contra el cielo",
+    "tip": "El mirador es accesible 24 horas. Evita quedarse tras oscurecer por la niebla densa y la desorientación; las carreteras locales no tienen alumbrado público."
   },
   "tickets": {
-    "title": "Información de Acceso",
-    "park": "Visita al Mirador",
+    "title": "Información de acceso",
+    "park": "Visita al mirador",
     "parkPrice": "Entrada gratuita · Espacio público",
     "parking": "Aparcamiento",
-    "parkingPrice": "Aparcamiento disponible cerca (gratuito)",
-    "guided": "Visitas Guiadas",
-    "guidedPrice": "Autoguiado / Visitas organizadas disponibles"
+    "parkingPrice": "Pequeña zona de aparcamiento sin asfaltar cerca (gratuita, plazas limitadas)",
+    "guided": "Visitas guiadas",
+    "guidedPrice": "Autoguiado · Hay visitas organizadas en la zona"
   },
   "transport": {
-    "title": "Cómo Llegar",
+    "title": "Cómo llegar",
     "fromCenter": "Desde Ourense (capital)",
-    "fromCenterDesc": "En coche por la OU-201 / OU-204: aproximadamente 72 km (1 h 15 min). Tramo final OU-204 presenta curvas cerradas y desnivel: se recomienda precaución con vehículos de gran envergadura.",
-    "fromStation": "Desde la Estación de Autobuses",
-    "fromStationDesc": "Autobús de línea regular desde Ourense hasta Parada de Sil (aprox. 2 servicios diarios en días laborables). Desde la plaza del pueblo, camino de tierra asfaltado de 2,4 km hasta el mirador, accesible caminando en 35 min o en taxi local.",
-    "fromAirport": "Desde el Aeropuerto más cercano",
-    "fromAirportDesc": "Aeropuerto de Vigo-Peinador (VGO): ~120 km (1 h 40 min). Aeropuerto de Santiago de Compostela (SCQ): ~145 km (2 h). Alquiler de coche recomendado sin excepción.",
-    "publicTransport": "Transporte Público Local",
-    "publicTransportDesc": "Servicio de transporte a demanda de la Mancomunidade da Ribeira Sacra Interior (solicitud previa 48 h). Consultar disponibilidad en el Ayuntamiento de Parada de Sil.",
-    "walking": "Acceso Pedestre",
-    "walkingDesc": "Ruta PR-G 185 «Camiño do Sil» atraviesa el mirador. Salida desde la plaza de Parada de Sil: 2,4 km · desnivel +85 m · tiempo estimado 35 minutos en subida.",
-    "driving": "Acceso en Vehículo",
-    "drivingDesc": "Coche propio es la opción recomendada. Ultimo kilómetro: carretera de una sola calzada con zonas de ensanche para cruzarse. Vehículos de más de 7 m de longitud (autobuses turísticos) deben coordinar paso con el Concello en temporada alta."
+    "fromCenterDesc": "En coche por OU-201 / OU-204: aproximadamente 72 km (1 h 15 min). El último tramo (OU-204) tiene curvas cerradas y pendientes; se recomienda precaución con vehículos grandes.",
+    "fromStation": "Desde el pueblo de Parada de Sil",
+    "fromStationDesc": "El mirador está a unos 1 km del pueblo de Parada de Sil. En coche, sigue la señalización desde el ayuntamiento: el trayecto hasta la zona de aparcamiento habilitada dura unos 4 minutos, y desde allí hay un paseo llano de unos 200 m por una pista de tierra hasta los balcones. A pie desde la plaza del pueblo, cuenta unos 15–20 minutos.",
+    "fromAirport": "Desde el aeropuerto más cercano",
+    "fromAirportDesc": "Aeropuerto de Vigo-Peinador (VGO): ~120 km (1 h 40 min). Aeropuerto de Santiago de Compostela (SCQ): ~145 km (2 h). Se recomienda coche de alquiler.",
+    "publicTransport": "Transporte público local",
+    "publicTransportDesc": "No hay transporte público regular hasta el mirador. La Mancomunidade da Ribeira Sacra Interior ofrece un servicio de transporte a demanda (reserva con al menos 48 h de antelación); consulta disponibilidad en el Ayuntamiento de Parada de Sil.",
+    "walking": "Acceso a pie",
+    "walkingDesc": "Desde la zona de aparcamiento habilitada, una corta pista de tierra de unos 200 m lleva a los balcones. Desde la plaza del pueblo de Parada de Sil son aproximadamente 1 km (unos 15–20 minutos, suave).",
+    "driving": "Acceso en vehículo",
+    "drivingDesc": "El coche particular es la opción más práctica. El último kilómetro es una pista sin asfaltar de un carril con lugares de adelantamiento. Los vehículos grandes (autobuses) deben consultar el acceso con el Concello en temporada alta."
   },
   "route": {
-    "title": "Rutas de Visita por Nivel de Dificultad",
-    "intro": "Se proponen tres circuitos diferenciados en función del tiempo disponible, la forma física y el interés temático del visitante. Todas las rutas parten y terminan en el área de aparcamiento oficial de Balcóns de Madrid.",
+    "title": "Rutas de visita por dificultad",
+    "intro": "Se proponen tres circuitos cortos según el tiempo disponible y el interés. Todas las rutas comienzan y terminan en el aparcamiento de los Balcones de Madrid.",
     "levels": [
       {
         "id": "light",
-        "levelName": "Nivel Ligero · Panorámico",
+        "levelName": "Nivel fácil · Panorámica",
         "duration": "Duración: 25 – 35 min · Distancia: 0,9 km",
         "elevation": "Desnivel acumulado: +25 m / -25 m",
-        "audience": "Apto para: familias con niños, personas con movilidad reducida leve, visitas rápidas",
-        "highlights": "Contenido: mirador principal, balcón secundario, paneles informativos oficiales, vista panorámica completa del meandro del Sil. Sin tramos técnicos.",
+        "audience": "Apto para: familias, visitantes con movilidad reducida leve, visitas rápidas",
+        "highlights": "Contenido: mirador principal, balcón secundario, paneles informativos, vista panorámica completa de la revuelta del Sil. Sin tramos técnicos.",
         "steps": [
-          "Salida desde el área de aparcamiento oficial y panel introductorio de la Red de Miradores de Galicia",
-          "Trayecto de 180 m por pasarela asfaltada hasta el Balcón Principal (mirador 1)",
-          "Toma de vistas y fotografía panorámica del Cañón del Sil",
-          "Continuar 300 m por camino señalizado hasta el Balcón Secundario (mirador 2) — viñedos en socalcos",
-          "Regreso por el mismo camino hasta el aparcamiento"
+          "Salida del aparcamiento y panel de introducción del mirador",
+          "180 m de camino hasta el Balcón Principal (mirador 1)",
+          "Observación panorámica y fotografía del cañón del Sil",
+          "Continúa 300 m por el sendero señalizado hasta el Balcón Secundario (mirador 2) — viñas en terraza",
+          "Regreso por el mismo camino al aparcamiento"
         ]
       },
       {
         "id": "medium",
-        "levelName": "Nivel Medio · Senderista",
+        "levelName": "Nivel medio · Senderismo",
         "duration": "Duración: 1 h 30 min · Distancia: 4,2 km",
         "elevation": "Desnivel acumulado: +180 m / -180 m",
-        "audience": "Apto para: senderistas ocasionales, calzado deportivo cerrado, agua 500 ml/persona",
-        "highlights": "Contenido: ambos balcones, recorrido por socalcos de viñedo, punto de avistamiento de aves rapaces, regreso por ruta PR-G. Paisaje cultural protegido DO Ribeira Sacra.",
+        "audience": "Apto para: senderistas ocasionales, calzado deportivo cerrado, 500 ml de agua/persona",
+        "highlights": "Contenido: ambos balcones, recorrido por los bancales de viña, punto de observación de aves rapaces, regreso por sendero señalizado. Paisaje cultural protegido DO Ribeira Sacra.",
         "steps": [
-          "Aparcamiento oficial → Balcón Principal → Balcón Secundario",
-          "Descenso 650 m por senda PR-G 185 hasta el punto de avistamiento de aves (información LIC ES1120005)",
-          "Trazado de 1,4 km por bancadas de viñedo, respetando la propiedad privada y no pisando los surcos",
-          "Enlace con camino de forestal y retorno por ladera este del promontorio (retorno hacia el norte)",
-          "Reingreso al área del mirador por camino de acceso, regreso al aparcamiento"
+          "Aparcamiento → Balcón Principal → Balcón Secundario",
+          "Descenso por el sendero hasta el punto de observación de aves",
+          "Tramo por los bancales de viña, respetando la propiedad privada",
+          "Conexión con la pista forestal y regreso por la ladera este",
+          "Reentrada a la zona del mirador y vuelta al aparcamiento"
         ]
       },
       {
         "id": "advanced",
-        "levelName": "Nivel Avanzado · Ribeira Sacra Integral",
+        "levelName": "Nivel avanzado · Ribeira Sacra completa",
         "duration": "Duración: 4 h 30 min · Distancia: 11,8 km",
         "elevation": "Desnivel acumulado: +520 m / -520 m",
-        "audience": "Apto para: senderistas experimentados, calzado de montaña, 1,5 l de agua, protección solar y bocadillo",
-        "highlights": "Contenido: mirador + descenso parcial al cauce del Sil, paso por masía abandonada del S. XIX, bosque de ribera, retorno por cresta norte. Recomendada en primavera y otoño, nunca en días de lluvia o tormenta.",
+        "audience": "Apto para: senderistas experimentados, botas de montaña, 1,5 L de agua, protección solar y comida",
+        "highlights": "Contenido: mirador + descenso parcial al cauce del Sil, bosque de ribera, regreso por la cresta norte. Recomendado en primavera y otoño, nunca en días lluviosos o de tormenta.",
         "steps": [
-          "Aparcamiento → Balcón Principal → senda PR-G 185 completa (dirección sur-este)",
-          "Descenso técnico 420 m de desnivel hasta El Regato de Castro (corriente de agua permanente)",
-          "Recorrido llano de 2,3 km por bosque de ribera (alisos, sauces, chopos) hasta la Masía de Os Vilares (ruinas, S. XIX)",
-          "Ascenso por cresta norte (tramo más duro: 310 m en 2,1 km, con cuerdas de apoyo en dos puntos concretos)",
-          "Cima de la Cresta → cruce del camino forestal → retorno 1,6 km hasta el área de aparcamiento de Balcóns de Madrid"
+          "Aparcamiento → Balcón Principal → sendero completo (dirección sureste)",
+          "Descenso técnico hacia el cauce (arroyo permanente)",
+          "Tramo llano por el bosque de ribera hasta una masía arruinada del s. XIX",
+          "Ascenso por la cresta norte (tramo más duro, con cuerdas de apoyo en dos puntos)",
+          "Cima de la cresta → cruce de pistas forestales → regreso al aparcamiento"
         ]
       }
     ]
   },
   "photoSpots": {
-    "title": "Mejores Lugares para Fotos",
+    "title": "Mejores puntos para fotografiar",
     "spots": [
       {
-        "title": "Mirador Principal",
-        "description": "El balcón ofrece vistas espectaculares sobre el Río Sil, ideal para fotos de paisaje y atardeceres.",
+        "title": "Mirador principal",
+        "description": "El balcón ofrece vistas espectaculares sobre el río Sil, ideal para fotos de paisaje y atardeceres.",
         "location": "Zona del mirador",
-        "image": "/gallery/balcons-de-madrid (1).jpg"
+        "image": "/gallery/balcons-de-madrid-viewpoint.jpg"
       },
       {
-        "title": "Cañón del Río Sil",
-        "description": "Las curvas y meandros del río crean un marco natural perfecto para fotografía aérea y panorámica.",
+        "title": "Cañón del río Sil",
+        "description": "Las curvas y revueltas del río crean un marco natural perfecto para fotografía aérea y panorámica.",
         "location": "Desde el mirador",
-        "image": "/gallery/balcons-de-madrid (2).jpg"
+        "image": "/gallery/balcons-de-madrid-sil-canyon.jpg"
       },
       {
         "title": "Paisaje de la Ribeira Sacra",
-        "description": "Los famosos viñedos en terraza y la vegetación autóctona rodean el mirador, ofreciendo un contraste visual único.",
+        "description": "Las famosas viñas en terraza y la vegetación autóctona rodean el mirador, con un contraste visual único.",
         "location": "Alrededores",
-        "image": "/gallery/balcons-de-madrid (3).jpg"
+        "image": "/gallery/balcons-de-madrid-ribeira-sacra.jpg"
       },
       {
-        "title": "Atardecer en el Mirador",
+        "title": "Atardecer en el mirador",
         "description": "La luz del atardecer sobre el cañón es uno de los espectáculos más bellos de Galicia.",
         "location": "Mirador",
-        "image": "/gallery/balcons-de-madrid (4).jpg"
+        "image": "/gallery/balcons-de-madrid-sunset.jpg"
       }
     ]
   },
   "hotels": {
-    "title": "Tipos de Alojamiento en la Zona (Información Tipológica)",
-    "subtitle": "Información neutral por categoría de hospedaje · No se recomiendan establecimientos concretos",
-    "disclaimer": "A continuación se describe, con finalidad exclusivamente informativa y sin ánimo de recomendación comercial, las diferentes tipologías de alojamiento existentes en la comarca. Se invita al viajero a consultar las plataformas públicas oficiales de la Xunta de Galicia y el Registro de Alojamientos Turísticos de Galicia.",
+    "title": "Tipos de alojamiento en la zona (información tipológica)",
+    "subtitle": "Información neutra por categoría de alojamiento · No se recomienda ningún establecimiento concreto",
+    "disclaimer": "A continuación se describen, con fines exclusivamente informativos y sin recomendación comercial, las distintas tipologías de alojamiento de la comarca. Se invita a consultar las plataformas públicas oficiales de la Xunta de Galicia y el Registro de Alojamientos Turísticos de Galicia.",
     "categories": [
       {
         "id": "rural",
-        "name": "Turismo Rural (Casa Rural / Aldea Rural)",
-        "suitableFor": "Perfil: familias, parejas, grupos que buscan tranquilidad y trato directo",
-        "features": "Características: edificación tradicional galaica rehabilitada (piedra + teja de pizarra), cocina propia o media pensión, leña, chimenea, hórreo. Distancia típica al mirador: entre 4 y 18 km por carreteras locales.",
-        "average": "Rango habitual: 2 – 4 dormitorios · estancia mínima 1-2 noches"
+        "name": "Turismo rural (Casa Rural / Aldea Rural)",
+        "suitableFor": "Perfil: familias, parejas, grupos que buscan tranquilidad y trato personal directo",
+        "features": "Características: edificio gallego tradicional rehabilitado (piedra + teja de pizarra), autoconsumo o media pensión, chimenea, hórreo. Distancia típica al mirador: 4 a 18 km por carreteras locales.",
+        "average": "Rango habitual: 2 – 4 habitaciones · estancia mínima 1-2 noches"
       },
       {
         "id": "farm",
-        "name": "Agroturismo y Casas de Labranza",
-        "suitableFor": "Perfil: viajeros interesados en gastronomía local, contacto con la vida agraria, niños",
-        "features": "Características: alojamiento integrado en explotaciones agrarias activas (viñedo, castañar, huerto ecológico). Posibilidad de participar en actividades como vendimia, elaboración de pan o queso. Distancia media al mirador: entre 6 y 22 km.",
-        "average": "Rango habitual: habitaciones 2-5 · pensión completa frecuente"
+        "name": "Agroturismo y casas de labranza",
+        "suitableFor": "Perfil: viajeros interesados en la gastronomía local, contacto con la vida agraria, niños",
+        "features": "Características: alojamiento integrado en explotaciones activas (viña, castañar, huerta ecológica). Posibilidad de participar en vendimia, pan o queso. Distancia media al mirador: 6 a 22 km.",
+        "average": "Rango habitual: 2-5 habitaciones · pensión completa frecuente"
       },
       {
         "id": "hostel",
-        "name": "Albergues Juveniles y de Peregrinos",
-        "suitableFor": "Perfil: mochileros, caminantes, estudiantes, viajeros individuales con presupuesto reducido",
-        "features": "Características: dormitorios mixtos o por sexo, literas, baños compartidos, cocina comunitaria. En la Ribeira Sacra funcionan albergues municipales y parroquiales, así como albergues privados. Distancia al mirador: el más cercano en Monforte de Lemos (≈ 28 km).",
+        "name": "Albergues juveniles y de peregrinos",
+        "suitableFor": "Perfil: mochileros, caminantes, estudiantes, viajeros individuales con presupuesto ajustado",
+        "features": "Características: dormitorios, baños compartidos, cocina comunitaria. Hay albergues municipales y parroquiales en la Ribeira Sacra, además de privados. El más cercano al mirador: Monforte de Lemos (≈ 28 km).",
         "average": "Rango habitual: 10 – 50 plazas · temporada alta abril-octubre"
       },
       {
         "id": "camping",
-        "name": "Camping / Áreas de Autocaravana",
-        "suitableFor": "Perfil: propietarios de autocaravanas, familias con tienda de campaña, amantes del aire libre",
-        "features": "Características: parcelas delimitadas, servicios higiénicos, punto de descarga de aguas grises y negras, luz y agua. El camping más próximo dista ≈ 16 km. Adicionalmente existen áreas de autocaravana en pueblos de la comarca (consultar ordenanzas municipales).",
-        "average": "Nota: No está permitido pernoctar en autocaravana en el área de aparcamiento del mirador (Ordenanza Concello de Parada de Sil 2023)."
+        "name": "Camping / Áreas para autocaravanas",
+        "suitableFor": "Perfil: dueños de autocaravanas, familias con tienda, amantes del aire libre",
+        "features": "Características: plazas delimitadas, servicios sanitarios, vaciado de aguas grises y negras, electricidad y agua. El camping más cercano está a cierta distancia; consulta las ordenanzas municipales para áreas de autocaravanas en la comarca.",
+        "average": "Nota: pernoctar con autocaravanas en el aparcamiento del mirador no está permitido (ordenanza del Concello de Parada de Sil)."
       },
       {
         "id": "hotel",
-        "name": "Hoteles y Hostales de Población",
+        "name": "Hoteles y hostales de los pueblos",
         "suitableFor": "Perfil: huéspedes que prefieren servicios estándar, desayuno incluido, recepción 24 h",
-        "features": "Características: ubicados en núcleos de población (Monforte de Lemos, Ourense, Quiroga). Oferta por categoría de 1 a 4 estrellas. Distancias típicas al mirador: entre 22 y 72 km; requieren desplazamiento diario en vehículo privado o taxi.",
-        "average": "Rango habitual: desde habitación individual hasta suites familiares"
+        "features": "Características: en núcleos de población (Monforte de Lemos, Ourense, Quiroga). Categoría de 1 a 4 estrellas. Distancias típicas al mirador: 22 a 72 km; desplazamiento diario en coche o taxi.",
+        "average": "Rango habitual: desde habitación individual a suites familiares"
       }
     ]
   },
   "amenities": {
-    "title": "Servicios e Instalaciones en el Entorno",
-    "subtitle": "Información tipológica neutral · No se mencionan establecimientos comerciales concretos",
-    "disclaimer": "A continuación se enumera la tipología de servicios existentes en el radio de 1 a 30 km del mirador. Para localizaciones concretas, se recomienda consultar los directorios oficiales del Ayuntamiento de Parada de Sil y Turismo Galicia.",
+    "title": "Servicios y equipamientos en los alrededores",
+    "subtitle": "Información tipológica neutra · No se menciona ningún establecimiento comercial concreto",
+    "disclaimer": "A continuación se enumeran las tipologías de servicios en un radio de unos pocos a varias decenas de km del mirador. Para ubicaciones concretas, consulta los directorios oficiales del Concello de Parada de Sil y de Turismo Galicia.",
     "categories": [
       {
         "id": "wc",
-        "name": "Aseos y Servicios Higiénicos",
+        "name": "Aseos y servicios de higiene",
         "icon": "wc",
         "level": "Servicio básico",
-        "summary": "En el área inmediata del mirador **no existen aseos públicos permanentes**. Se recomienda: (1) hacer uso de los servicios de los núcleos poblacionales antes de acudir; (2) en temporada alta (julio–agosto y Semana Santa) el Concello despliega un módulo de aseo químico portátil en el área de aparcamiento. Prácticas LNT: no depositar residuos orgánicos ni papel en la naturaleza.",
-        "distance": "Distancia al aseo fijo más cercano: ≈ 2,4 km (Parada de Sil · centro de salud y plaza)"
+        "summary": "**No hay aseos públicos permanentes** en el propio mirador. Usa los servicios de Parada de Sil antes de ir. En temporada alta el Concello puede instalar un módulo químico portátil en el aparcamiento. Aplica «Leave No Trace»: no deposites basura ni papel en la naturaleza.",
+        "distance": "Aseos fijos más cercanos: en Parada de Sil (unos 1 km)"
       },
       {
         "id": "parking",
         "name": "Aparcamiento",
         "icon": "parking",
-        "level": "Dotado en el propio mirador",
-        "summary": "Área de estacionamiento no asfaltada, con capacidad para aproximadamente 35 vehículos ligeros. Gratuita. Plazas especiales para PMR (2 plazas) en temporada alta. Los fines de semana soleados de julio, agosto y Semana Santa el aparcamiento suele completarse antes de las 11:30 h; en ese caso, el Concello activa una zona de espera en el cruce de la OU-204 con desvío alternativo. **Está prohibido** aparcar en los arcenes de la carretera de acceso (riesgo de accidente y multa según Ordenanza Municipal). Vehículos de más de 7 m: notificar con antelación.",
-        "distance": "Distancia: 0 km (zona del propio mirador)"
+        "level": "En el mirador",
+        "summary": "Una pequeña zona de aparcamiento sin asfaltar con plazas limitadas, gratuita. En fines de semana soleados de julio, agosto y Semana Santa suele llenarse antes del mediodía; puede habilitarse un área de espera cercana. Aparca solo en la zona habilitada, no en los arcenes de la pista de acceso.",
+        "distance": "Distancia: 0 km (en el propio mirador)"
       },
       {
         "id": "food",
-        "name": "Tipos de Oferta Gastronómica (Tipologías)",
+        "name": "Tipos de oferta gastronómica",
         "icon": "food",
         "level": "Categorías existentes en la comarca",
-        "summary": "Se informa de las siguientes categorías de establecimientos gastronómicos en un radio de 6 a 30 km, sin mención a nombres comerciales concretos: (a) Pulperías y sidrerías típicas gallegas; (b) Casa de comidas y mesón tradicional (menú del día); (c) Restaurante con cocina de autor y carta DO Ribeira Sacra; (d) Bar cafetería con bollería y tostadas (pueblos cercanos); (e) Panadería tradicional (pan de cristo, pan de centeno). Horarios de almuerzo en Galicia generalmente 13:30–16:00 h; cierre de cocina puntual.",
-        "distance": "Núcleo más cercano con oferta de comidas: ≈ 6 km"
+        "summary": "Categorías de establecimientos gastronómicos en un radio de 6 a 30 km, sin citar negocios concretos: (a) pulperías gallegas y sidrerías; (b) casas de comida tradicional y mesón (menú del día); (c) cocina de autor con carta de vinos DO Ribeira Sacra; (d) café-bar con repostería (pueblos cercanos); (e) panadería tradicional. El horario de comida en Galicia suele ser de 13:30 a 16:00.",
+        "distance": "Núcleo con oferta de comida más cercano: ≈ 6 km"
       },
       {
         "id": "shops",
-        "name": "Supermercados, Comestibles y Panadería",
+        "name": "Supermercados, tiendas y panaderías",
         "icon": "shop",
-        "level": "Aprovisionamiento cotidiano",
-        "summary": "Se recuerda que el mirador no dispone de ningún punto de venta. Antes de acudir, se recomienda aprovisionarse en núcleos con supermercado y despensa de productos básicos. Tipologías existentes: supermercados convencionales, supermercados cooperativos, panaderías artesanales, carnicerías, pescaderías, fruterías. Productos recomendados para llevar al mirador: agua (mínimo 0,5 L/persona), frutos secos, fruta fresca, chocolate para energías rápidas (rutas medias y avanzadas).",
-        "distance": "Supermercado más cercano: ≈ 10 km (parroquia más grande de la comarca)"
+        "level": "Aprovisionamiento diario",
+        "summary": "El mirador no tiene comercios. Aprovisiona en un centro con supermercado y despensa básica antes de ir. Tipologías existentes: supermercados convencionales, cooperativos, panaderías artesanas, carnicerías, pescaderías, fruterías. Lleva agua (mín. 0,5 L/persona), frutos secos y fruta.",
+        "distance": "Supermercado más cercano: ≈ 10 km"
       },
       {
         "id": "fuel",
-        "name": "Gasolineras y Puntos de Recarga Eléctrica",
+        "name": "Gasolineras y carga de vehículo eléctrico",
         "icon": "fuel",
         "level": "Combustibles y movilidad eléctrica",
-        "summary": "Estaciones de servicio convencionales (gasolina 95, gasóleo A/B) existen en los núcleos principales de la comarca. Para vehículos eléctricos, se recuerda que la densidad de puntos de recarga pública en la Ribeira Sacra Interior es baja, por lo que se recomienda encarecidamente partir con la batería cargada al 80 % como mínimo. El punto de recarga rápida más cercano se sitúa en Monforte de Lemos. Repostar antes de adentrarse en carreteras secundarias.",
-        "distance": "Gasolinera más cercana: ≈ 12 km · Recarga eléctrica rápida: ≈ 28 km"
+        "summary": "Hay gasolineras convencionales en los núcleos principales de la comarca. La carga pública de vehículos eléctricos en el interior de la Ribeira Sacra es limitada, así que sal con la batería cargada. El cargador rápido más cercano está en Monforte de Lemos. Reposta antes de entrar en las carreteras secundarias.",
+        "distance": "Gasolinera más cercana: ≈ 12 km · Cargador rápido: Monforte de Lemos"
       },
       {
         "id": "accessibility",
-        "name": "Accesibilidad y Movilidad Reducida",
+        "name": "Accesibilidad y movilidad reducida",
         "icon": "access",
-        "level": "Nivel de accesibilidad: Parcial",
-        "summary": "Accesos: camino asfaltado hasta el aparcamiento. Del aparcamiento al Balcón Principal: tramo de 180 m con pendiente moderada (≈ 6 %) — accesible con silla de ruedas asistida, no autónoma. Balcón Secundario: no accesible (escalones y senda de tierra). Se dispone de 2 plazas de aparcamiento reservadas a PMR en temporada alta. No existen aseos adaptados permanentes. Perros de asistencia admitidos sin restricción.",
-        "distance": "Consultar mejoras anuales en la web del Concello de Parada de Sil"
+        "level": "Accesibilidad: parcial",
+        "summary": "Carretera asfaltada hasta el aparcamiento. Del aparcamiento al Balcón Principal: tramo de ~180 m con pendiente moderada — accesible con silla de ruedas acompañada, no autónoma. Balcón Secundario: no accesible (escalones y camino de tierra). Sin aseos adaptados permanentes. Perros de asistencia admitidos sin restricción.",
+        "distance": "Consulta mejoras anuales en la web del Concello de Parada de Sil"
       },
       {
         "id": "pets",
-        "name": "Animales de Compañía y Mascotas",
+        "name": "Animales de compañía",
         "icon": "pet",
         "level": "Política general: con condiciones",
-        "summary": "El entorno es espacio natural público: los perros deben ir **siempre atados** según Ordenanza Municipal de Protección Animal y normas de Red Natura 2000 (prevención de alteraciones a aves rapaces y a fauna cinegética). Obligatorio portar bolsas para excrementos y retirarlos. Se desaconseja soltar a las mascotas durante la época de cría de aves (marzo – julio). No existe bebedero público en el mirador; llevar agua adicional para perros, especialmente en verano.",
-        "distance": "Aviso: no depositar excrementos en el bosque — riesgo de transmisión de parásitos a fauna silvestre"
+        "summary": "Los perros deben ir **atados en todo momento** según la ordenanza municipal y las normas Natura 2000 (para no molestar a aves rapaces y fauna). Lleva y recoge las bolsas de excrementos. Evita traer mascotas en época de cría (marzo – julio). No hay bebedero público en el mirador; lleva agua extra para los perros en verano.",
+        "distance": "Nota: no deposites excrementos en el bosque"
       },
       {
         "id": "medical",
-        "name": "Asistencia Sanitaria y Emergencias",
+        "name": "Sanidad y emergencias",
         "icon": "medical",
-        "level": "Puntos sanitarios próximos",
-        "summary": "Teléfono general de emergencias 112 (todo el territorio español). El consultorio médico más cercano funciona en horario de mañana dentro del centro de salud de Parada de Sil. Hospital de referencia: Hospital de Ourense (≈ 72 km). Recomendaciones especiales: si padece vértigo, no aproximarse al borde de los balcones; en verano llevar protección solar FPS ≥ 30, gorra, y agua; la incidencia de garrapatas en los senderos es moderada: revisar pantorrillas y perros después de caminar.",
-        "distance": "Centro de salud más cercano: ≈ 2,4 km (Parada de Sil) · Hospital comarcal: ≈ 72 km"
+        "level": "Puntos de salud cercanos",
+        "summary": "Teléfono de emergencia 112 (España). El centro de salud más cercano atiende por las mañanas en Parada de Sil. Hospital de referencia: Hospital de Ourense (≈ 72 km). Si sufres vértigo, no te acerques al borde; en verano lleva SPF ≥ 30, gorra y agua; la incidencia de garrapatas en los senderos es moderada.",
+        "distance": "Centro de salud más cercano: Parada de Sil (unos 1 km) · Hospital comarcal: ≈ 72 km"
       }
     ]
   },
   "sources": {
-    "title": "Fuentes Documentales y Lecturas Recomendadas",
-    "subtitle": "Referencias oficiales y bibliografía académica consultada para la elaboración de esta guía",
-    "intro": "Este sitio web se rige por los principios de transparencia metodológica propios de la investigación independiente sin ánimo de lucro. A continuación se relacionan las fuentes oficiales y académicas utilizadas para la redacción de los contenidos históricos, geológicos, ecológicos y turísticos. Se recomienda al lector interesado en profundizar acudir directamente a los organismos públicos enumerados.",
+    "title": "Fuentes y enlaces útiles",
+    "subtitle": "Fuentes oficiales y públicas utilizadas para esta guía independiente",
+    "intro": "Este sitio web es una guía de visita independiente y sin ánimo de lucro. No está afiliado al Concello de Parada de Sil ni a Turismo de la Ribeira Sacra. Los organismos públicos que aparecen abajo son las fuentes oficiales para novedades; las opiniones de los visitantes se publican en Google Maps.",
     "sections": [
       {
         "id": "official",
-        "title": "Organismos Oficiales y Portales Institucionales",
+        "title": "Organismos oficiales y portales públicos",
         "items": [
-          "Xunta de Galicia — Secretaría Xeral de Turismo. Portal Oficial de Turismo de Galicia (turismo.gal). Datos de la Red Oficial de Miradores y del Paisaje Cultural Protegido.",
-          "Concello de Parada de Sil. Ordenanzas municipales de tráfico, medio ambiente y uso de espacios públicos (última revisión 2023).",
-          "TURESPANHA (Instituto de Turismo de España — spain.info). Ficha regional de la Ribeira Sacra.",
-          "Mancomunidade da Ribeira Sacra Interior. Planes de Dinamización Turística y Red de Caminos Públicos.",
-          "Ministerio para la Transición Ecológica — Red Natura 2000. Ficha del Lugar de Importancia Comunitaria ES1120005 «Cañones del Sil y Cúa»."
+          "Concello de Parada de Sil — información municipal y ordenanzas locales.",
+          "Turismo Galicia (Xunta de Galicia) — portal oficial de turismo de Galicia (turismo.gal).",
+          "Turismo de la Ribeira Sacra — portal oficial de destino (turismo.ribeirasacra.org).",
+          "TURESPAÑA (Spain.info) — ficha regional de la Ribeira Sacra.",
+          "Red Natura 2000 (UE) — ficha del Lugar de Importancia Comunitaria ES1120005 «Cañones de los ríos Sil y Cúa»."
         ]
       },
       {
         "id": "academic",
-        "title": "Bibliografía Académica y Científica",
+        "title": "Lectura recomendada",
         "items": [
-          "Castiñeiras, X. & al. (2018). Catálogo toponímico da Comarca da Ribeira Sacra. Seminario de Filología Gallega — Universidade de Santiago de Compostela.",
-          "García-Moreiras, M. (2020). Evolución geomorfológica del cañón del Sil durante el Pleistoceno superior. Revista de Geología de Galicia, vol. 52, págs. 47–62.",
-          "Álvarez, I. (2017). Monasterios y paisaje cultural: la Ribeira Sacra entre los siglos IX y XV. Ediciós do Castro.",
-          "Rivas-Martínez, S. (2011). Memoria del Hábitat y Flora del LIC ES1120005 Cañones del Sil y Cúa. Universidad de Vigo — Dirección Xeral de Patrimonio Natural.",
-          "Cendrero, A. (2009). Paisaje, patrimonio y turismo sostenible: la Ribeira Sacra como caso de estudio. Cuadernos de Turismo, nº 23, Universidad de Murcia."
-        ]
-      },
-      {
-        "id": "folklore",
-        "title": "Literatura Oral y Fuentes Etnográficas",
-        "items": [
-          "López-Cuevillas, F. (1964). Mitos y Leyendas de Galicia. Ed. Galaxia (reimpresión 2019). Recogida del relato de Nosa Señora do Viso y los mouros del Sil.",
-          "Archivo de la Palabra Gallega (USC). Entrevistas orales grabadas en la parroquia de San Miguel de Parada de Sil (años 1970–1990).",
-          "Associaçom de Cultura Popular Galega. Cancioneiro e Romanceiro Popular da Ribeira Sacra (2015)."
+          "Oficina de turismo de la Ribeira Sacra — información de visita sobre los Balcones de Madrid / Os Torgás.",
+          "Xunta de Galicia — Ribeira Sacra, Destino de Interés Turístico y DO Ribeira Sacra.",
+          "Consulta los portales oficiales anteriores para mapas, señalización y detalles de acceso actualizados."
         ]
       }
     ],
-    "footerText": "Toda la información aquí publicada se actualiza de forma periódica y de manera independiente. Si detecta imprecisiones o desea contribuir con documentación, por favor diríjase a través de los canales oficiales de contacto del proyecto. Este sitio no acepta publicidad pagada ni colaboraciones comerciales, en coherencia con su naturaleza de asociación de investigación turística sin ánimo de lucro."
+    "footerText": "Toda la información se actualiza periódicamente de forma independiente. Si detectas un error, usa los canales oficiales indicados arriba. Este sitio no acepta publicidad ni colaboraciones comerciales."
   },
   "gallery": {
-    "title": "Galería de Fotos",
-    "subtitle": "Vistas de Balcóns de Madrid",
+    "title": "Galería de fotos",
+    "subtitle": "Vistas de los Balcones de Madrid",
     "captions": [
-      "Vista panorámica",
-      "Cañón del Sil",
-      "Paisaje de la Ribeira Sacra",
-      "Mirador",
-      "Naturaleza",
-      "Vistas de la zona",
+      "Vista panorámica del cañón del Sil",
+      "Cañón del río Sil",
+      "Viñas en terraza de la Ribeira Sacra",
+      "Mirador al atardecer",
+      "Parada de Sil y los alrededores",
+      "Promontorio de granito",
       "Vegetación autóctona",
-      "Atardecer",
-      "Paisaje otoñal",
-      "Río Sil",
-      "Mirador con vistas",
-      "Paisaje gallego",
-      "Senderismo",
-      "Naturaleza viva",
-      "Diversa flora",
-      "Paisaje fluvial",
-      "Ribeira Sacra",
-      "Vista panorámica total"
+      "Paisaje sobre el río",
+      "Colores de otoño",
+      "El río Sil",
+      "Vista panorámica completa",
+      "Paisaje del interior gallego",
+      "Sendero de caminata",
+      "Flora local"
     ],
     "viewAll": "Ver en Google Maps",
-    "showAll": "Ver Todas las Fotos",
-    "showLess": "Ver Menos",
-    "imageCopyright": "Todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor."
+    "showAll": "Ver todas las fotos",
+    "showLess": "Ver menos",
+    "imageCopyright": "Todas las imágenes de este sitio pertenecen a sus respectivos fotógrafos y están protegidas por derechos de autor."
   },
   "reviews": {
-    "title": "Reseñas de Visitantes",
-    "declaration": "Las reseñas de los visitantes se pueden consultar a través de Google Maps.",
-    "moreReviews": "Ver más reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos M.",
-        "rating": 5,
-        "date": "2026-04-10",
-        "text": "Unas vistas impresionantes. Sin duda uno de los miradores más bonitos de Galicia. Muy recomendable para una escapada en coche."
-      },
-      {
-        "name": "Laura G.",
-        "rating": 5,
-        "date": "2026-03-20",
-        "text": "El paisaje es espectacular, sobre todo al atardecer. Un lugar muy tranquilo para desconectar y disfrutar de la naturaleza."
-      },
-      {
-        "name": "Antonio R.",
-        "rating": 5,
-        "date": "2026-05-02",
-        "text": "Merece mucho la pena la visita. Las vistas del cañón del Sil son únicas. Llevad cámara porque las fotos quedan genial."
-      },
-      {
-        "name": "María S.",
-        "rating": 4,
-        "date": "2026-02-18",
-        "text": "Un sitio precioso en plena Ribeira Sacra. El acceso está bien, hay aparcamiento cerca y las vistas son de 10."
-      },
-      {
-        "name": "Javier L.",
-        "rating": 5,
-        "date": "2025-11-05",
-        "text": "Una maravilla de la naturaleza. El mirador está muy bien indicado y se puede disfrutar de unas vistas magníficas."
-      },
-      {
-        "name": "Elena F.",
-        "rating": 5,
-        "date": "2025-09-12",
-        "text": "Un lugar mágico. El silencio, el paisaje y el aire puro hacen de este sitio una visita obligada en Galicia."
-      }
-    ]
+    "title": "Opiniones de los visitantes",
+    "declaration": "Las opiniones de los visitantes se publican en Google Maps. No alojamos reseñas en este sitio.",
+    "moreReviews": "Leer opiniones en Google Maps",
+    "items": []
   },
   "mapSection": {
-    "title": "Ubicación y Cómo Visitar Balcóns de Madrid en Parada de Sil",
-    "subtitle": "32740 Parada de Sil, Province of Ourense, España",
+    "title": "Ubicación y cómo visitar los Balcones de Madrid",
+    "subtitle": "32740 Parada de Sil, Provincia de Ourense, España",
     "openMaps": "Ver en Google Maps",
-    "officialTourismText": "Para actualizaciones oficiales e información turística regional, visita el",
-    "officialTourismLink": "Portal Oficial de Turismo de Galicia / España"
+    "officialTourismText": "Para novedades oficiales e información turística regional, visita el",
+    "officialTourismLink": "Turismo Galicia / Spain.info"
   },
   "faq": {
-    "title": "Preguntas Frecuentes",
+    "title": "Preguntas frecuentes",
     "items": [
       {
-        "question": "¿Dónde se encuentra Balcóns de Madrid?",
-        "answer": "Balcóns de Madrid se encuentra en Parada de Sil, Ourense, España."
+        "question": "¿Dónde están los Balcones de Madrid?",
+        "answer": "Los Balcones de Madrid están en Parada de Sil, Ourense, Galicia, España — a unos 1 km del pueblo, sobre el cañón del río Sil en la Ribeira Sacra."
       },
       {
-        "question": "¿Es gratuita la visita a Balcóns de Madrid?",
-        "answer": "Sí, Balcóns de Madrid es un espacio público y de acceso gratuito durante todo el año."
+        "question": "¿Los Balcones de Madrid son gratuitos?",
+        "answer": "Sí. Los Balcones de Madrid son un mirador público y gratuito, abierto todo el año."
       },
       {
-        "question": "¿Cuáles son los lugares de interés cercanos a Balcóns de Madrid?",
-        "answer": "Cerca de Balcóns de Madrid se pueden visitar el Cañón del Río Sil y la región de la Ribeira Sacra, dos destinos emblemáticos de Galicia."
+        "question": "¿Cómo se llega a los Balcones de Madrid?",
+        "answer": "Desde el pueblo de Parada de Sil, sigue la señalización desde el ayuntamiento: unos 4 minutos en coche hasta la zona de aparcamiento habilitada y luego un paseo llano de unos 200 m por una pista de tierra hasta los balcones. A pie desde la plaza del pueblo son aproximadamente 1 km (15–20 minutos)."
       },
       {
-        "question": "¿Por qué se llama Balcóns de Madrid si está en Galicia?",
-        "answer": "Según estudios de filología gallega y el Catálogo Toponímico de la Ribeira Sacra, el topónimo Madrid deriva de madro (madroño, Arbutus unedo), árbol muy abundante en el promontorio, con evolución fonética popular. El plural Balcóns refiere a los dos promontorios gemelos."
+        "question": "¿Se escribe Balcones, Balcóns o Balcón de Madrid?",
+        "answer": "Todos se refieren al mismo mirador. La forma gallega es **Balcóns de Madrid** (tilde grave en la «ó», plural); en castellano aparece como **Balcones de Madrid**. También se conoce localmente como **Os Torgás** y como el **Mirador de los Balcones de Madrid**."
       },
       {
-        "question": "¿Qué servicios hay en el mirador? ¿Hay aseos y fuente?",
-        "answer": "El mirador no dispone de aseos permanentes ni de fuentes públicas. En temporada alta el Concello coloca un módulo químico de aseo portátil. Se recomienda llevar agua y hacer uso de los servicios en el núcleo poblacional más cercano (≈ 2,4 km)."
+        "question": "¿Por qué se llama Balcones de Madrid si está en Galicia?",
+        "answer": "Según la oficina de turismo de la Ribeira Sacra, las mujeres de Parada de Sil veían desde aquí partir hacia Madrid a sus maridos e hijos —muchos trabajando como vendedores ambulantes de barquillos. El mirador se convirtió en «los balcones de Madrid». El gallego **Balcóns** y el castellano **Balcones** son el mismo lugar."
+      },
+      {
+        "question": "¿Qué servicios hay en el mirador?",
+        "answer": "No hay aseos permanentes ni fuentes públicas en el mirador. Cerca hay una pequeña zona de aparcamiento gratuita. En temporada alta el Concello puede instalar un módulo químico portátil. Lleva agua y usa los servicios de Parada de Sil (unos 1 km)."
       }
     ]
   },
   "footer": {
-    "brandName": "Balcóns de Madrid",
-    "brandSubtitle": "Mirador · Parada de Sil, Ourense",
-    "rights": "© 2026 Balcóns de Madrid Asociación Independiente de Investigación Turística · Todos los derechos reservados.",
-    "privacy": "Política de Privacidad",
-    "terms": "Términos de Servicio",
-    "cookies": "Configuración de Cookies",
-    "officialResourcesTitle": "Recursos e Información Oficial",
+    "brandName": "Balcones de Madrid",
+    "brandSubtitle": "Mirador · Parada de Sil, Ribeira Sacra",
+    "rights": "© 2026 Balcones de Madrid — Guía de visita independiente · Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos oficiales e información",
     "officialLinks": {
-      "spainTourism": "Turismo España",
-      "ribeiraSacra": "Turismo Ribeira Sacra",
+      "spainTourism": "Spain.info",
+      "ribeiraSacra": "Turismo de la Ribeira Sacra",
       "naturalPaths": "Red de Caminos Naturales",
       "paradaSil": "Ayuntamiento de Parada de Sil",
       "turismoGalicia": "Turismo Galicia"
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial.",
-    "imageCopyright": "Derechos de las imágenes: todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor."
+    "disclaimer": "Este sitio web es una guía de visita independiente y sin ánimo de lucro. No está afiliado al Concello de Parada de Sil, a Turismo de la Ribeira Sacra ni a ningún organismo público.",
+    "imageCopyright": "Derechos de imagen: todas las imágenes pertenecen a sus respectivos fotógrafos y están protegidas por derechos de autor."
   },
   "privacy": {
-    "title": "Política de Privacidad",
-    "lastUpdated": "Última actualización: Mayo 2026",
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: octubre de 2026",
     "sections": [
       {
-        "title": "Recopilación de Información",
-        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para brindarle una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+        "title": "Recogida de información",
+        "content": "Cuando visitas nuestro sitio web, podemos recoger automáticamente información básica sobre tu dispositivo, navegador y comportamiento de navegación para ofrecerte una mejor experiencia. Esta información no contiene tu identidad personal."
       },
       {
-        "title": "Uso de Cookies",
-        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puede gestionar sus preferencias en cualquier momento a través de la opción Configuración de Cookies en la parte inferior de nuestro sitio."
+        "title": "Uso de cookies",
+        "content": "Usamos cookies para analizar el tráfico del sitio y optimizar el contenido. Puedes gestionar tus preferencias en cualquier momento en la opción de Configuración de cookies al pie del sitio."
       },
       {
-        "title": "Seguridad y Protección de Datos",
-        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con sus datos de navegación a ninguna organización comercial de terceros."
+        "title": "Seguridad y protección de datos",
+        "content": "Nos comprometemos a proteger la seguridad de tus datos y no venderemos, alquilaremos ni cederemos tus datos de navegación a ninguna organización comercial de terceros."
       }
     ]
   },
   "terms": {
-    "title": "Términos de Servicio",
-    "lastUpdated": "Última actualización: Mayo 2026",
+    "title": "Términos del servicio",
+    "lastUpdated": "Última actualización: octubre de 2026",
     "sections": [
       {
-        "title": "Contenido y Uso del Sitio Web",
-        "content": "Este sitio web proporciona información de viaje, transporte e historia sobre Balcóns de Madrid. Todo el contenido es solo para referencia. Los horarios de apertura y la información de entradas de las atracciones pueden cambiar en cualquier momento, consulte los anuncios oficiales."
+        "title": "Contenido y uso del sitio web",
+        "content": "Este sitio web ofrece información de viaje, transporte e información general sobre los Balcones de Madrid. Todo el contenido es solo de referencia. El horario y las condiciones de acceso pueden cambiar; consulta las fuentes oficiales enlazadas en el pie de página."
       },
       {
-        "title": "Propiedad Intelectual",
-        "content": "Los textos, imágenes y diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web con fines de lucro comercial."
+        "title": "Propiedad intelectual",
+        "content": "Los textos, imágenes y diseños de este sitio web están protegidos por derechos de autor. Sin permiso expreso por escrito, nadie puede usar el contenido con fines comerciales."
       },
       {
-        "title": "Derechos de autor de las imágenes",
-        "content": "Todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor. El sitio se ofrece únicamente con fines divulgativos y sin ánimo de lucro; si usted es el autor de alguna fotografía mostrada aquí y prefiere que se retire, póngase en contacto con nosotros a través de los canales oficiales indicados en el pie de página y la retiraremos con prontitud tras la verificación."
+        "title": "Derechos de imagen",
+        "content": "Todas las imágenes de este sitio pertenecen a sus respectivos fotógrafos y están protegidas por derechos de autor. El sitio se ofrece con fines educativos sin ánimo de lucro; si eres autor de alguna foto mostrada aquí y prefieres que la retiremos, contáctanos por los canales del pie de página y la retiraremos tras verificación."
       },
       {
-        "title": "Descargo de Responsabilidad",
-        "content": "Hacemos todo lo posible para garantizar la precisión y actualidad de la información, pero no nos hacemos responsables legalmente por cualquier retraso en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+        "title": "Aviso legal",
+        "content": "Hacemos todo lo posible por garantizar la exactitud y actualidad de la información, pero no nos hacemos responsables de retrasos o pérdidas derivados del uso de la información proporcionada."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Configuración de Cookies",
-    "description": "Gestione sus preferencias de cookies.",
+    "title": "Configuración de cookies",
+    "description": "Gestiona tus preferencias de cookies.",
     "essential": {
-      "title": "Cookies Esenciales",
-      "description": "Requerido para la funcionalidad básica del sitio web y no se puede desactivar.",
-      "badge": "Siempre activo"
+      "title": "Cookies esenciales",
+      "description": "Necesarias para el funcionamiento básico del sitio y no pueden desactivarse.",
+      "badge": "Siempre activas"
     },
     "analytics": {
-      "title": "Análisis",
-      "description": "Ayúdanos a entender el comportamiento de los visitantes y mejorar el sitio web."
+      "title": "Analíticas",
+      "description": "Nos ayudan a entender el comportamiento de los visitantes y a mejorar el sitio."
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Utilizado para seguimiento entre sitios y entrega de anuncios personalizados."
+      "description": "Usadas para seguimiento entre sitios y publicidad personalizada."
     },
-    "save": "Guardar Preferencias",
+    "save": "Guardar preferencias",
     "saved": "¡Preferencias guardadas!"
   },
   "officialManagement": {
-    "title": "Sobre Balcóns de Madrid",
-    "text": "Los Balcóns de Madrid son un mirador de referencia en la Ribeira Sacra, situado en Parada de Sil, en la provincia de Ourense, Galicia. La gestión del entorno y del mirador corre a cargo del Ayuntamiento de Parada de Sil, en coordinación con la Xunta de Galicia y las entidades de promoción turística de la Ribeira Sacra."
+    "title": "Sobre los Balcones de Madrid",
+    "text": "Los Balcones de Madrid son un mirador en la Ribeira Sacra, en Parada de Sil, Ourense, Galicia. El entorno y el acceso los gestiona el Concello de Parada de Sil, en coordinación con la Xunta de Galicia y los organismos de promoción turística de la Ribeira Sacra. Este sitio es una guía de visita independiente y no está gestionado por ninguno de esos organismos."
   }
 }

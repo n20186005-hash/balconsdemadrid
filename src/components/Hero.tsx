@@ -9,8 +9,8 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/balcons-de-madrid (1).jpg"
-          alt={t('imageAlt')}
+        src="/gallery/balcons-de-madrid-viewpoint.jpg"
+        alt={t('imageAlt')}
           className="w-full h-full object-cover"
           loading="eager"
           fetchPriority="high"

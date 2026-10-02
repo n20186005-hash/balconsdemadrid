@@ -3,10 +3,22 @@
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = Array.from({ length: 18 }, (_, i) => ({
-  src: `/gallery/balcons-de-madrid (${i + 1}).jpg`,
-  index: i + 1,
-}));
+const photos = [
+  { src: '/gallery/balcons-de-madrid-viewpoint.jpg', alt: 'Panoramic view of the Sil Canyon from Balcóns de Madrid in Parada de Sil' },
+  { src: '/gallery/balcons-de-madrid-sil-canyon.jpg', alt: 'The Sil River Canyon seen from Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-ribeira-sacra.jpg', alt: 'Terraced vineyards of the Ribeira Sacra near Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-sunset.jpg', alt: 'Sunset over the canyon at Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-parada-de-sil.jpg', alt: 'Parada de Sil and the surroundings of Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-terraced-vineyards.jpg', alt: 'Terraced vineyards descending to the Sil River' },
+  { src: '/gallery/balcons-de-madrid-nature.jpg', alt: 'Native vegetation around the Balcóns de Madrid viewpoint' },
+  { src: '/gallery/balcons-de-madrid-landscape.jpg', alt: 'Inland Galician landscape over the river' },
+  { src: '/gallery/balcons-de-madrid-autumn.jpg', alt: 'Autumn colours near Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-river.jpg', alt: 'The Sil River from above at Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-panorama.jpg', alt: 'Full panoramic view from the viewpoint' },
+  { src: '/gallery/balcons-de-madrid-galicia.jpg', alt: 'Galician inland landscape from the promontory' },
+  { src: '/gallery/balcons-de-madrid-hiking.jpg', alt: 'Walking trail near Balcóns de Madrid' },
+  { src: '/gallery/balcons-de-madrid-flora.jpg', alt: 'Local flora at Balcóns de Madrid' },
+];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
@@ -24,9 +36,7 @@ export default function Gallery() {
   const galleryPhotos = photos.map((photo, i) => ({
     ...photo,
     caption: captions[i] || `View ${i + 1}`,
-    alt: i === 0
-      ? `${entityFullName} - Main view in ${entityCity}, ${entityCountry}`
-      : `${captions[i] || 'Scenic view'} ${i + 1} - ${entityFullName} viewpoint`,
+    alt: photo.alt || `${captions[i] || 'Scenic view'} - ${entityFullName} viewpoint`,
   }));
 
   const goToPrevious = useCallback(() => {

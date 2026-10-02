@@ -9,16 +9,16 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const baseUrl = 'https://balconsdemadrid.com';
-  const zhUrl = `${baseUrl}/zh/privacy-policy`;
+  const glUrl = `${baseUrl}/gl/privacy-policy`;
   const enUrl = `${baseUrl}/en/privacy-policy`;
   const esUrl = `${baseUrl}/es/privacy-policy`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'es' ? esUrl : enUrl;
+  const selfUrl = locale === 'gl' ? glUrl : locale === 'es' ? esUrl : enUrl;
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'gl': glUrl,
         'en': enUrl,
         'es': esUrl,
         'x-default': enUrl,

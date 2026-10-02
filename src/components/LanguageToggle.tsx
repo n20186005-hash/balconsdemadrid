@@ -5,7 +5,7 @@ import { useRouter, usePathname, routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
-  zh: '中文',
+  gl: 'Galego',
   en: 'English',
   es: 'Español',
 };

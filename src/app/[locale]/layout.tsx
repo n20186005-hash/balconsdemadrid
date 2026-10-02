@@ -25,12 +25,12 @@ export async function generateMetadata({
   const entity = messages.entity;
   const baseUrl = `https://${entity.domain}`;
 
-  const zhUrl = `${baseUrl}/zh`;
+  const glUrl = `${baseUrl}/gl`;
   const enUrl = `${baseUrl}/en`;
   const esUrl = `${baseUrl}/es`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'es' ? esUrl : enUrl;
+  const selfUrl = locale === 'gl' ? glUrl : locale === 'es' ? esUrl : enUrl;
 
-  const heroImage = `${baseUrl}/gallery/balcons-de-madrid%20(1).jpg`;
+  const heroImage = `${baseUrl}/gallery/balcons-de-madrid-viewpoint.jpg`;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -39,12 +39,12 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'gl': glUrl,
         'en': enUrl,
         'es': esUrl,
-        'es-ES': esUrl,
-        'zh-CN': zhUrl,
+        'gl-ES': glUrl,
         'en-US': enUrl,
+        'es-ES': esUrl,
         'x-default': esUrl,
       },
     },
@@ -53,7 +53,7 @@ export async function generateMetadata({
       description: messages.meta.description,
       url: selfUrl,
       siteName: entity.fullName,
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'es' ? 'es_ES' : 'en_US',
+      locale: locale === 'gl' ? 'gl_ES' : locale === 'es' ? 'es_ES' : 'en_US',
       type: 'website',
       images: [
         {
@@ -117,7 +117,7 @@ export default async function LocaleLayout({
   const entity = (messages as any).entity;
   const faqItems = (messages as any).faq.items;
   const baseUrl = `https://${entity.domain}`;
-  const heroImage = `${baseUrl}/gallery/balcons-de-madrid%20(1).jpg`;
+  const heroImage = `${baseUrl}/gallery/balcons-de-madrid-viewpoint.jpg`;
 
   const touristAttractionSchema = {
     '@context': 'https://schema.org',
@@ -167,7 +167,34 @@ export default async function LocaleLayout({
     })),
   };
 
-  const htmlLang = locale === 'zh' ? 'zh-CN' : locale === 'es' ? 'es-ES' : 'en';
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: selfUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: entity.fullName,
+        item: selfUrl,
+      },
+    ],
+  };
+
+  const webSiteSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: entity.fullName,
+    url: baseUrl,
+    inLanguage: locale,
+  };
+
+  const htmlLang = locale === 'gl' ? 'gl' : locale === 'es' ? 'es-ES' : 'en';
 
   return (
     <html lang={htmlLang} suppressHydrationWarning>
@@ -184,6 +211,18 @@ export default async function LocaleLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(faqSchema),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(breadcrumbSchema),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(webSiteSchema),
           }}
         />
         <script
