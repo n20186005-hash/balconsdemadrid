@@ -6,9 +6,13 @@ const GROUP_LABELS: Record<string, Record<TopicLocale, string>> = {
   cerca: { es: 'Qué ver cerca', gl: 'Que ver preto', en: 'Nearby sights' },
   senderismo: { es: 'Senderismo', gl: 'Sendeirismo', en: 'Hiking' },
   comer: { es: 'Dónde comer', gl: 'Onde comer', en: 'Where to eat' },
+  bodegas: { es: 'Bodegas', gl: 'Bodegas', en: 'Wineries' },
   vino: { es: 'Vino y bodegas', gl: 'Viño e bodegas', en: 'Wine & wineries' },
   rutas: { es: 'Rutas', gl: 'Rutas', en: 'Itineraries' },
   miradores: { es: 'Miradores', gl: 'Miradoiros', en: 'Viewpoints' },
+  experiencias: { es: 'Experiencias', gl: 'Experiencias', en: 'Experiences' },
+  'donde-dormir': { es: 'Dónde dormir', gl: 'Onde durmir', en: 'Where to stay' },
+  visita: { es: 'Visita sin coche', gl: 'Visita sen coche', en: 'Visiting without a car' },
 };
 
 export default function TopicLinks({ locale }: { locale: TopicLocale }) {
