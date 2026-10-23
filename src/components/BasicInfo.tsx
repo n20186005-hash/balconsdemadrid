@@ -11,10 +11,6 @@ export default function BasicInfo() {
     { key: t('city'), value: t('cityValue') },
     { key: t('address'), value: t('addressValue') },
     { key: t('plusCode'), value: t('plusCodeValue') },
-    { key: t('elevation'), value: t('elevationValue') },
-    { key: t('annualRainfall'), value: t('annualRainfallValue') },
-    { key: t('avgTemperature'), value: t('avgTemperatureValue') },
-    { key: t('geologicalFormation'), value: t('geologicalFormationValue') },
     { key: t('protectionStatus'), value: t('protectionStatusValue') },
     { key: t('googleRating'), value: t('googleRatingValue') },
   ];

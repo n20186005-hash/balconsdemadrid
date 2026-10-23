@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Balcóns de Madrid, Ribeira Sacra – Miradoiro, aparcamento e como chegar",
-    "description": "Visita os Balcóns de Madrid en Parada de Sil, Ribeira Sacra. Aparcamiento, acceso a pé, como chegar, mellor hora para o solpor, fotos e vistas sobre o canón do Sil."
+    "title": "Balcóns de Madrid: como chegar e que ver preto | Parada de Sil",
+    "description": "Visita os Balcóns de Madrid en Parada de Sil, Ourense. Consulta como chegar, onde aparcar e que ver e comer preto nesta guía independente."
   },
   "entity": {
     "fullName": "Balcóns de Madrid",
@@ -31,7 +31,7 @@
     "title": "Miradoiro dos Balcóns de Madrid (Os Torgás)",
     "subtitle": "Guía de visita independente · Parada de Sil, Ribeira Sacra, Ourense",
     "rating": "4,6",
-    "reviewCount": "6.720 opinións",
+    "reviewCount": "6.770 opinións",
     "type": "Miradoiro",
     "openMaps": "Ver en Google Maps",
     "imageAlt": "Vista panorámica do canón do Sil desde os Balcóns de Madrid en Parada de Sil"
@@ -98,7 +98,7 @@
     "city": "Localidade",
     "cityValue": "Parada de Sil, Ourense, Galicia",
     "googleRating": "Valoración de Google",
-    "googleRatingValue": "4,6 / 5 sobre 6.720 opinións",
+    "googleRatingValue": "4,6 / 5 sobre 6.770 opinións",
     "address": "Enderezo",
     "addressValue": "32740 Parada de Sil, Provincia de Ourense, España",
     "plusCode": "Código Plus",
@@ -112,7 +112,7 @@
     "geologicalFormation": "Formación xeolóxica",
     "geologicalFormationValue": "Granito do Batólito Central Galego (Paleozoico)",
     "protectionStatus": "Estatuto de protección",
-    "protectionStatusValue": "Natura 2000 LIC ES1120005 · DO Ribeira Sacra"
+    "protectionStatusValue": "Red Natura 2000 · Ribeira Sacra (DO)"
   },
   "hours": {
     "title": "Horario e épocas de visita",
@@ -120,15 +120,15 @@
     "parkTime": "Abierto todo o ano (24 horas)",
     "bestTime": "Mellor época para visitar",
     "bestTimeSpring": "Primavera (abr–xuñ): floración, castiñeiros e amendoeiras en flor, sendeirismo sen calor",
-    "bestTimeSummer": "Verán (xul–ago): hora dourada 19:45–21:15, solpores extraordinarios",
-    "bestTimeAutumn": "Outono (set–nov): viñas na vendima, carballos en tons ocre e vermellos. Hora dourada 18:30–20:00",
-    "bestTimeWinter": "Inverno (dec–mar): néboa matinal ata as 10:30, paisaxes de soño. Evita os días de moita choiva",
-    "goldenHourTitle": "Horas douradas recomendadas para a fotografía",
-    "goldenHourSunrise": "Amencer (20 min antes – 20 min despois): luz cálida que ilumina o leito do Sil desde o leste",
-    "goldenHourSunset": "Solpor (hora dourada): momento óptimo para fotografía de longa exposición do canón",
+    "bestTimeSummer": "Verán (xul–ago): solpores extraordinarios; a hora exacta do solpor varía segundo a data",
+    "bestTimeAutumn": "Outono (set–nov): viñas na vendima, carballos en tons ocre e vermellos. A hora dourada varía coa data",
+    "bestTimeWinter": "Inverno (dec–mar): néboa matinal que adoita levantar a media mañá. Evita os días de moita choiva",
+    "goldenHourTitle": "Luz para a fotografía",
+    "goldenHourSunrise": "Amencer: luz cálida que ilumina o leito do Sil desde o leste; a hora depende do día do ano",
+    "goldenHourSunset": "Solpor (hora dourada): momento óptimo para fotografía de longa exposición do canón; a hora exacta varía coa data",
     "blueHourTitle": "Hora azul",
-    "blueHourDesc": "20–30 min tras o solpor (días despexados): reflexos violeta na auga do Sil e silueta do promontorio contra o ceo",
-    "tip": "O miradoiro é accesible 24 horas. Evita quedar tras escurecer pola néboa densa e a desorientación; as estradas locais non teñen alumeado público."
+    "blueHourDesc": "Nos minutos tras o solpor (días despexados) e segundo a época do ano: reflexos violeta na auga do Sil e silueta do promontorio contra o ceo",
+    "tip": "O miradoiro é accesible 24 horas. Os horarios de solpor cambian cada día: consulta a data concreta da túa visita. Evita quedar tras escurecer pola néboa densa e a desorientación; as estradas locais non teñen alumeado público."
   },
   "tickets": {
     "title": "Información de acceso",
@@ -155,52 +155,36 @@
     "drivingDesc": "O coche particular é a opción máis práctica. O último quilómetro é unha pista sen asfaltar dun carril con lugares de adiantamento. Os vehículos grandes (autobuses) deben consultar o acceso co Concello en tempada alta."
   },
   "route": {
-    "title": "Rutas de visita por dificultade",
-    "intro": "Propóñense tres circuitos curtos segundo o tempo dispoñible e o interese. Todas as rutas comezan e terminan no aparcamento dos Balcóns de Madrid.",
+    "title": "Como percorrer os Balcóns de Madrid",
+    "intro": "O miradoiro visítase cun paseo curto e chan desde o aparcamento. Para rutas de sendeirismo máis longas, a zona forma parte da rede de camiños sinalizados da Ribeira Sacra (por exemplo a PR-G 98, Canón do Sil – Santa Cristina).",
     "levels": [
       {
         "id": "light",
-        "levelName": "Nivel fácil · Panorámica",
-        "duration": "Duración: 25 – 35 min · Distancia: 0,9 km",
-        "elevation": "Desnivel acumulado: +25 m / -25 m",
-        "audience": "Apto para: familias, visitantes con mobilidade reducida leve, visitas rápidas",
-        "highlights": "Contido: miradoiro principal, balcón secundario, paneis informativos, vista panorámica completa da revolta do Sil. Sen tramos técnicos.",
+        "levelName": "Paseo ao miradoiro (desde o aparcamento)",
+        "duration": "Duración: 5–10 min · 0,2 km",
+        "elevation": "Desnivel: ≈ 10 m",
+        "audience": "Apto para: case todos os visitantes, familias e visitas rápidas",
+        "highlights": "Contido: aparcamento habilitado → pista de terra chan → Balcón Principal e Balcón Secundario sobre a revolta do Sil. Sen tramos técnicos.",
         "steps": [
-          "Saída do aparcamento e panel de introdución do miradoiro",
-          "180 m de camiño ata o Balcón Principal (miradoiro 1)",
-          "Observación panorámica e fotografía do canón do Sil",
-          "Continúa 300 m polo sendeiro sinalizado ata o Balcón Secundario (miradoiro 2) — viñas en socalco",
+          "Saída do aparcamento habilitado",
+          "Paseo chan de uns 200 m por pista de terra ata o Balcón Principal",
+          "Observación e fotografía do canón do Sil",
+          "Tramo curto ata o Balcón Secundario (viñas en socalco)",
           "Regreso polo mesmo camiño ao aparcamento"
         ]
       },
       {
-        "id": "medium",
-        "levelName": "Nivel medio · Sendeirismo",
-        "duration": "Duración: 1 h 30 min · Distancia: 4,2 km",
-        "elevation": "Desnivel acumulado: +180 m / -180 m",
-        "audience": "Apto para: sendeiristas ocasionais, calzado deportivo pechado, 500 ml de auga/persoa",
-        "highlights": "Contido: ambos balcóns, percorrido polos bancales de vide, punto de observación de aves rapaces, regreso por sendeiro sinalizado. Paisaxe cultural protexido DO Ribeira Sacra.",
+        "id": "hike",
+        "levelName": "Sendeirismo sinalizado na zona (PR-G 98)",
+        "duration": "Distancia e desnivel: consulta a fonte oficial de Turismo da Ribeira Sacra",
+        "elevation": "Ruta de maior percorrido que o paseo ao miradoiro",
+        "audience": "Apto para: sendeiristas; calzado axeitado e auga",
+        "highlights": "Contido: a PR-G 98 (Canón do Sil – Santa Cristina) é unha ruta circular sinalizada que percorre o contorno e conecta con miradoiros e a ermida de Santa Cristina. Non sae do aparcamento do miradoiro; é unha camiñada distinta.",
         "steps": [
-          "Aparcamiento → Balcón Principal → Balcón Secundario",
-          "Descenso polo sendeiro ata o punto de observación de aves",
-          "Tramo polos bancales de vide, respectando a propiedade privada",
-          "Conexión coa pista forestal e regreso pola ladeira leste",
-          "Reentrada na zona do miradoiro e volta ao aparcamento"
-        ]
-      },
-      {
-        "id": "advanced",
-        "levelName": "Nivel avanzado · Ribeira Sacra completa",
-        "duration": "Duración: 4 h 30 min · Distancia: 11,8 km",
-        "elevation": "Desnivel acumulado: +520 m / -520 m",
-        "audience": "Apto para: sendeiristas experimentados, botas de montaña, 1,5 L de auga, protección solar e comida",
-        "highlights": "Contido: miradoiro + descenso parcial ao leito do Sil, bosque de ribeira, regreso pola crista norte. Recomendado na primavera e outono, nunca en días chuviosos ou de treboada.",
-        "steps": [
-          "Aparcamiento → Balcón Principal → sendeiro completo (dirección sueste)",
-          "Descenso técnico cara ao leito (regato permanente)",
-          "Tramo chan polo bosque de ribeira ata unha masía arruinada do s. XIX",
-          "Ascenso pola crista norte (tramo máis duro, con cordas de apoio en dous puntos)",
-          "Cume da crista → cruce de pistas forestais → regreso ao aparcamento"
+          "Consulta o trazado e punto de inicio en turismo.ribeirasacra.org",
+          "Leva calzado de monte, auga e protección solar",
+          "Reserva tempo suficiente; non é o paseo de 200 m do miradoiro",
+          "Combínaa cunha visita a Santa Cristina se o percorrido o permite"
         ]
       }
     ]

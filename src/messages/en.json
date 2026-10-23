@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Balcóns de Madrid, Ribeira Sacra – Viewpoint, Parking & How to Get There",
-    "description": "Visit Balcóns de Madrid in Parada de Sil, Ribeira Sacra. Find parking, walking access, directions, the best time for sunset, photos and views over the Sil Canyon."
+    "title": "Balcóns de Madrid: how to get there & what to see nearby | Parada de Sil",
+    "description": "Visit Balcóns de Madrid in Parada de Sil, Ourense. Find directions, parking and what to see and eat nearby in this independent guide."
   },
   "entity": {
     "fullName": "Balcóns de Madrid",
@@ -31,7 +31,7 @@
     "title": "Balcóns de Madrid Viewpoint",
     "subtitle": "Independent visitor guide · Parada de Sil, Ribeira Sacra, Ourense",
     "rating": "4.6",
-    "reviewCount": "6,720 reviews",
+    "reviewCount": "6,770 reviews",
     "type": "Viewpoint",
     "openMaps": "View on Google Maps",
     "imageAlt": "Panoramic view of the Sil Canyon from Balcóns de Madrid in Parada de Sil"
@@ -98,7 +98,7 @@
     "city": "Locality",
     "cityValue": "Parada de Sil, Ourense, Galicia",
     "googleRating": "Google rating",
-    "googleRatingValue": "4.6 / 5 from 6,720 reviews",
+    "googleRatingValue": "4.6 / 5 from 6,770 reviews",
     "address": "Address",
     "addressValue": "32740 Parada de Sil, Province of Ourense, Spain",
     "plusCode": "Plus Code",
@@ -112,7 +112,7 @@
     "geologicalFormation": "Geological Formation",
     "geologicalFormationValue": "Granite of the Central Galician Batholith (Paleozoic)",
     "protectionStatus": "Protection Status",
-    "protectionStatusValue": "Natura 2000 SCI ES1120005 · Ribeira Sacra DO"
+    "protectionStatusValue": "Natura 2000 network · Ribeira Sacra (DO)"
   },
   "hours": {
     "title": "Visiting Hours & Seasons",
@@ -120,15 +120,15 @@
     "parkTime": "Open all year (24 hours)",
     "bestTime": "Best Season to Visit",
     "bestTimeSpring": "Spring (Apr–Jun): blossom, chestnut & almond trees in flower, hiking without heat",
-    "bestTimeSummer": "Summer (Jul–Aug): Golden Hour 19:45–21:15, extraordinary sunsets",
-    "bestTimeAutumn": "Autumn (Sep–Nov): Vineyards at harvest, oaks in ochre & red tones. Golden Hour 18:30–20:00",
-    "bestTimeWinter": "Winter (Dec–Mar): Morning mist till 10:30, dreamlike landscapes. Avoid heavy rain days",
-    "goldenHourTitle": "Recommended Golden Hours for Photography",
-    "goldenHourSunrise": "Sunrise (20 min before – 20 min after): warm light illuminating the Sil riverbed from the east",
-    "goldenHourSunset": "Sunset (Golden Hour): optimal time for long-exposure landscape photography of the canyon",
+    "bestTimeSummer": "Summer (Jul–Aug): extraordinary sunsets; the exact sunset time varies by date",
+    "bestTimeAutumn": "Autumn (Sep–Nov): Vineyards at harvest, oaks in ochre & red tones. Golden hour varies by date",
+    "bestTimeWinter": "Winter (Dec–Mar): morning mist that usually lifts by mid-morning. Avoid heavy rain days",
+    "goldenHourTitle": "Light for photography",
+    "goldenHourSunrise": "Sunrise: warm light illuminating the Sil riverbed from the east; the time depends on the day of the year",
+    "goldenHourSunset": "Sunset (Golden Hour): optimal time for long-exposure canyon photography; the exact time varies by date",
     "blueHourTitle": "Blue Hour",
-    "blueHourDesc": "20–30 min after sunset (clear days): violet reflections on the Sil water and silhouette of the promontory against the sky",
-    "tip": "The viewpoint is accessible 24 hours a day. Avoid remaining after dark due to dense fog and disorientation; local roads have no public lighting."
+    "blueHourDesc": "In the minutes after sunset (clear days) and depending on the season: violet reflections on the Sil water and silhouette of the promontory against the sky",
+    "tip": "The viewpoint is accessible 24 hours a day. Sunset times change every day: check the specific date of your visit. Avoid staying after dark because of dense fog and disorientation; local roads have no public lighting."
   },
   "tickets": {
     "title": "Access Information",
@@ -155,52 +155,36 @@
     "drivingDesc": "A private car is the most practical option. The last kilometre is a single-lane unpaved track with passing places. Larger vehicles (tour buses) should check access with the Concello in high season."
   },
   "route": {
-    "title": "Visit Routes by Difficulty Level",
-    "intro": "Three short circuits are suggested according to available time and interest. All routes start and end at the Balcóns de Madrid parking area.",
+    "title": "How to walk the Balcóns de Madrid",
+    "intro": "The viewpoint is reached by a short, flat walk from the car park. For longer hikes, the area is part of the signposted trail network of the Ribeira Sacra (for example the PR-G 98, Cañón do Sil – Santa Cristina).",
     "levels": [
       {
         "id": "light",
-        "levelName": "Light Level · Panoramic",
-        "duration": "Duration: 25 – 35 min · Distance: 0.9 km",
-        "elevation": "Cumulative elevation gain: +25 m / -25 m",
-        "audience": "Suitable for: families, visitors with mild reduced mobility, quick visits",
-        "highlights": "Content: main viewpoint, secondary balcony, information panels, complete panoramic view of the Sil meander. No technical sections.",
+        "levelName": "Walk to the viewpoint (from the car park)",
+        "duration": "Duration: 5–10 min · 0.2 km",
+        "elevation": "Elevation gain: ≈ 10 m",
+        "audience": "Suitable for: almost all visitors, families and quick stops",
+        "highlights": "Content: designated car park → flat dirt track → Main Balcony and Secondary Balcony over the Sil meander. No technical sections.",
         "steps": [
-          "Departure from the car park and viewpoint introduction panel",
-          "180 m path to the Main Balcony (viewpoint 1)",
-          "Panoramic observation and photography of the Sil Canyon",
-          "Continue 300 m along the signposted path to the Secondary Balcony (viewpoint 2) — terraced vineyards",
+          "Start at the designated car park",
+          "Flat ~200 m walk along a dirt track to the Main Balcony",
+          "Observation and photography of the Sil Canyon",
+          "Short stretch to the Secondary Balcony (terraced vineyards)",
           "Return by the same path to the car park"
         ]
       },
       {
-        "id": "medium",
-        "levelName": "Medium Level · Hiking",
-        "duration": "Duration: 1 h 30 min · Distance: 4.2 km",
-        "elevation": "Cumulative elevation gain: +180 m / -180 m",
-        "audience": "Suitable for: occasional hikers, closed sports footwear, 500 ml water/person",
-        "highlights": "Content: both balconies, tour through terraced vineyard benches, bird-of-prey observation point, return via a signposted trail. Protected cultural landscape DO Ribeira Sacra.",
+        "id": "hike",
+        "levelName": "Signposted hiking in the area (PR-G 98)",
+        "duration": "Distance and elevation: check the official Ribeira Sacra Tourism source",
+        "elevation": "A longer route than the viewpoint walk",
+        "audience": "Suitable for: hikers; proper footwear and water",
+        "highlights": "Content: the PR-G 98 (Cañón do Sil – Santa Cristina) is a signposted circular route through the surroundings, linking viewpoints and the Santa Cristina hermitage. It does not start at the viewpoint car park; it is a different walk.",
         "steps": [
-          "Car park → Main Balcony → Secondary Balcony",
-          "Descent along the trail to the bird observation point",
-          "Stretch along vineyard terraces, respecting private property",
-          "Connection with the forest track and return along the eastern slope",
-          "Re-entry to the viewpoint area and return to the car park"
-        ]
-      },
-      {
-        "id": "advanced",
-        "levelName": "Advanced Level · Full Ribeira Sacra",
-        "duration": "Duration: 4 h 30 min · Distance: 11.8 km",
-        "elevation": "Cumulative elevation gain: +520 m / -520 m",
-        "audience": "Suitable for: experienced hikers, mountain boots, 1.5 L water, sun protection and packed lunch",
-        "highlights": "Content: viewpoint + partial descent to the Sil riverbed, riparian forest, return via the north ridge. Recommended in spring and autumn, never on rainy or stormy days.",
-        "steps": [
-          "Car park → Main Balcony → full trail (south-east direction)",
-          "Technical descent towards the riverbed (permanent watercourse)",
-          "Flat stretch along the riparian forest to a ruined 19th-century masía",
-          "Ascent along the north ridge (hardest section, with support ropes at two points)",
-          "Ridge summit → forest track crossroads → return to the Balcóns de Madrid parking area"
+          "Check the route and start point at turismo.ribeirasacra.org",
+          "Take hiking shoes, water and sun protection",
+          "Allow enough time; this is not the 200 m viewpoint walk",
+          "Combine it with a visit to Santa Cristina if the route allows"
         ]
       }
     ]
